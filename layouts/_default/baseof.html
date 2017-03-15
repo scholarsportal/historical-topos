@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head.html" . }}
+  {{ partial "scripts.html" . }}
+</head>
+<body>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              {{ partial "sidebar.html" . }}
+              {{ block "main" . }}
+              {{ end }}
+          </div>
+      </div>
+  </div>
+</body>
+</html>

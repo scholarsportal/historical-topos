@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobileNavToggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+          {{ .Content }}
+            {{ if isset .Params "fullimage" }}
+            {{ $url := .Site.BaseURL }}
+              <p><em>Hover over the map with your cursor to magnify an area, and scroll to zoom in and out</em></p>
+              <img id="{{ .Params.id }}" src="{{ $url }}{{ .Params.fullimage }}" class="img-responsive full-map" data-zoom-image="{{ $url }}{{ .Params.fullimage }}">
+              <script>
+                $("#{{ .Params.id }}").ezPlus({
+                  scrollZoom : true,
+                  touchEnabled: false,
+                  responsive: true,
+                  respond: [
+                  {
+                      range: '1351-1399',
+                      zoomWindowHeight: 400,
+                      zoomWindowWidth: 400
+                  },
+                  {
+                      range: '1200-1350',
+                      zoomWindowHeight: 350,
+                      zoomWindowWidth: 350
+                  },
+                  {
+                      range: '0-1199',
+                      zoomType: 'lens',
+                      lensShape: 'round',
+                      lensSize: 200
+                  }
+                ]
+                });
+              </script>
+            {{ end }}
+          {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
