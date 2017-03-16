@@ -1,7 +1,7 @@
 +++
 title = "North Bay, Ontario. 1:25,000. Map Sheet 031L06D, ed. 1, 1965"
 draft = false
-thumbnail = "img/thumb/031L06d_1965.jpg"
+thumbnail = "img/thumb/031L06d_1965.gif"
 fullimage = "img/full/031L06d_1965.jpg"
 showonlyimage = false
 id = "031L06d_1965"

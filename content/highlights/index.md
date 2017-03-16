@@ -4,6 +4,18 @@ title = "Collection Highlights"
 
 *In development*
 
+
+<!-- Testing out new JS -->
+<div class="juxtapose">
+    <img src="../img/highlights/030M11_1909.jpg" data-label="1909" />
+    <img src="../img/highlights/030M11_1918.jpg" data-label="1918" />
+</div>
+<script src="../js/juxtapose.js"></script>
+<link rel="stylesheet" href="../css/juxtapose.css">
+<!-- 
+
+<br><br>
+
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../css/slider-style.css">
 
@@ -19,11 +31,10 @@ title = "Collection Highlights"
 			<img src="../img/highlights/030M11_1918.jpg" alt="Modified Image">
 			<span class="cd-image-label" data-type="modified">1918</span>
 		</div>
-		<span class="cd-handle"></span>
+		<span class="cd-handle" role="slider"></span>
 	</figure>
 </div>
 
-<br>
 
 <div class="no-js">
 	<figure class="cd-image-container">
@@ -36,3 +47,4 @@ title = "Collection Highlights"
 		<span class="cd-handle"></span>
 	</figure>
 </div>
+-->

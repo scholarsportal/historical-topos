@@ -1,7 +1,7 @@
 +++
 title = "Dog Lake, Ontario. 1:25,000. Map Sheet 031C08F, ed. 2, 1972"
 draft = false
-thumbnail = "img/thumb/031C08f_1972.jpg"
+thumbnail = "img/thumb/031C08f_1972.gif"
 fullimage = "img/full/031C08f_1972.jpg"
 showonlyimage = false
 id = "031C08f_1972"

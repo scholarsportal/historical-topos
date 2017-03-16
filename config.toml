@@ -1,5 +1,5 @@
-# baseurl = "http://ocul.on.ca/topomaps/"
-baseurl = "https://staticdev.scholarsportal.info/hist-topos/"
+baseurl = "http://ocul.on.ca/topomaps/"
+#baseurl = "https://staticdev.scholarsportal.info/hist-topos/"
 title = "Historical Topographic Map Digitization Project - Preserving Ontario’s Past"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -48,17 +48,17 @@ url = "about-maps/"
 name = "About the Project"
 url = "about-project/"
 
-[[params.navlinks]]
-name = "Collection Highlights"
-url = "highlights/"
+#[[params.navlinks]]
+#name = "Collection Highlights"
+#url = "highlights/"
 
-[[params.navlinks]]
-name = "Using the Maps"
-url = "using-maps/"
+#[[params.navlinks]]
+#name = "Using the Maps"
+#url = "using-maps/"
 
-[[params.navlinks]]
-name = "Full Collection"
-url = "index/"
+#[[params.navlinks]]
+#name = "Full Collection"
+#url = "index/"
 
 [[params.navlinks]]
 name = "Contact"

@@ -1,7 +1,7 @@
 +++
 title = "Tobermory, Ontario. 1:63,360. Map Sheet 041H03-H04, [ed. 1], 1946"
 draft = false
-thumbnail = "img/thumb/041H03-H04_1946.jpg"
+thumbnail = "img/thumb/041H03-H04_1946.gif"
 fullimage = "img/full/041H03-H04_1946.jpg"
 showonlyimage = false
 id = "041H03-H04_1946"

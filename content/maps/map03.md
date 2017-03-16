@@ -1,7 +1,7 @@
 +++
 title = "Golden Lake, Ontario. 1:63,360. Map Sheet 031F11, [ed. 1], 1937"
 draft = false
-thumbnail = "img/thumb/031F11_1937.jpg"
+thumbnail = "img/thumb/031F11_1937.gif"
 fullimage = "img/full/031F11_1937.jpg"
 showonlyimage = false
 id = "031F11_1937"
