@@ -10,15 +10,15 @@
          <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
            <div class="controls">
              <div class="form-group">
-               <label for="name">Your name *</label>
+               <label for="name">{{ i18n "name" }}</label>
                <input type="text" name="name" id="name" required="required" class="form-control">
              </div>
              <div class="form-group">
-               <label for="email">Your email *</label>
+               <label for="email">{{ i18n "email" }}</label>
                <input type="email" name="email" id="email" required="required" class="form-control">
              </div>
              <div class="form-group">
-               <label for="message">Your message *</label>
+               <label for="message">{{ i18n "message" }}</label>
                <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
              </div>
              <div>

@@ -10,9 +10,20 @@
 	color: #4c4c4c;
 }
 
- .sidebar-submenu {
+/* Reduce padding on map tiles on home page */
+.box-masonry .box-masonry-text {
+	padding: 0px 15px 0px;
+}
+
+.subtitle {
+	font-size: 18px;
+	font-style: italic;
+	margin-bottom: 0px;
+}
+
+.sidebar-submenu {
  	margin-bottom: 0px;
- }
+}
 
 .content-column-content li {
 	color: #4c4c4c;
@@ -23,14 +34,12 @@
 }
 
 /* About the Maps page */
-
 .timeline-year {
 	font-weight: bold;
 	font-size: 18px;
 }
 
 /* Index page */
-
 .sheet-item {
 	display: none;
 }
@@ -45,9 +54,11 @@
 	font-size: 19px;
 }
 
+/* Using the maps page */
 .using-maps {
 	margin-left: 0px;
 }
+
 
 input {
 	-webkit-border-radius: 7px;
@@ -58,7 +69,6 @@ input {
 	width: 250px;
 	padding: 10px;
 }
-
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   color: #515151;
@@ -78,3 +88,4 @@ input:focus {
 	box-shadow: 0 0 3px 2px #969696;
 	outline: none;
 }
+

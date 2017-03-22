@@ -1,25 +1,22 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-    {{ range .Site.Params.sidebarAbout }}
-      <p class="sidebar-p">{{ . | safeHTML }}</p>
-    {{ end }}
+    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a></h1>
+    <p class="sidebar-p">{{ i18n "sidebarAbout" | safeHTML }}</p>
     <ul class="sidebar-menu">
       {{ $url := .Site.BaseURL }}
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
-    {{ partial "socialButtonsInSideBar.html" . }}
-    
+    <p class="translation"> {{ partial "translate.html" . }} <br></p>
     <img src="{{ $url }}{{ .Site.Params.logo | safeHTML }}" alt="Ontario Council of University Libraries logo" class="img-responsive logo">
-
     <br>
     <div class="copyright">
       <p class="credit">
         {{ with .Site.Params.copyright }}
           {{ . | safeHTML }}
         {{ end }}
+        {{ partial "socialButtonsInSideBar.html" . }}
         {{ partial "attribution.html" . }}
       </p>
     </div>
