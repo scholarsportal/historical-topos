@@ -4,6 +4,8 @@
 
 (function (document, window) {
 
+  window.onresize = function(){ location.reload(); }
+  
   var juxtapose = {
     sliders: [],
     OPTIMIZATION_ACCEPTED: 1,

@@ -5,7 +5,7 @@ title = "Collection Highlights"
 
 Topographic maps can provide historical snapshots that allow you to explore changes to an area over time.  Check out the examples below to see how these maps can be used to visualize transforming landscapes, urban areas, and waterways in Ontario. 
 
-Old maps are cool! If you are using these maps in an interesting way, we would love to hear from you. Please [contact us](../contact) and let us know how you are using these maps in your own projects.  
+Old maps are cool! If you are using these maps in an interesting way, we would love to hear from you. Please [contact us](../contact/) and let us know how you are using these maps in your own projects.  
 
 ## The Port Lands of Toronto 
 

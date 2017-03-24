@@ -14,7 +14,7 @@ title = "FAQ"
 
 ## Can I use these maps in a publication or website? 
 
-Yes! These maps are completely open access and in the public domain, you are free to adapt and re-use them in a publication of any medium. Please be sure to properly cite the maps, and acknowledge their source. If you use these maps in a publication, we’d love to hear from you (http://ocul.on.ca/topomaps/contact/)!
+Yes! These maps are completely open access and in the public domain, you are free to adapt and re-use them in a publication of any medium. Please be sure to properly cite the maps, and acknowledge their source. If you use these maps in a publication, [we’d love to hear from you](http://ocul.on.ca/topomaps/contact/)!
 
 ## If I use these maps in a publication, how do I cite them?
 
@@ -36,17 +36,17 @@ Not quite sure what you can make from old maps? [Brit + Co has some neat ideas t
 
 ## Where can I find newer topographical maps?
 
-Many topographical maps published after 1977 can be found on Geogratis (http://geogratis.cgdi.gc.ca/), which is maintained by Natural Resources Canada. Some printed maps may also be found at your local university library.
+Many topographical maps published after 1977 can be found on [Geogratis](http://geogratis.cgdi.gc.ca/), which is maintained by Natural Resources Canada. Some printed maps may also be found at your local university library.
 
 ## Where can I find printed copies of these maps?
 
 For help with locating and selecting maps from this collection, or for newer maps, you can get help from your local university library. 
 
-If you would like to know the location of a specific printed map that was digitized as part of this project, please contact us (http://ocul.on.ca/topomaps/contact).
+If you would like to know the location of a specific printed map that was digitized as part of this project, please [contact us](../contact/).
 
 ## How large are the printed maps?
 
 The dimensions for the original, printed maps are (approximately):
 
 For the 1:63,360 maps: 30” x 25” or 76cm x 64cm
-For the 1:25,000 maps: 29” x 22.5” or 74cm x 57cm 
+For the 1:25,000 maps: 29” x 22.5” or 74cm x 57cm

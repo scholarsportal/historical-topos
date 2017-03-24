@@ -30,8 +30,8 @@ Recherche par nom de feuille"/>
 
       lines += '<div class="' + title + '-section sheet-item">';
       lines += '<p>Year: ' + jsontext[i].year + ' | ';
-      lines += '<a href="http://geodev.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
-      lines += '<a href="http://geostaging.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
+      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
+      lines += '<a href="http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
       lines += '</div>';
 
       // append the content into the div with the same id

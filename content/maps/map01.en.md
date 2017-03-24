@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Bath, Ontario
 
 The survey for this map was conducted in 1907, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
 
-<!-- [View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=) | [Download original](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/) -->
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C02_1916TIFF&_add:true) | [Download image](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/HTDP63360K031C02_1916TIFF.jpg)

@@ -5,7 +5,7 @@ title = "Using the Maps"
 
 <ul class="contents">
 	<li><a href="#finding-maps">Finding maps</a></li>
-	<li><a href="#exploring-the-maps">Exploring the maps</a></li>
+	<li><a href="#exploring-maps">Exploring maps</a></li>
 	<li><a href="#downloading-maps">Downloading maps</a></li>
 	<li><a href="#advanced-searching">Advanced searching</a></li>
 </ul>
@@ -98,7 +98,7 @@ Rich metadata has been created for each map sheet which can be explored by click
 
 ## Downloading maps 
 
-Once you have selected a map, you can download the map as a GeoTIFF, which has geolocation information embedded in the file for use in a Geographic Information System (GIS). If you would prefer to download a JPG of the image, navigate to [_Full Collection_](../fullcollection) and click the _Download_ option beside the desired map.
+Once you have selected a map, you can download the map as a GeoTIFF, which has geolocation information embedded in the file for use in a Geographic Information System (GIS). If you would prefer to download a JPG of the image, navigate to [_Full Collection_](../collection/) and click the _Download_ option beside the desired map.
 
 Each map sheet can be downloaded by clicking the _Download_ button on the map listing. 
 
@@ -108,7 +108,7 @@ Each map sheet can be downloaded by clicking the _Download_ button on the map li
 
 This will trigger a pop-up and thus might require your browser’s popup blocker to be disabled (clicking the _Download_ button again should overcome this).  
 
-**Tip:** Old maps are cool! If you have downloaded these maps and are using them in an interesting way, we would love to hear from you. Please [contact us](../contact) and let us know how you are using these maps in your own projects. 
+**Tip:** Old maps are cool! If you have downloaded these maps and are using them in an interesting way, we would love to hear from you. Please [contact us](../contact/) and let us know how you are using these maps in your own projects. 
 
 ## Advanced Searching
 

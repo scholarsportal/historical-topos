@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Algonquin, On
 
 The photograph used to create this map was originally taken in 1963, by the Hunting Survey Corporation Limited, based out of Toronto, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
 
-<!-- [View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=) | [Download original](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/) -->
+[View in Scholars GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031B12g_1968TIFF&_add:true) | [Download image](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/HTDP25K031B12g_1968TIFF.jpg)

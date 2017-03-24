@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Ottawa, Ontar
 
 The photograph used to create this map was originally taken in 1968, by the Survair Limited, based out of Ottawa, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
 
-<!-- [View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=) | [Download original](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/) -->
+[View in Scholars GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031G05g_1971TIFF&_add:true) | [Download image](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/HTDP25K031G05g_1971TIFF.jpg)
