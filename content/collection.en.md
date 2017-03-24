@@ -3,9 +3,9 @@ date = "2017-03-16"
 title = "Full Collection"
 +++
 
-To find maps by place name, use the search box or scroll through the list below. Once you have found a map, select View in GeoPortal to visualize this map in the Scholar’s Portal GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
+To find maps by place name, use the search box or scroll through the list below. Once you have found a map, select View in GeoPortal to visualize this map in the Scholars GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
 
-For more information on using the map index and searching maps in the GeoPortal, see [‘Using the Maps’](../using-maps).
+For more information on using the map index and searching maps in Scholars GeoPortal, see [Using the Maps](../using-maps/).
 
 <input placeholder="Search by sheet map name" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
 

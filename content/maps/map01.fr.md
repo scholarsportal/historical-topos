@@ -8,8 +8,6 @@ id = "031C02_1916"
 weight = 1
 +++
 
-French test
-
 This is a georeferenced raster image of a printed paper map of the Bath, Ontario region (Sheet No. 63), published in 1916. It is the first edition in a series of four maps, published between 1916 and 1939.
 <!--more-->
 

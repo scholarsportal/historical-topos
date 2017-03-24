@@ -12,6 +12,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
 logo = "img/ocul.png"
+logourl = "http://ocul.on.ca"
 style = "blue"
 email = "kaitlin@scholarsportal.info"
 
@@ -44,32 +45,38 @@ url = "using-maps/"
 name = "Full Collection"
 url = "collection/"
 [[Languages.en.navlinks]]
+name = "FAQ"
+url = "faq/"
+[[Languages.en.navlinks]]
 name = "Contact"
 url = "contact/"
 
 [Languages.fr]
 languageName = "Français"
-title = "Historical Topographic Map Digitization Project (fr)"
+title = "Projet de numérisation de la carte topographique historique"
 languageCode = "fr"
 weight = 2
 [[Languages.fr.navlinks]]
 name = "Accueil"
 url = "fr/"
 [[Languages.fr.navlinks]]
-name = "About the Maps fr"
+name = "À propos des cartes"
 url = "fr/about-maps/"
 [[Languages.fr.navlinks]]
-name = "About the Project fr"
+name = "À propos du projet"
 url = "fr/about-project/"
 [[Languages.fr.navlinks]]
-name = "Collection Highlights fr"
+name = "Points forts de la collection"
 url = "fr/highlights/"
 [[Languages.fr.navlinks]]
-name = "Using the Maps fr"
+name = "Utilisation des cartes"
 url = "fr/using-maps/"
 [[Languages.fr.navlinks]]
-name = "Full Collection fr"
+name = "Collection complète"
 url = "fr/collection/"
 [[Languages.fr.navlinks]]
-name = "Contact fr"
+name = "FAQ"
+url = "fr/faq/"
+[[Languages.fr.navlinks]]
+name = "Contact"
 url = "fr/contact/"

@@ -1,17 +1,24 @@
 # Contact form
 - id: name
-  translation: 'fr Your name *'
+  translation: 'Votre nom *'
 
 - id: email
-  translation: 'fr Your email *'
+  translation: 'Votre email *'
 
 - id: message
-  translation: 'fr Your message *'
+  translation: 'Votre message *'
+
+- id: send
+  translation: 'Envoyer'
 
 # meta description
 - id : description
   translation: 'This website is about the Ontario Council of University Libraries historical topographic maps digitization project.'
 
+# Mobile menu
+- id: menu
+  translation: 'Menu'
+
 # Sidebar text
 - id: sidebarAbout
-  translation: '<p class="subtitle">Preserving Ontario’s Past</p><br><br><strong>More coming soon!</strong><br><br>The Historical Topographic Map Digitization project was initiated by the Ontario Council of University Libraries (OCUL) Geo Community in 2014. It is a 2.5 year initiative to digitize and georeference early-to-mid 20th century historical topographic maps covering the province of Ontario at the scales of 1:25,000 and 1:63,360. The goal is to create and provide access to high-resolution map scans that preserve historical topographic information and meet the needs of current and future users.<br><br> The maps on the home page represent a sampling of the approximately 1100 maps in the historical topographic maps collection. Please select <strong>Full Collection</strong> below to view more.'
+  translation: '<p class="subtitle">Préserver le passé de l''Ontario</p><br>The Historical Topographic Map Digitization project was initiated by the Ontario Council of University Libraries (OCUL) Geo Community in 2014. It is a 2.5 year initiative to digitize and georeference early-to-mid 20th century historical topographic maps covering the province of Ontario at the scales of 1:25,000 and 1:63,360. The goal is to create and provide access to high-resolution map scans that preserve historical topographic information and meet the needs of current and future users.<br><br> The maps on the home page represent a sampling of the approximately 1100 maps in the historical topographic maps collection. Please select <em>Full Collection</em> below to view more.'

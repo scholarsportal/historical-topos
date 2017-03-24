@@ -1,6 +1,6 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
-    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a></h1>
+    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL | relLangURL }}/">{{ .Site.Title }}</a></h1>
     <p class="sidebar-p">{{ i18n "sidebarAbout" | safeHTML }}</p>
     <ul class="sidebar-menu">
       {{ $url := .Site.BaseURL }}
@@ -9,7 +9,9 @@
       {{ end }}
     </ul>
     <p class="translation"> {{ partial "translate.html" . }} <br></p>
-    <img src="{{ $url }}{{ .Site.Params.logo | safeHTML }}" alt="Ontario Council of University Libraries logo" class="img-responsive logo">
+    
+    <br>
+    <a href="{{ .Site.Params.logourl }}"><img src="{{ $url }}{{ .Site.Params.logo | safeHTML }}" alt="Ontario Council of University Libraries logo" class="img-responsive logo"></a>
     <br>
     <div class="copyright">
       <p class="credit">

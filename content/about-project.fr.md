@@ -1,6 +1,6 @@
 +++
 date = "2017-03-16"
-title = "About The Project fr"
+title = "À propos du projet"
 +++
 
 ## Overview

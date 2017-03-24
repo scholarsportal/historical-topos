@@ -1,9 +1,7 @@
 +++
 date = "2017-03-16"
-title = "Collection Highlights fr"
+title = "Points forts de la collection"
 +++
-
-*In Development - images to be added*
 
 Topographic maps can provide historical snapshots that allow you to explore changes to an area over time.  Click on any of the links below to see examples of how these maps can be used to visualize transforming landscapes, urban areas, and waterways in Ontario.
 
@@ -13,8 +11,8 @@ Left: Early development and Keating Channel (1909-1915)
 Right: Early Land Filling and Shipping Channels (1918)
 
 <div class="juxtapose">
-    <img src="../img/highlights/030M11_1909.jpg" data-label="1909" />
-    <img src="../img/highlights/030M11_1918.jpg" data-label="1918" />
+    <img src="../../img/highlights/030M11_1909.jpg" data-label="1909" />
+    <img src="../../img/highlights/030M11_1918.jpg" data-label="1918" />
 </div>
 
 
@@ -28,8 +26,8 @@ Sources:
 ## Urban Growth in the Ottawa area
 
 <div class="juxtapose">
-    <img src="../img/highlights/031G05_1908.jpg" data-label="1908" />
-    <img src="../img/highlights/031G05_1932.jpg" data-label="1932" />
+    <img src="../../img/highlights/031G05_1908.jpg" data-label="1908" />
+    <img src="../../img/highlights/031G05_1932.jpg" data-label="1932" />
 </div>
 
 <br>
@@ -40,9 +38,8 @@ Sources:
 ## London
 
 <div class="juxtapose">
-	<img src="../img/highlights/HTDP63360K040P03_1923TIFF.jpg" data-label="1923" />
-    <img src="../img/highlights/HTDP25K040P03b_1962TIFF.jpg" data-label="1962" />
+	<img src="../../img/highlights/HTDP63360K040P03_1923TIFF.jpg" data-label="1923" />
+    <img src="../../img/highlights/HTDP25K040P03b_1962TIFF.jpg" data-label="1962" />
 </div>
 
-<script src="../js/juxtapose.js"></script>
-<link rel="stylesheet" href="../css/juxtapose.css">
+<script src="../../js/juxtapose.js"></script>
