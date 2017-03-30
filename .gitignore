@@ -5,6 +5,7 @@ histtopos.sublime-workspace
 ### Hugo ###
 hugo.exe
 /public/
+/map-images/
 static/img
 themes/hugo-creative-portfolio-theme/exampleSite
 

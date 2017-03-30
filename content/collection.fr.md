@@ -1,19 +1,18 @@
 +++
-date = "2017-03-16"
+date = "2017-03-30"
 title = "Collection complète"
 +++
 
-To find maps by place name, use the search box or scroll through the list below. Once you have found a map, select View in GeoPortal to visualize this map in the Scholar’s Portal GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
+To find maps by place name, use the search box or scroll through the list below. Once you have found a map, select View in GeoPortal to visualize this map in the Scholars GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
 
-For more information on using the map index and searching maps in the GeoPortal, see [‘Using the Maps’](../using-maps).
+For more information on using the map index and searching maps in Scholars GeoPortal, see [Using the Maps](../using-maps/).
 
-<input placeholder="Recherche par nom de feuille" name="Place name search" id="index-filter" type="text" aria-label="
-Recherche par nom de feuille"/>
+<input placeholder="Search by sheet map name" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
 
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together
 
-  $.getJSON("../../combined_namesort.json", function(json) {
+  $.getJSON("../combined_namesort.json", function(json) {
 
     // Create an array from the json file
     var jsontext = JSON.parse(JSON.stringify(json));
@@ -31,7 +30,7 @@ Recherche par nom de feuille"/>
       lines += '<div class="' + title + '-section sheet-item">';
       lines += '<p>Year: ' + jsontext[i].year + ' | ';
       lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
-      lines += '<a href="http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
+      lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
       lines += '</div>';
 
       // append the content into the div with the same id

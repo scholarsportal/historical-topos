@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Gananoque, On
 
 The survey for this map was conducted in 1912, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Survey Division of the Department of Militia and Defence.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C08_1916TIFF&_add:true) | [Download image](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/HTDP63360K031C08_1916TIFF.jpg)
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C08_1916TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C08_1916TIFF.jpg)

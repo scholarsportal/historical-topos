@@ -1,5 +1,5 @@
 +++
-date = "2017-03-16"
+date = "2017-03-30"
 title = "Collection Highlights"
 +++
 
@@ -23,8 +23,8 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 
 ### Sources
 
-- [Toronto, Ontario. 1:63,360. Map Sheet 030M11, [ed. 1], 1909](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1909TIFF)
-- [Toronto, Ontario. 1:63, 360. Map Sheet 030M11, [ed. 3], 1918](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1918TIFF)
+- [Toronto, Ontario. 1:63,360. Map Sheet 030M11, [ed. 1], 1909](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1909TIFF&_add:true)
+- [Toronto, Ontario. 1:63, 360. Map Sheet 030M11, [ed. 3], 1918](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1918TIFF&_add:true)
 
 <br>
 
@@ -42,8 +42,8 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 
 ### Sources
 
-- [Ottawa, Ontario. 1:63,360. Map Sheet 031G05, [ed. 2], 1908](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05_1908TIFF)
-- [Ottawa, Ontario. 1:63,360. Map Sheet 031G05, [ed. 10], 1932](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05_1932TIFF)
+- [Ottawa, Ontario. 1:63,360. Map Sheet 031G05, [ed. 2], 1908](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05_1908TIFF&_add:true)
+- [Ottawa, Ontario. 1:63,360. Map Sheet 031G05, [ed. 10], 1932](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05_1932TIFF&_add:true)
 
 <br>
 

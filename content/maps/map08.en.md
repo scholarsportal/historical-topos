@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Sault Ste. Ma
 
 The survey for this map was conducted in 1937 using imagery taken by the Royal Canadian Air Force, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K041K09_1939TIFF&_add:true) | [Download image](http://geo.scholarsportal.info/proxy.html?http:__maps.scholarsportal.info/files/images/OpenContent/HTDP63360K041K09_1939TIFF.jpg)
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K041K09_1939TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K041K09_1939TIFF.jpg)
