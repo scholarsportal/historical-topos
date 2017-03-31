@@ -60,23 +60,23 @@ weight = 2
 name = "Accueil"
 url = "fr/"
 [[Languages.fr.navlinks]]
-name = "À propos des cartes"
+name = "Au sujet des cartes"
 url = "fr/about-maps/"
 [[Languages.fr.navlinks]]
 name = "À propos du projet"
 url = "fr/about-project/"
 [[Languages.fr.navlinks]]
-name = "Points forts de la collection"
+name = "Points saillants de la collection"
 url = "fr/highlights/"
 [[Languages.fr.navlinks]]
-name = "Utilisation des cartes"
+name = "Utiliser les cartes"
 url = "fr/using-maps/"
 [[Languages.fr.navlinks]]
-name = "Collection complète"
+name = "Parcourir la collection au complet"
 url = "fr/collection/"
 [[Languages.fr.navlinks]]
 name = "FAQ"
 url = "fr/faq/"
 [[Languages.fr.navlinks]]
-name = "Contact"
+name = "Nous contacter"
 url = "fr/contact/"

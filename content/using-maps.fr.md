@@ -1,148 +1,151 @@
 +++
-date = "2017-03-16"
-title = "Utilisation des cartes"
+date = "2017-03-31"
+title = "Utiliser les cartes"
 +++
 
 <ul class="contents">
-	<li><a href="#finding-maps">Finding maps</a></li>
+	<li><a href="#trouver-les-cartes">Trouver les cartes</a></li>
 	<li><a href="#exploring-maps">Exploring maps</a></li>
 	<li><a href="#downloading-maps">Downloading maps</a></li>
 	<li><a href="#advanced-searching">Advanced searching</a></li>
 </ul>
 
-[Scholars GeoPortal](http://geo.scholarsportal.info) is an online geoportal that allows users to find and download geospatial data and maps. Using the GeoPortal and the built-in map index navigation, users can view map availability by location, and, add maps to the map viewer to explore online. The GeoPortal also supports features to layer multiple maps, and layer other data to visualize changes over time. Maps can be downloaded for any purpose and available in GeoTIFF or JPG formats. Follow the steps below to learn more about how to access and use the collection in the GeoPortal.
+[Scholars GeoPortal](http://geo.scholarsportal.info/#_lang=fr) est un géoportail en ligne permettant aux utilisateurs de trouver et de télécharger des cartes et des données géospatiales. En utilisation GeoPortal et l’index de navigation de cartes intégré, les utilisateurs peuvent voir la disponibilité des cartes par emplacement et ajouter des cartes au visualiseur de cartes pour découvrir tout cela en ligne. GeoPortal contient également des caractéristiques permettant de superposer plusieurs cartes et d’inclure d’autres données pour voir les changements au fil du temps. Les cartes peuvent être téléchargées pour tout usage et sont disponibles en format GeoTIFF ou JPG. Suivez les étapes ci-dessous pour en savoir plus au sujet de l’accès et de l’utilisation de la collection dans GeoPortal. 
 
-To search for maps directly by place name without entering the GeoPortal, go to [_Full Collection_](../collection/).
+Pour rechercher des cartes par nom de lieu sans entrer dans GeoPortal, allez à _Collection au complet_ (../collection/).
 
-## Finding Maps
+## Trouver les cartes
 
-### Using the index
+### Utiliser l’index
 
-The first step to accessing the historical topographic map collection is to locate and use the index navigation aid. There are two sets of historical topographic map collections available in the Scholars GeoPortal, each with their own index map for navigation, one for the 1:63,360 and 1:25,000 scale map sets. Using the index navigation, you can view map availability by selecting the area of interest found on the map. 
+La première étape pour accéder à la collection des cartes topographiques historiques est de trouver et d’utiliser l’index de navigation. Il existe deux ensembles de collections de cartes topographiques dans Scholars GeoPortal, contenant chacun leur propre index de navigation, un pour chaque série de cartes 1:63,360 et 1:25,000. En utilisant l'index de navigation, vous pouvez voir la disponibilité des cartes en choisissant la zone d’intérêt trouvée sur la carte.
 
-In Scholars GeoPortal, maps are available through an interactive online index display. To access the map indexes for different map scales, go directly to the Scholars GeoPortal:
+Dans Scholars GeoPortal, les cartes sont disponibles par le biais d’un affichage d’index interactif en ligne. Pour accéder aux index de la carte pour différentes échelles de cartes, allez directement au Scholars GeoPortal :
 
-- [1:63 360 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
-- [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
+- [Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
+- [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
 
-You should now be presented with the index navigation aid to select maps of interest. 
+ Vous devriez maintenant vous retrouver dans l’index de navigation pour sélectionner les cartes qui vous intéressent.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-3.PNG" alt="Screen capture of the 1:63,360 index map, loaded on the map viewer in the Scholars GeoPortal.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-3.PNG" alt="Capture d’écran de l’index de la carte 1:63,360 chargé sur le visualiseur de cartes dans Scholars GeoPortal.">
 
-### Selecting maps
+### Choisir les cartes
 
-The index navigation appears with several rectangular cells, click an area of interest to view available maps. A list of maps for that selected area will appear on the left-hand side results list. Each of these represent individual maps [editions] in the collection.
+Quand l’index de navigation apparaît avec plusieurs cellules rectangulaires, cliquez sur la zone d’intérêt pour voir les cartes disponibles. Une liste de cartes, en rapport avec la zone sélectionnée, apparaîtra à gauche de l’écran. Chaque résultat représente des cartes individuelles [éditions] dans la collection.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-4.PNG" alt="Screen capture of the results of a search in the GeoPortal after selecting a grid cell from the index map.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-4.PNG" alt="Capture d’écran des résultats d’une recherche dans GeoPortal après avoir sélectionné une cellule de grille à partir de la carte-index.">
 
-As with using other datasets in the GeoPortal, once the index map navigation is enabled, you can pan and zoom to interactively see the map areas that are available. The index is displaying the National Topographic Series (NTS) numbering, which are standardized map sheet numbers, displayed in the center of the index grid cells for easy identification.
+Tout comme pour les autres ensembles de données dans GeoPortal, dès que l’index de navigation de cartes est activé vous pouvez utiliser l’outil panoramique et le zoom pour voir les zones de la carte qui sont disponibles. L’index affiche le numérotage du Système national de référence cartographique (SNRC). Il s’agit de chiffres normalisés de feuilles de cartes, affichés au centre des cellules de grille de l’index pour faciliter l’identification.
 
-**Tip:** The selected cell remains highlighted indicating where you have selected until you click it again, or select another area.
+**Astuces** : La cellule choisie reste surlignée et indique ce que vous avez choisi jusqu’à ce que vous cliquiez encore une fois ou sélectionniez une autre zone. 
 
-A mini-map will be displayed in the bottom right corner, allowing you to easily see where you currently are, even when zoomed in. If you want to minimize this, simply click on the downward arrow in the bottom right corner.
+Une mini-carte apparaîtra en bas à droite pour vous permettre de savoir où vous êtes sur la carte, même quand vous zoomez en avant. Si vous désirez la minimiser, cliquez tout simplement sur la flèche du bas située en bas à droite.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-5.PNG" alt="Screen capture of mini-map, which appears in the bottom right hand corner of the geoPortal viewer.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-5.PNG" alt="Capture d’écran de la mini-carte. Elle apparaît en bas à droite du visualiseur du GeoPortal.">
 
-### Finding the index in the GeoPortal
+### Trouver l’index dans GeoPortal
 
-You can also find the indexes by searching for '_Historical Topographic Index_' in the main search box.
+Vous pouvez trouver les index en effectuant une recherche pour « _Index topographique historique_ » dans le principal champ de recherche. 
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-6.PNG" alt="Screen capture of the search field, with “Historical Topographic Index” entered.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-6.PNG" alt="Capture d’écran du champ de recherche contenant les mots « Index topographique historique ».">
 
-If you are already viewing a map sheet in the Scholars GeoPortal, you can link back to the index at any time by clicking on _Show Index Map_ from the metadata record.
+Si vous avez déjà vu une feuille de carte dans Scholars GeoPortal, vous pouvez retourner à l’index en tout temps en cliquant sur Afficher la carte d’index à partir du registre de métadonnées.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-7.PNG" alt="Screen capture of a metadata record for 'Brampton, Ontario', with link to 'Show Index Map' circled.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-7.PNG" alt="Capture d’écran d’un registre de métadonnées pour « Brampton, Ontario », avec un lien indiquant « Afficher la carte d’index ».">
 	
-## Exploring Maps
+## Explorer les cartes
 
-### View Maps
+### Voir les Cartes
 
-After you have selected an area of interest using the index navigation, select a map from the left results list, and click the _View_ button to load the map.
+Après avoir choisi la zone d’intérêt en utilisant l’index de navigation, sélectionnez une carte à partir de la liste de résultats à gauche, puis cliquez sur le bouton _Vue_ pour charger la carte.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-8.PNG" alt="Screen capture of the results of a search for the ‘Port Burwell, Ontario’ map sheet, ‘add’ button circled.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-8.PNG" alt="Capture d’écran des résultats d’une recherche pour une feuille de carte de « Port Burwell, Ontario » ; le bouton « Vue » est entouré.">
 
-Click the _Zoom_ button after the map has been loaded to zoom to the map for further exploring.
+Cliquez sur le bouton _Vue générale_ après le chargement de la carte pour zoomer et voir la carte de plus près. 
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-9.PNG" alt="Screen capture of a map that has been loaded on the map viewer in the GeoPortal, after being selected from search results in the left hand panel.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-9.PNG" alt="Capture d’écran de la carte chargée sur le visualiseur de carte dans GeoPortal après avoir été choisie à partir des résultats de recherche situés à gauche de l’écran.">
 
-### Using the basemap and transparency slider 
+### Utiliser le curseur transparence et le fond de carte
 
-By default the GeoPortal provides you with a basemap viewer that shows current landscape and other topographic features on the earth’s surface. You can change the basemap at any time by clicking on the _Base maps_ tab from the upper right corner of the GeoPortal.
+Par défaut, le GeoPortal vous fournit un visualiseur de fond de carte indiquant le contexte actuel et d’autres caractéristiques topographiques sur la surface de la Terre. Vous pouvez changer le fond de carte en tout temps en cliquant sur l’onglet _Cartes de base_ en haut à droite du GeoPortal.
 
-The base map gallery appears and you can select from any of the base maps options for display.
+La galerie du fond de carte apparaît et vous pouvez choisir parmi plusieurs options.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-10.PNG" alt="Screen capture of the base map gallery in the GeoPortal.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-10.PNG" alt="Capture d’écran de la galerie de cartes de base du GeoPortal.">
 
-You can adjust the transparency of the map in comparison to the basemap to showcase changes over time. To adjust transparency on the map, click on the Map tab from the main search area. From here you will see a list of maps loaded on the map viewer.  
+Vous pouvez régler la transparence de la carte pour la comparer avec le carte de base et voir les changements au fil du temps. Pour régler la transparence sur la carte, cliquez sur l’onglet Carte à partir du principal champ de recherche. À partir de là, vous pouvez voir une liste de cartes qui se chargent sur le visualiseur de carte. 
  
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-11.PNG" alt="Screen capture of the ‘map’ tab in the GeoPortal, transparency slider circled.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-11.PNG" alt="Capture d’écran de l’onglet « Carte » dans le GeoPortal ; le curseur transparence est entouré.">
 
-Using the transparency slider bar, you can adjust the transparency of the top layer, revealing the ones beneath. You can do this with multiple overlapping maps. 
+En utilisant la barre du curseur transparence, vous pouvez régler la transparence de la couche supérieure, révélant ainsi la couche inférieure. Vous pouvez faire cela en superposant plusieurs cartes. 
 
-If you would like to rearrange the maps, so that one is on top of the other, simply click on a map under the Map tab, and drag to the desired position. Please note that the index map will still appear in this listing and must remain on top of the list to resume interacting in the index navigation mode.
+Si vous désirez réarranger les cartes pour qu’une soit au-dessus de l’autre, cliquez tout simplement sur une carte en-dessous de l’onglet _Carte_, puis faites-la glisser vers la position souhaitée. Veuillez noter que la carte-index sera toujours présente sur la liste et doit rester en haut de la liste pour reprendre le mode d’index de navigation. 
 
-### Viewing & overlaying multiple maps
+### Voir et superposer plusieurs cartes
 
-Depending upon which index cell you have selected, there may be more than one map available for a particular area. These are often referred to as editions. To view more than one map at the same time using the viewer:
+Dépendamment de la cellule d’index que vous avez choisie, il peut y avoir plus d’une carte disponible pour une zone spécifique. Elles sont souvent référées comme des éditions. Suivez les étapes suivantes pour voir plusieurs cartes en même temps en utilisant le visualiseur : 
 
-1. From the map results list, click the View button on as many map sheets as you would like to display.
-2. From the Map tab, you can reorder the maps according to how you would like them to be displayed in the GeoPortal viewer, with the first result listed appearing on top. You can use the transparency slider bar to view changes over time on the map editions. 
+1. À partir de la liste des résultats, cliquez sur le bouton Vue sur autant de feuilles de carte que vous aimeriez voir apparaître.
+2. À partir de l’onglet Carte, vous pouvez réorganiser les cartes selon la manière dont vous aimeriez les voir dans le visualiseur GeoPortal, avec le premier résultat apparaissant en haut. Vous pouvez également utiliser la barre du curseur transparence pour voir les changements au fil du temps sur les éditions des cartes.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-12.PNG" alt="Screen capture of the ‘map’ tab in the GeoPortal, transparency slider circled.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-12.PNG" alt="Capture d’écran de l’onglet « Carte » dans le GeoPortal ; le curseur transparence est entouré.">
 
-### Learning about the maps - metadata & details
+### En savoir plus sur les cartes – métadonnées et détails
 
-Rich metadata has been created for each map sheet which can be explored by clicking the _Details_ button associated with each map. This brings up the metadata pane, showing an abstract, a thumbnail, additional documentation, and more about how the digital map was created.
+De riches métadonnées ont été créées pour chaque feuille de carte. Elles peuvent être explorées en cliquant sur le bouton _Détails_ associé avec chaque carte. Ce bouton fera apparaître le panneau des métadonnées, indiquant un résumé, une vignette, des documents supplémentaires et plus encore, sur la manière dont la carte numérique a été créée.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-13.PNG" alt="Screen capture of the metadata record for ‘Brampton, ON’ in the GeoPortal.">
+**Remarque** : les métadonnées détaillées ne sont disponibles qu'en anglais.
 
-## Downloading maps 
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-13.PNG" alt="Capture d’écran du registre des métadonnées pour « Brampton, ON » dans le GeoPortal.">
 
-Once you have selected a map, you can download the map as a GeoTIFF, which has geolocation information embedded in the file for use in a Geographic Information System (GIS). If you would prefer to download a JPG of the image, navigate to [_Full Collection_](../collection) and click the _Download_ option beside the desired map.
+## Télécharger les cartes
 
-Each map sheet can be downloaded by clicking the _Download_ button on the map listing. 
+Dès vous avez choisi la carte, vous pouvez la télécharger en format GeoTIFF. Ce format contient des renseignements de géolocalisation inclus dans le fichier pouvant être utilisés dans un Système d’information géographique (SIG). Chaque feuille de carte peut être téléchargée en cliquant sur le bouton Télécharger présent sur la liste des cartes. 
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-14.PNG" alt="Screen capture of the results of a search for Toronto maps, ‘download’ button circled.">
+Si vous préférez télécharger la carte en format JPG, allez à [_Collection au complet_](../collection/) et cliquez sur l’option _Télécharger_ à côté de la carte concernée.
 
-**Quick link:** [Toronto, Ontario. 1:63,360. Map Sheet 030M11, [ed. 1], 1909](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1909TIFF&_add:true) 
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-14.PNG" alt="Capture d’écran des résultats d’une recherche pour les cartes de Toronto ; le bouton « Télécharger » est entouré.">
 
-This will trigger a pop-up and thus might require your browser’s popup blocker to be disabled (clicking the _Download_ button again should overcome this).  
+**Lien rapide :** [Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 1], 1909](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1909TIFF&_add:true) 
 
-**Tip:** Old maps are cool! If you have downloaded these maps and are using them in an interesting way, we would love to hear from you. Please [contact us](../contact) and let us know how you are using these maps in your own projects. 
+Ceci fera apparaître une fenêtre contextuelle. Vous serez obligés de désactiver votre système de blocage de fenêtres contextuelles. (**astuce** : vous pouvez passer outre en cliquant une deuxième fois sur le bouton _Télécharger_)
 
-## Advanced Searching
+**Conseils** : Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous les utilisez d’une manière assez originale, nous aimerions en savoir plus. Veuillez nous [contacter](../contact) et nous dire de quelle manière vous utilisez ces cartes dans vos projets. 
 
-**Please note:** to use advanced search options for finding historical topographic maps in the GeoPortal, you may be required to also use the index map navigation in conjunction with searching. More detail is available in the above sections about the index navigation aid. 
+## Recherche avancée
 
-### Search by Map Name 
+**Remarque :** Pour utiliser les options de la recherche avancée et trouver des cartes topographiques historiques dans GeoPortal, vous serez obligés d’utiliser l’index de navigation de cartes en même temps que la recherche. Des détails supplémentaires sont disponibles dans les sections ci-dessous au sujet de l’index de navigation.
 
-If you know the name or NTS number of a particular map, you can search through the collection using the main search field of the GeoPortal. 
+### Rechercher par nom de carte
 
-1. From the drop-down menu beside the search field, select Historical Maps. Note: Historical maps will not show up in the search results if Historical Maps is not selected.
-2. Type in a name, or NTS number (ex. 030M11) in the search field, and click the _Search_ button.
-3. Results will be displayed below the search field.
+Si vous connaissez le nom ou le numéro SNRC d’une carte spécifique, vous pouvez effectuer cette recherche avec la collection et en utilisant le principal champ de recherche de GeoPortal.
+
+1. Choisissez _Cartes historiques_ à partir du menu déroulant à côté du champ de recherche.
+**Remarque** : Les cartes historiques n’apparaîtront pas dans les résultats de la recherche si _Cartes historiques_ n’est pas sélectionné.
+2. Inscrivez un nom ou un numéro SNRC (ex. 030M11) dans le champ de recherche, puis cliquez sur le bouton _Recherche_.
+3. Les résultats apparaîtront en-dessous du champ de recherche.
  
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-15.PNG" alt="Screen capture of the search field in the GeoPortal, with ‘Toronto’ typed in and ‘Historical Maps’ selected from the drop-down menu to the right.">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-15.PNG" alt="Capture d’écran du champ de recherche dans GeoPortal avec le mot « Toronto » inscrit et l’option « Cartes historiques » choisie à partir du menu déroulant.">
 
-If your search returns no results, the map name might not coincide with the current place name for that location (for example, the town of “Oakville” is under the map name “Hamilton”). If this happens, you can _Search by Place of Address_ or _Search by Area_ (see below).
+Si vous n’obtenez aucun résultat avec votre recherche, le nom de la carte peut ne pas correspondre avec le nom de lieu actuel (par exemple : la ville de « Oakville » est sous le nom de « Hamilton »). Si cela se produit, vous pouvez _Rechercher par adresse_ ou _Rechercher par zone_ (voir ci-dessous).
 
-### Search by Place or Address 
+### Rechercher par lieu ou adresse
 
-If you know the current name of the location you are looking for, you can search for maps that cover it.
+Si vous connaissez le nom actuel d’un lieu que vous recherchez, vous pouvez rechercher les cartes qui correspondent à cet endroit.
 
-1. Click the button for _Place or Address_ (above the search field).
-2. Enter the location name of interest. E.g “exeter, on”.
-3. When you click the _Search_ button, the results show geocoded locations which can be zoomed to on the map, by clicking the _Zoom_ button. 
-<br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-16.PNG" alt="Screen capture of the ‘Place of Address’ search option in the GeoPortal, with ‘Exeter, ON’ typed in, and the ‘zoom’ button circled."><br>
-4. Once you zoom into this location, if it falls within a historical topographic map availability area, you can click the index navigation to show the available map sheets for that area.
+1. Cliquez sur le bouton _Lieu ou adresse_ (au-dessus du champ de recherche).
+2. Inscrivez le nom de l’endroit concerné (ex. « exeter, on »)
+3. Quand vous cliquez sur le bouton _Recherche_, les résultats montreront les lieux géocodés que l’on peut zoomer sur la carte, en cliquant sur le bouton _Vue générale_. 
+<br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-16.PNG" alt="Capture d’écran de l’option de recherche « Lieu ou Adresse » dans GeoPortal, avec « Exeter, ON » inscrit, et le bouton vue générale entouré."><br>
+4. Dès que vous avez zoomé sur ce lieu, et si ça tombe sur une zone permettant d’avoir une carte topographique historique, vous pouvez cliquer sur l’index de navigation pour voir les feuilles de carte disponibles pour cette zone.
 
-<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-17.PNG" alt="Screen capture of the results of a ‘Place of Address’ search in the GeoPortal for ‘Exeter, ON.'">
+<img class="img-responsive using-maps" src="../../img/usingmaps/Figure-17.PNG" alt="Capture d’écran des résultats de la recherche « Lieu ou Adresse » dans GeoPortal pour « Exeter, ON ».">
 
-### Search by Area 
+### Rechercher par zone
 
-It is possible to view what maps are available for a given area without having a current place name in mind.
+Il est possible de voir quelles cartes sont disponibles dans une zone donnée sans avoir le nom d’un lieu actuel en tête.
 
-1. From the drop-down menu beside the search field, select _Historical Maps_. Type in an asterisk * in the search field.
+1. Choisissez _Cartes historiques_ à partir du menu déroulant à côté du champ de recherche. Mettez un astérisque * dans le champ de recherche.
 <br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-18.PNG" alt="Screen capture of the search field in the GeoPortal, with ‘*’ typed in and ‘Historical Maps’ selected from the drop-down menu to the right."><br>
 2. Click the plus **+** sign beside the search field. A new search box will appear.
 3. From the drop-down menu beside this second search field, select _Include Area_. A _Click & Draw_ option will appear to the left of the menu.

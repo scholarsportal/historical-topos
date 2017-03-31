@@ -1,8 +1,8 @@
 +++
-date = "2017-03-23"
-title = "Contact"
+date = "2017-03-31"
+title = "Nous contacter"
 +++
 
-For information about the project please use the form below or email us at [topomaps@scholarsportal.info](mailto:topomaps@scholarsportal.info).
+Pour en savoir plus au sujet du projet, veuillez utiliser le formulaire ci-dessous ou nous envoyer un courriel à [topomaps@scholarsportal.info](mailto:topomaps@scholarsportal.info)
 
-**Interested in getting involved?** If you are a library or archive who has NTS maps from either the 1:63,360 or 1:25,000 scale series, and are interested in learning how you can contribute these to the project, we would love to hear from you. Please get in touch with us!
+**Vous aimeriez participer** ? Si vous êtes une bibliothèque ou une archive avec des cartes SNRC de séries 1:63,360 ou 1:25,000, et vous désirez en savoir plus sur la manière dont vous pourriez contribuer à ce projet, alors n’hésitez pas à nous contacter !
