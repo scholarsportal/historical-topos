@@ -5,7 +5,7 @@ title = "About The Project"
 
 ## Overview
 
-The project, distributed across several university libraries, adds approximately 1000 maps to our collective digital holdings, including most known sheets covering Ontario from the 1:63,360 and 1:25,000 national topographic map series. Ontario universities have contributed their support by supplying and scanning maps, georeferencing the digital images, creating metadata for the records, and developing the online geographical display of the maps for the public to access.
+The project, distributed across several university libraries, adds over 1000 maps to our collective digital holdings, including most known sheets covering Ontario from the 1:63,360 and 1:25,000 national topographic map series. Ontario universities have contributed their support by supplying and scanning maps, georeferencing the digital images, creating metadata for the records, and developing the online geographical display of the maps for the public to access.
 
 Topographic maps at these scales are heavily used by researchers interested in examining changes over time, such as urban sprawl, transportation patterns, diminishing woodlots, or shoreline erosion.
 
@@ -15,7 +15,7 @@ For more information and inquiries about the project please [contact us](../cont
 
 ## Technical Specifications
 
-The following presents the steps taken to digitize all of the historical topographic maps from the 1:25,000 and 1:63,360 scales series for Ontario. These technical specifications are presented as a set of scanning and georeferencing guidelines for the project. This can also serve as a useful reference for other institutions undertaking map digitization projects.
+The following presents the steps taken to digitize all of the historical topographic maps from the 1:25,000 and 1:63,360 scale series for Ontario. These technical specifications are presented as a set of scanning and georeferencing guidelines for the project. This can also serve as a useful reference for other institutions undertaking map digitization projects.
 
 ### Digitization
 Print maps were digitized at 600 ppi resolution and 24-bit colour depth with Colortrac feed-through scanners (models SmartLF Gx+ T56 and SmartLF SG), using standardized colour normalization and stitch correction processes. Manual quality control methods were applied to each digitized sheet to ensure images were straightened and cropped appropriately. Images were also manually inspected for the presence of scanning artifacts; affected images were either corrected or the sheet was flagged for re-scanning.
