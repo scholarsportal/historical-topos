@@ -1,13 +1,13 @@
 +++
 date = "2017-03-30"
-title = "Collection complète"
+title = "Parcourir la collection au complet"
 +++
 
-To find maps by place name, use the search box or scroll through the list below. Once you have found a map, select View in GeoPortal to visualize this map in the Scholars GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
+Pour trouver des cartes par nom de lieu, utilisez le champ de recherche ou parcourez la liste ci-dessous. Une fois que vous avez trouvé la carte, allez à Voir dans GeoPortal pour visualiser cette carte dans Scholars GeoPortal. Ceci vous permettra de superposer la carte sur une carte de base actuelle, vous permettant ainsi de découvrir les différents changements au fil du temps. Cela vous permettra également d’obtenir des renseignements plus détaillés sur la carte. 
 
-For more information on using the map index and searching maps in Scholars GeoPortal, see [Using the Maps](../using-maps/).
+Pour en savoir plus sur l’utilisation de l’index des cartes pour faire une recherche de cartes dans Scholars GeoPortal, veuillez aller à [Utiliser les cartes](../using-maps/).
 
-<input placeholder="Search by sheet map name" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
+<input placeholder="Recherche par nom de carte de feuille" name="Place name search" id="index-filter" type="text" aria-label="Recherche par nom de carte de feuille"/>
 
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together
@@ -29,8 +29,8 @@ For more information on using the map index and searching maps in Scholars GeoPo
 
       lines += '<div class="' + title + '-section sheet-item">';
       lines += '<p>Year: ' + jsontext[i].year + ' | ';
-      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
-      lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
+      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
+      lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Télécharger l\'image</a></p>';
       lines += '</div>';
 
       // append the content into the div with the same id
