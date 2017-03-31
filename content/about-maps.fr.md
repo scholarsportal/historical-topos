@@ -1,123 +1,120 @@
 +++
 date = "2017-03-21"
-title = "À propos des cartes"
+title = "Au sujet des cartes"
 +++
 
-Early topographical mapping in Canada was fragmented, with various agencies producing maps at varying scales. The areas mapped were unrelated, and the legends and colours used rarely matched up. This changed in 1904, when a standardized system of mapping was introduced, which officially became Canada’s National Topographic System (NTS) in 1926. Over the next several decades, over 1100 maps were produced for Ontario alone in the 1:63,360 and 1:25,000 scales. The timeline below provides a detailed history of the production of these maps.
+La première cartographie topographique au Canada a été fragmentée avec plusieurs agences produisant des cartes à plusieurs échelles. Les zones couvertes étaient variées, et les légendes et couleurs utilisées correspondaient rarement. Ce style a été modifié en 1904 quand un système normalisé de cartographie a été introduit, devenant ainsi officiellement le Système national de référence cartographique au Canada (SNRC) en 1926. Au cours des décennies qui ont suivi, plus de 1,000 cartes ont été produites uniquement pour l’Ontario dans la série d’échelles de 1:63,360 et 1:25,000.  
 
 
-## Historical Timeline
+## Chronologie
 
 <p class="timeline-year">1899-1902</p>
 
-The Boer War raises concerns in Canada about the importance of military maps for national defence.
+La Guerre des Boers a soulevé des préoccupations au Canada concernant l’importance d’avoir des cartes militaires pour la défense nationale. 
 
 <strong>1903</strong>
 
-Major E.H. Hills, a British military mapping expert, publishes his “Report on the Survey of Canada.” This report was commissioned by the Canadian Government, to determine whether existing topographical maps could be used for military operations. Hills’ report is very critical of existing maps, and recommends the creation of a survey unit within the Canadian Army.
+Major E.H. Hills, un expert britannique dans le domaine de la cartographie militaire, publie son « Report on the Survey of Canada ». Ce rapport fut commandé par le Gouvernement Canadien pour déterminer si les cartes topographiques existantes pouvaient être utilisées à des fins militaires. Le rapport de Hill était très critique des cartes existantes, et a recommandé la création d’une unité de levés dans l’armée canadienne.
 
 <strong>1904</strong>
 
-The Survey Division of the Canadian Army’s Intelligence Branch, Department of Militia and Defence, is formed. Surveying operations begin for the earliest maps in the 1:63,360 series.
+La Division des levés de la Branche du service du renseignement de l’armée canadienne, Ministère de la Milice et de la Défense, est créée. Les opérations de levés commencent pour les premières cartes dans la série 1:63,360.
 
 <strong>1906-1914</strong>
 
-An agreement between the Canadian Army and British War Office allows for British topographers to be loaned out to the Canadian Army’s Survey Division. This agreement fills much-needed positions in the Survey Division. As a result, the earliest maps produced are extremely similar to the specifications of the British Ordnance Survey.
+Un accord entre l’Armée Canadienne et le British War Office permet aux topographes britanniques d’être « empruntés » pour la Division des levés de l’Armée Canadienne. Cet accord permet de remplir une grande partie des postes de la Division des levés. En conséquence, les premières cartes produites sont très similaires aux spécifications des données cartographiques du gouvernement britannique. 
 
 <strong>1906</strong>
 
-The first topographical maps produced by the new Survey Division are published in Great Britain.</p>
+Les premières cartes topographiques produites par la Division des levés sont publiées en Grande-Bretagne</p>
 
 <strong>1912</strong>
 
- The Department of Militia and Defence purchases printing equipment, allowing Canadian maps to be published in Canada.
+Le Ministère de la Milice et de la Défense achète de l’équipement d’impression, permettant aux cartes Canadiennes d’être publiées au pays. 
 
 <strong>1906-1922</strong>
 
-Two other agencies become involved in contributing to map production: the Geological Survey, Department of Mines and the Topographical and Air Survey Bureau, Department of the Interior. Note: the Department of the Interior was very rarely involved in the creation of maps in the Province of Ontario.
+Deux autres agences participent à la production cartographique : La Commission Géologique, le Ministère des Mines et le Bureau topographique et de repérage aérien, Ministère de l’intérieur. 
+
+_Remarque_ : Le Ministère de l’intérieur participait rarement à la création de cartes dans la province de l’Ontario. 
 
 <strong>1922</strong>
 
-The Board on Topographical Surveys and Maps is established, to created guidelines for a common set of map specifications that could be used by all agencies involved.
+Le Conseil d’administration sur les levés et cartes topographiques est créé. L’objectif est de mettre en place des lignes directrices pour un ensemble de spécifications communes de cartes pouvant être utilisées par toutes les agences participatives. 
 
-The first experiments with using aerial photographs as a topographic tool are conducted by the RCAF.
+Les premières expériences, en utilisant des photographies aériennes comme outil topologique, ont été menées par l’Aviation royale canadienne (ARC).
 
 <strong>1923</strong>
 
-The sheet line numbering system for maps is adopted (this becomes the National Topographic System (NTS) standard numbering system in 1926).
+Le système de numérotation de feuille pour les cartes est adopté (ceci devient le système de numérotation standard du Système national de référence cartographique (SNRC) en 1926). 
 
-The Department of Militia and Defence becomes the Department of National Defence.
-All agencies agree to publish maps ungridded. The Department of National Defence retains permission to add gridding to sheets as required.</p>
+Le Ministère de la Milice et de la Défense devient le Ministère de la Défense nationale. Toutes les agences acceptent de publier des cartes non quadrillées. Le Ministère de la Défense nationale se garde le droit d’ajouter du quadrillage aux feuilles, si nécessaire. </p>
 
 <strong>1924</strong>
 
-The Survey Division becomes the Geographical Section, General Staff, Department of National Defence.
+La Division des levés devient le Service de géographie, État-major général, Ministère de la Défense nationale. 
 
 <strong>1931</strong>
-Aerial photographer is now widely used for all new topographic surveys and revisions. All photographs are taken by the RCAF.
+La photographie aérienne est largement utilisée pour tous les nouveaux levés topographiques et nouvelles révisions. Toutes les photographies sont prises par l’ARC. 
 
 <strong>1936</strong>
 
-The Geological Survey, Department of Mines becomes the Mapping Branch, Department of Energy, Mines and National Resources.
+La Commission Géologique, Ministère des Mines, devient la Direction de la cartographie, Ministère de l’énergie, des Mines et des Ressources nationales. 
 
 <strong>1948</strong>
 
-A meeting is held between the national mapping agencies of Canada, the United States and the United Kingdom. The meeting concludes that is was desirable to follow other NATO countries and switch map series from foot-mile scales to even representation fractions (1:25,000, 1:50,000 and 1:250,000).
+Les organismes cartographiques du Canada, des États-Unis et du Royaume-Uni tiennent une réunion conjointe décidant qu’il est préférable de suivre les autres pays de l’OTAN et de passer de séries de cartes d’échelles pied-mile à une représentation de fractions (1:25,000, 1:50,000 et 1:250,000).
 
 <strong>1949</strong>
 
-Canada decides to make the switch to even representation fractions
+Le Canada décide de passer à une représentation de fractions. 
 
 <strong>1950</strong>
 
-The last map is drawn in the 1:63,360 map series. Printing continues into the early 1950s. The NTS 1:63,360 scale is changed to 1:50,000.
+La dernière carte est dessinée dans la série cartographique 1:63,360. L’impression continue jusqu’au début des années 1950. L’échelle 1:63,360 SNRC est changée à 1:50,000.
 
 <strong>1954</strong>
 
-The first aerial photographs are taken in Ontario for the new 1:25,000 topographical maps. These maps focus almost exclusively on urban areas.
+Les premières photographies aériennes sont prises en Ontario pour les nouvelles cartes topographiques 1:25,000.
 
 <strong>1956</strong>
 
-The first maps are published in the 1:25,000s series. All maps are surveyed and published under the direction of the Department of National Defence.
+Les premières cartes pour la série 1:25,000 sont publiées. Toutes les cartes sont recueillies et publiées sous la direction du Ministère de la Défense nationale. 
 
 <strong>1960</strong>
 
-Private surveying companies are contracted to take aerial photographs. From this time on, the RCAF is rarely involved in topographical surveys.
+Les entreprises privées de levés topographiques sont engagées pour prendre des photographies aériennes. À partir de ce moment, l’ARC participe rarement aux levés topographiques. 
 
 <strong>1964</strong>
 
-Separate publication of non-gridded vs. gridded (military) sheets is discontinued. All sheets after this date are published using a UTM grid.
+Annulation de la publication séparée de feuilles (militaire) quadrillées et non quadrillées. Après cette date, toutes les feuilles publiées doivent utilisées un système de quadrillage UTM. 
 
 <strong>1974</strong>
 
-The last aerial photographs are taken for the 1:25,000 map series, and the last revised sheet is published. Printing continued into the late 1970s.
+Les dernières photographies aériennes sont prises pour la série cartographique 1:25,000, et la dernière feuille révisée est publiée. L’impression continue jusqu’à la fin des années 1970. 
 
 
-## Map Legend Lettering and Conventional Signs
+## Légende des cartes – lettrage et signes conventionnels
 
-Original maps in the 1:63,360 series were printed in 5 colours:
+Les cartes d’origine dans la série 1:63,360 ont été imprimées en 5 couleurs : 
 
-* Black: lettering, cultural detail, geographic graticule
-* Red: stone or brick buildings
-* Blue: water features
-* Brown: metalled (paved) roads, contours, spot heights and bench marks
-* Green: wooded areas
+* Noir: lettrage, détail culturel, quadrillage géographique
+* Rouge : Bâtiments en pierre et brique 
+* Bleu : Caractéristiques des eaux
+* Marron : routes revêtues, contours, points d’altitude et points de référence 
+* Vert : Zones boisées
 
-<img class= "img-responsive" src="../../img/legend-63k-1.png" alt="Example of a typical legend on the 1:63,360 series maps, showing symbology and colouring used for the following: highways, roads, paths, railways, post offices, telegraph/telephone routes, survey monuments, boundaries (provincial, county, township), power lines, triangulation stations, cemeteries, telephone exchanges.">
 
-<img class= "img-responsive" src="../../img/legend-63k-2.png" alt="Example of a typical legend on the 1:63,360 series maps, showing symbology and colouring used for the following: houses, barns, mills (saw, grist/flour, cheese, other), quarries, pits (sand, gravel), woods (deciduous, coniferous), churches, schools, marshes, orchards, altitudes, bench marks, contours (elevations, depressions).">
+<img class= "img-responsive" src="../../img/legend-63k-1.png" alt="Exemple d’une légende typique sur les cartes de série 1:63,360, indiquant la symbologie et les couleurs utilisées pour les éléments suivants : autoroutes, routes, chemins, voies ferrées, bureaux de poste, acheminement des communications téléphoniques, monuments de levés, frontières (province, conté, ville), lignes électriques, stations de triangulation, cimetières, échanges téléphoniques.">
 
-By 1927, the use of red to indicate stone or brick buildings was stopped. From this point on, red was used to indicate paved roads. All other colouring remained largely consistent through to the end of the 1:25,000 series.
+<img class= "img-responsive" src="../../img/legend-63k-2.png" alt="Exemple d’une légende typique sur les cartes de série 1:63,360, indiquant la symbologie et les couleurs utilisées pour les éléments suivants : maisons, fermes, moulins (farine, fromage et autre), carrières, sablières (sables, gravier), bois (feuillus, conifères), églises, écoles, marécages, vergers, altitudes, points de référence, contours (élévations, creux).">
 
-Detailed information on the lettering and symbols using in the creation of these maps is available in the resources listed below. Particularly:
+À partir de 1927, l’utilisation du rouge pour indiquer des bâtiments en pierre et brique s’est arrêtée. À partir de cette date, le rouge fut utilisé pour indiquer des routes revêtues. Toutes les autres couleurs sont restées similaires jusqu’à la fin de la série 1:25,000.
 
-**For the 1:63,360s**: Lorrain Dubreuil’s *Canada’s Militia and Defence Maps*.
+Des renseignements détaillés sur le lettrage et les symboles utilisés dans l’élaboration de ces cartes sont disponibles dans les ressources ci-dessous. 
 
-**For the 1:25,000s**: The Canadian Government’s *Cartographic Symbols and Specifications*.
 
-## More Information
-
-For more information, see:
+## Renseignements supplémentaires
 
 Canada, Surveys and Mapping Branch. *Cartographic Symbols and Specifications of the National Topographic System 1:25,000 – 1:50,000 / Spécifications des symbols cartographiques du Système national de reference cartographique*. Ottawa: Surveys and Mapping Branch, 1977.
 
@@ -125,7 +122,7 @@ Dubreuil, Lorraine. *Canada’s Militia and Defence Maps: 1905-1931*. Ottawa: As
 
 Dubreuil, Lorraine. *Standard Topographical maps of Canada, 1904-1948*. Ottawa: Association of Canadian Map Libraries and Archives, 1991.
 
-Natural Resources Canada / Ressources naturelles Canada. *Topographic Maps: The Basics*. http://epe.lac-bac.gc.ca/100/201/301/weekly_checklist/2014/internet/w14-20-U-E.html/collections/collection_2014/rncan-nrcan/M114-35-2014-eng.pdf
+Natural Resources Canada / Ressources naturelles Canada. *Cartes Topographiques: Les éléments de base*. http://epe.lac-bac.gc.ca/100/201/301/weekly_checklist/2014/internet/w14-20-U-E.html/collections/collection_2014/rncan-nrcan/M114-35-2014-fra.pdf
 
 L.M. Sebert. “The One Inch to One Mile Series of the National Mapping Program.” In, *The Canadian Cartographer* 13, no. 2 (December 1976).
 
