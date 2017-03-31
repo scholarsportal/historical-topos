@@ -8,7 +8,7 @@ La première cartographie topographique au Canada a été fragmentée avec plusi
 
 ## Chronologie
 
-<p class="timeline-year">1899-1902</p>
+<p class="timeline-year"><strong>1899-1902</strong></p>
 
 La Guerre des Boers a soulevé des préoccupations au Canada concernant l’importance d’avoir des cartes militaires pour la défense nationale. 
 
