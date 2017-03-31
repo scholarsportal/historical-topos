@@ -20,13 +20,13 @@ Oui ! Ces cartes sont entièrement sans restriction d’accès et dans le domain
 
 Les cartes trouvées dans cette collection peuvent être citées en respectant le format suivant : 
 
-Nom du producteur de données [Nom actuel du producteur de données]. Le Titre du produit géospatial [format]. La date des données, si disponible. Le nom de la personne qui a produit la carte; Le nom du site interactif utilisé pour produire la carte ; l’URL (Date générée). 
+Nom du producteur de données [Nom actuel du producteur de données]. _Le Titre du produit géospatial_ [format]. La date des données, si disponible. Le nom de la personne qui a produit la carte; Le nom du site interactif utilisé pour produire la carte ; l’URL (Date générée). 
 
 Exemples :
 
-Canada, Ministère de la Milice et de la Défense [Ministère de la Défense nationale]. Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 2], 1915 [numérique]. 1915. Produit par John Doe; en utilisant Scholars GeoPortal; http://geo1.scholarsportal.info (22 mars 2017).
+Canada, Ministère de la Milice et de la Défense [Ministère de la Défense nationale]. _Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 2], 1915_ [numérique]. 1915. Produit par John Doe; en utilisant Scholars GeoPortal; http://geo1.scholarsportal.info (22 mars 2017).
  
-Canada, Ministère de l’énergie, des Mines et des Ressources [Ministère des ressources naturelles]. [Burlington, Ontario. 1:25,000. Feuille de carte 030M05C, ed. 3, 1972 [numérique]. 1972. Produit par Jane Doe; en utilisant Scholars GeoPortal; http://geo1.scholarsportal.info (15 février 2017).
+Canada, Ministère de l’énergie, des Mines et des Ressources [Ministère des ressources naturelles]. _Burlington, Ontario. 1:25,000. Feuille de carte 030M05C, ed. 3, 1972_ [numérique]. 1972. Produit par Jane Doe; en utilisant Scholars GeoPortal; http://geo1.scholarsportal.info (15 février 2017).
 
 ## Est-ce que je peux imprimer ces cartes pour mon usage personnel ou pour des projets artistiques?
 
