@@ -55,6 +55,7 @@ Le Ministère de la Milice et de la Défense devient le Ministère de la Défens
 La Division des levés devient le Service de géographie, État-major général, Ministère de la Défense nationale. 
 
 <strong>1931</strong>
+
 La photographie aérienne est largement utilisée pour tous les nouveaux levés topographiques et nouvelles révisions. Toutes les photographies sont prises par l’ARC. 
 
 <strong>1936</strong>
