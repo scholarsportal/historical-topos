@@ -14,7 +14,7 @@ title = "FAQ"
 
 ## Can I use these maps in a publication or website? 
 
-Yes! These maps are completely open access and in the public domain, you are free to adapt and re-use them in a publication of any medium. Please be sure to properly cite the maps, and acknowledge their source. If you use these maps in a publication, [we’d love to hear from you](http://ocul.on.ca/topomaps/contact/)!
+Yes! These maps are completely open access and in the public domain, you are free to adapt and re-use them in a publication of any medium. Please be sure to properly cite the maps, and acknowledge their source. If you use these maps in a publication, [we’d love to hear from you](../contact/).
 
 ## If I use these maps in a publication, how do I cite them?
 

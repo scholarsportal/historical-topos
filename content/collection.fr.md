@@ -12,7 +12,7 @@ For more information on using the map index and searching maps in Scholars GeoPo
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together
 
-  $.getJSON("../combined_namesort.json", function(json) {
+  $.getJSON("../../combined_namesort.json", function(json) {
 
     // Create an array from the json file
     var jsontext = JSON.parse(JSON.stringify(json));

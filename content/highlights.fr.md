@@ -12,8 +12,8 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 (areas forming the Don River Delta and Ashbridge’s Bay)
 
 <div class="juxtapose">
-    <img src="../img/highlights/030M11_1909.jpg" data-label="1909" />
-    <img src="../img/highlights/030M11_1918.jpg" data-label="1918" />
+    <img src="../../img/highlights/030M11_1909.jpg" data-label="1909" />
+    <img src="../../img/highlights/030M11_1918.jpg" data-label="1918" />
 </div>
 
 <div class="row slider-description">
@@ -31,8 +31,8 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 ## Urban Growth in the Ottawa area
 
 <div class="juxtapose">
-    <img src="../img/highlights/031G05_1908.jpg" data-label="1908" />
-    <img src="../img/highlights/031G05_1932.jpg" data-label="1932" />
+    <img src="../../img/highlights/031G05_1908.jpg" data-label="1908" />
+    <img src="../../img/highlights/031G05_1932.jpg" data-label="1932" />
 </div>
 
 <div class="row slider-description">
@@ -50,8 +50,8 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 ## Thames River Flooding in London
 
 <div class="juxtapose">
-	<img src="../img/highlights/HTDP63360K040P03_1923TIFF.jpg" data-label="1923" />
-    <img src="../img/highlights/HTDP25K040P03b_1962TIFF.jpg" data-label="1962" />
+	<img src="../../img/highlights/HTDP63360K040P03_1923TIFF.jpg" data-label="1923" />
+    <img src="../../img/highlights/HTDP25K040P03b_1962TIFF.jpg" data-label="1962" />
 </div>
 
 <div class="row slider-description">
@@ -70,4 +70,4 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 - [Fanshaw Dam fact sheet, Upper Thames River Conservation Authority](https://thamesriver.on.ca/wp-content/uploads//FloodStructures/FPW-dams/FanshaweDam-brochure2011.pdf)
 - [Upper Thames River Conservation Authority. The Flood of April 1937](http://thamesriver.on.ca/water-management/flooding-on-the-thames-river/1937-flood/)
 
-<script src="../js/juxtapose.js"></script>
+<script src="../../js/juxtapose.js"></script>
