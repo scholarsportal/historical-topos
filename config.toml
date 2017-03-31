@@ -30,11 +30,11 @@ weight = 1
 name = "Home"
 url = ""
 [[Languages.en.navlinks]]
-name = "About the Maps"
-url = "about-maps/"
-[[Languages.en.navlinks]]
 name = "About the Project"
 url = "about-project/"
+[[Languages.en.navlinks]]
+name = "About the Maps"
+url = "about-maps/"
 [[Languages.en.navlinks]]
 name = "Collection Highlights"
 url = "highlights/"
@@ -60,11 +60,11 @@ weight = 2
 name = "Accueil"
 url = "fr/"
 [[Languages.fr.navlinks]]
-name = "Au sujet des cartes"
-url = "fr/about-maps/"
-[[Languages.fr.navlinks]]
 name = "À propos du projet"
 url = "fr/about-project/"
+[[Languages.fr.navlinks]]
+name = "Au sujet des cartes"
+url = "fr/about-maps/"
 [[Languages.fr.navlinks]]
 name = "Points saillants de la collection"
 url = "fr/highlights/"
