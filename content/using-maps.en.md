@@ -79,14 +79,14 @@ You can adjust the transparency of the map in comparison to the basemap to showc
 
 Using the transparency slider bar, you can adjust the transparency of the top layer, revealing the ones beneath. You can do this with multiple overlapping maps. 
 
-If you would like to rearrange the maps, so that one is on top of the other, simply click on a map under the Map tab, and drag to the desired position. Please note that the index map will still appear in this listing and must remain on top of the list to resume interacting in the index navigation mode.
+If you would like to rearrange the maps, so that one is on top of the other, simply click on a map under the _Map_ tab, and drag to the desired position. Please note that the index map will still appear in this listing and must remain on top of the list to resume interacting in the index navigation mode.
 
 ### Viewing & overlaying multiple maps
 
 Depending upon which index cell you have selected, there may be more than one map available for a particular area. These are often referred to as editions. To view more than one map at the same time using the viewer:
 
-1. From the map results list, click the View button on as many map sheets as you would like to display.
-2. From the Map tab, you can reorder the maps according to how you would like them to be displayed in the GeoPortal viewer, with the first result listed appearing on top. You can use the transparency slider bar to view changes over time on the map editions. 
+1. From the map results list, click the _View_ button on as many map sheets as you would like to display.
+2. From the _Map_ tab, you can reorder the maps according to how you would like them to be displayed in the GeoPortal viewer, with the first result listed appearing on top. You can use the transparency slider bar to view changes over time on the map editions. 
 
 <img class="img-responsive using-maps" src="../img/usingmaps/Figure-12.PNG" alt="Screen capture of the ‘map’ tab in the GeoPortal, transparency slider circled.">
 
