@@ -24,9 +24,9 @@ Nom du producteur de données [Nom actuel du producteur de données]. _Le Titre 
 
 Exemples :
 
-Canada, Ministère de la Milice et de la Défense [Ministère de la Défense nationale]. _Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 2], 1915_ [numérique]. 1915. Produit par John Doe; en utilisant Scholars GeoPortal; http://geo1.scholarsportal.info (22 mars 2017).
+Canada, Ministère de la Milice et de la Défense [Ministère de la Défense nationale]. _Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 2], 1915_ [numérique]. 1915. Produit par John Doe; en utilisant Scholars GeoPortal; http://geo.scholarsportal.info (22 mars 2017).
  
-Canada, Ministère de l’énergie, des Mines et des Ressources [Ministère des ressources naturelles]. _Burlington, Ontario. 1:25,000. Feuille de carte 030M05C, ed. 3, 1972_ [numérique]. 1972. Produit par Jane Doe; en utilisant Scholars GeoPortal; http://geo1.scholarsportal.info (15 février 2017).
+Canada, Ministère de l’énergie, des Mines et des Ressources [Ministère des ressources naturelles]. _Burlington, Ontario. 1:25,000. Feuille de carte 030M05C, ed. 3, 1972_ [numérique]. 1972. Produit par Jane Doe; en utilisant Scholars GeoPortal; http://geo.scholarsportal.info (15 février 2017).
 
 ## Est-ce que je peux imprimer ces cartes pour mon usage personnel ou pour des projets artistiques?
 
