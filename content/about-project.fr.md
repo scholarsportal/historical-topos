@@ -47,7 +47,7 @@ Pendant la durée du projet, il y a eu de nombreux contributeurs partout dans l�
 * Ressources naturelles Canada
 * Bibliothèque de l’Université Queen
 * Bibliothèque de l’Université Ryerson 
-* Portail des chercheurs, OCUL
+* Scholar's Portal (le Portail des chercheurs), OCUL
 * Bibliothèque de consultation de Toronto
 * Bibliothèque de l’Université Trent 
 * Bibliothèque de l’Université de l’Alberta
@@ -78,12 +78,12 @@ Pendant la durée du projet, il y a eu de nombreux contributeurs partout dans l�
 * Bianca Chiarenza (Université Ryerson)
 * Noel Damba (Université Ryerson)
 * Dan Jakubek (Université Ryerson)
-* Jo Ashley (Portail des chercheurs, OCUL)
-* Jaiwei Chen (Portail des chercheurs, OCUL)
-* Kara Handren (Portail des chercheurs, OCUL)
-* Amber Leahey (Portail des chercheurs, OCUL)
-* Kaitlin Newson (Portail des chercheurs, OCUL)
-* Kevin Worthington (Portail des chercheurs, OCUL)
+* Jo Ashley (Scholar's Portal, OCUL)
+* Jaiwei Chen (Scholar's Portal, OCUL)
+* Kara Handren (Scholar's Portal, OCUL)
+* Amber Leahey (Scholar's Portal, OCUL)
+* Kaitlin Newson (Scholar's Portal, OCUL)
+* Kevin Worthington (Scholar's Portal, OCUL)
 * Charles Hill (Bibliothèque de l’Université d’Ottawa)
 * Raphaël Pelletier (Bibliothèque de l’Université d’Ottawa)
 * Sophie Routhier LeBlanc (Bibliothèque de l’Université d’Ottawa)
