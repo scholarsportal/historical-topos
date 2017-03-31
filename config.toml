@@ -11,7 +11,6 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [params]
-logo = "img/ocul.png"
 logourl = "http://ocul.on.ca"
 style = "blue"
 email = "topomaps@scholarsportal.info"
@@ -26,6 +25,7 @@ languageName = "English"
 title = "Historical Topographic Map Digitization Project"
 languageCode = "en"
 weight = 1
+logo = "img/ocul.png"
 [[Languages.en.navlinks]]
 name = "Home"
 url = ""
@@ -56,6 +56,7 @@ languageName = "Français"
 title = "Projet de numérisation de la carte topographique historique"
 languageCode = "fr"
 weight = 2
+logo = "img/cbou.png"
 [[Languages.fr.navlinks]]
 name = "Accueil"
 url = "fr/"
