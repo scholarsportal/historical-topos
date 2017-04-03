@@ -8,9 +8,9 @@ id = "031C02_1916"
 weight = 1
 +++
 
-This is a georeferenced raster image of a printed paper map of the Bath, Ontario region (Sheet No. 63), published in 1916. It is the first edition in a series of four maps, published between 1916 and 1939.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Bath, région de l’Ontario (feuille No. 63), publiée en 1916. C’est la première édition d’une série de quatre cartes publiées entre 1916 et 1939. 
 <!--more-->
 
-The survey for this map was conducted in 1907, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
+Le levé pour cette carte a été fait en 1907, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale. 
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C02_1916TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C02_1916TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C02_1916TIFF&_add:true) | [Télécharger la carte](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C02_1916TIFF.jpg)

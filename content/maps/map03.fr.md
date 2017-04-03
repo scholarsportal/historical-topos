@@ -8,9 +8,9 @@ id = "031F11_1937"
 weight = 3
 +++
 
-This is a georeferenced raster image of a printed paper map of the Golden Lake, Ontario region (Sheet No. 031F11), published in 1937. It is the first and only edition of this map.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Golden Lake, région de l’Ontario (feuille No. 031F11), publiée en 1937. C’est la première et la seule édition de cette carte.
 <!--more-->
 
-The survey for this map was conducted in 1935 using imagery taken by the Royal Canadian Air Force, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
+Le levé pour cette carte a été fait en 1935 en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031F11_1937TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=) | [Télécharger la carte](http://ocul.on.ca/topomaps/map-images/HTDP63360K031F11_1937TIFF.jpg)
