@@ -8,9 +8,9 @@ id = "030M03a_1963"
 weight = 9
 +++
 
-This is a georeferenced raster image of a printed paper map of the Niagara Falls, Ontario region (Sheet No. 030M03A), published in 1963. It is the second edition in a series of three maps, published between 1962 and 1973, and is unusual in that coverage extends into the United States of America. In many of these cases, information was obtained from the U.S. American Mapping series, before being scribed by the Canadian Design Service.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier des Chutes du Niagara, région de l’Ontario (feuille No. 030M03A), publiée en 1963. C’est la deuxième édition d’une série de trois cartes publiées entre 1962 et 1973. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par Canadian Design Service. 
 <!--more-->
 
-The survey for this map was conducted using aerial imagery, as part of a survey commissioned by the Canadian Army Survey Establishment (A.S.E.). These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
+Le levé pour cette carte a été fait en utilisant une imagerie aérienne, faisant partie d’un levé commandé par le Service topographique de l’armée canadienne (STA). Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada. 
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M03a_1963TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K030M03a_1963TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M03a_1963TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K030M03a_1963TIFF.jpg)
