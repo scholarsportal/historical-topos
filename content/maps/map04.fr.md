@@ -8,9 +8,9 @@ id = "031G05-G02_1939"
 weight = 4
 +++
 
-This is a georeferenced raster image of a printed paper map of the Ottawa- Gatineau District, Ontario region (Sheet No. 031G05-G02), published in 1939. It is the second edition in a series of maps, published between 1931 and 1953. Unlike most other maps in the 1:63,360 series, this map does not cover a single index tile; rather, it sits in the middle of two separate tiles.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier du district Ottawa-Gatineau, région de l’Ontario (feuille No. 031G05-G02), publiée en 1939. C’est la deuxième édition d’une série de cartes publiées entre 1931 et 1953. Contrairement à la plupart des autres cartes dans la série 1:63,360, cette carte ne couvre pas un pavé cartographique unique, mais se trouve plutôt au milieu de deux pavés séparés. 
 <!--more-->
 
-The exact survey date for this map is not known. The survey was conducted using imagery taken by the Royal Canadian Air Force, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Mapping Branch of the Department of Energy, Mines and Resources. 
+Le levé pour cette carte a été fait en 1935 en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05-G02_1939TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031G05-G02_1939TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05-G02_1939TIFF&_add:true) | [Télécharger la carte](http://ocul.on.ca/topomaps/map-images/HTDP63360K031G05-G02_1939TIFF.jpg)
