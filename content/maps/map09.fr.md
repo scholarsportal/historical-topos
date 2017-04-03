@@ -1,5 +1,5 @@
 +++
-title = "Niagara Falls, Ontario. 1:25,000. Map Sheet 030M03A, ed. 2, 1963"
+title = "Niagara Falls, Ontario. 1:25,000. Feuille de carte 030M03A, éd. 2, 1963"
 draft = false
 thumbnail = "img/thumb/030M03a_1963.gif"
 fullimage = "img/full/030M03a_1963.jpg"
