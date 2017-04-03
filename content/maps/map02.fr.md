@@ -1,5 +1,5 @@
 +++
-title = "Barrie, Ontario. 1:63,360. Map Sheet 031D05, [ed. 1], 1928"
+title = "Barrie, Ontario. 1:63,360. Feuille de carte 031D05, [éd. 1], 1928"
 draft = false
 thumbnail = "img/thumb/031D05_1928.gif"
 fullimage = "img/full/031D05_1928.jpg"
