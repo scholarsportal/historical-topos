@@ -8,9 +8,9 @@ id = "031L06d_1965"
 weight = 14
 +++
 
-This is a georeferenced raster image of a printed paper map of the North Bay, Ontario region (Sheet No. 031L06D), published in 1965. It is the first edition in a series of two maps, published between 1965 and 1977. It is the only map for this area of Ontario.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de North Bay, région de l’Ontario (feuille No. 031L06D), publiée en 1965. C’est la première édition d’une série de deux cartes publiées entre 1965 et 1977. C’est la seule carte pour cette partie de l’Ontario. 
 <!--more-->
 
-The photograph used to create this map was originally taken in 1963, by the Hunting Survey Corporation Limited, based out of Toronto, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
+La photographie utilisée pour créer cette carte fut prise à l’origine en 1968 par la Hunting Survey Corporation Limited, basée à Toronto, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031L06d_1965TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K031L06d_1965TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031L06d_1965TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031L06d_1965TIFF.jpg)
