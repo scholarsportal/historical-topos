@@ -1,5 +1,5 @@
 +++
-title = "Kingston, Ontario. 1:63,360. Map Sheet 031C01-C02-C07-C08, [ed. 1], 1940"
+title = "Kingston, Ontario. 1:63,360. Feuille de carte 031C01-C02-C07-C08, [éd. 1], 1940"
 draft = false
 thumbnail = "img/thumb/031C01-C02-C07-C08_1940.gif"
 fullimage = "img/full/031C01-C02-C07-C08_1940.jpg"
