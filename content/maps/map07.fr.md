@@ -1,5 +1,5 @@
 +++
-title = "Tobermory, Ontario. 1:63,360. Map Sheet 041H03-H04, [ed. 1], 1946"
+title = "Tobermory, Ontario. 1:63,360. Feuille de carte 041H03-H04, [éd. 1], 1946"
 draft = false
 thumbnail = "img/thumb/041H03-H04_1946.gif"
 fullimage = "img/full/041H03-H04_1946.jpg"
