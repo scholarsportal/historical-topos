@@ -1,5 +1,5 @@
 +++
-title = "Algonquin, Ontario. 1:25,000. Map Sheet 031B12G, ed. 1, 1968"
+title = "Algonquin, Ontario. 1:25,000. Feuille de carte 031B12G, éd. 1, 1968"
 draft = false
 thumbnail = "img/thumb/031B12g_1968.gif"
 fullimage = "img/full/031B12g_1968.jpg"
