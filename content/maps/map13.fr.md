@@ -1,5 +1,5 @@
 +++
-title = "Ottawa, Ontario. 1:25,000. Map Sheet 031G05G, ed. 3, 1971"
+title = "Ottawa, Ontario. 1:25,000. Feuille de carte 031G05G, éd. 3, 1971"
 draft = false
 thumbnail = "img/thumb/031G05g_1971.gif"
 fullimage = "img/full/031G05g_1971.jpg"
