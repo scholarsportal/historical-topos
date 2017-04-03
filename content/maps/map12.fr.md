@@ -1,5 +1,5 @@
 +++
-title = "Dog Lake, Ontario. 1:25,000. Map Sheet 031C08F, ed. 2, 1972"
+title = "Dog Lake, Ontario. 1:25,000. Feuille de carte 031C08F, éd. 2, 1972"
 draft = false
 thumbnail = "img/thumb/031C08f_1972.gif"
 fullimage = "img/full/031C08f_1972.jpg"
