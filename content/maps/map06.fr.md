@@ -8,10 +8,10 @@ id = "031C01-C02-C07-C08_1940"
 weight = 6
 +++
 
-This is a georeferenced raster image of a printed paper map of the Kingston, Ontario region (Sheet No. 031C01-C02-C07-C08), published in 1940. It is the first and only edition of this map. Unlike most other maps in the 1:63,360 series, this map does not cover a single index tile; rather, it sits in the middle of four separate tiles.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Kingston, région de l’Ontario (feuille No. 031C01-C02-C07-C08), publiée en 1940. C’est la première et la seule édition de cette carte. Contrairement à la plupart des autres cartes dans la série 1:63,360, cette carte ne couvre pas un pavé cartographique unique, mais se trouve plutôt au milieu de quatre pavés séparés.
 
 <!--more-->
 
-The exact survey date for this map is not known. The survey for this map was conducted as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
+La date exacte du levé de cette carte est inconnue. Le levé pour cette carte a été fait en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C01-C02-C07-C08_1940TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C01-C02-C07-C08_1940TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C01-C02-C07-C08_1940TIFF&_add:true) | [Télécharger la carte](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C01-C02-C07-C08_1940TIFF.jpg)
