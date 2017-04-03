@@ -1,5 +1,5 @@
 +++
-title = "Sudbury, Ontario. 1:25,000. Map Sheet 041I07E, ed. 2, 1977"
+title = "Sudbury, Ontario. 1:25,000. Feuille de carte 041I07E, éd. 2, 1977"
 draft = false
 thumbnail = "img/thumb/041I07e_1977.gif"
 fullimage = "img/full/041I07e_1977.jpg"
