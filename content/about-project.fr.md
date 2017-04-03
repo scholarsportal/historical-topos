@@ -5,7 +5,7 @@ title = "À propos du projet"
 
 ## Aperçu général
 
-La projet de numérisation des cartes topographiques historiques du Conseil des bibliothèques universitaires de l’Ontario (CBUO) s’agit d’une collaboration à l’échelle de la province pour inventorier, numériser, géoréferencer, et permettre l’accès aux premières cartes topographiques de l’Ontario. La collection permet l’accès libre aux cartes topographiques géoréférencées aux échelles 1: 25000 et 1: 63360, couvrant des villages, des villes et des secteurs environnants de l’Ontario, entre 1906 et 1977. Le projet, ajoute plus de 1,000 carte à notre base de données numérique collective.
+La projet de numérisation des cartes topographiques historiques du Conseil des bibliothèques universitaires de l’Ontario (CBUO) s’agit d’une collaboration à l’échelle de la province pour inventorier, numériser, géoréferencer, et permettre l’accès aux premières cartes topographiques de l’Ontario. La collection permet l’accès libre aux cartes topographiques géoréférencées aux échelles 1: 25000 et 1: 63360, couvrant des villages, des villes et des secteurs environnants de l’Ontario, entre 1906 et 1977. Le projet ajoute plus de 1,000 carte à notre base de données numérique collective.
 
 Les universités de l’Ontario ont contribué en fournissant et en numérisant des cartes, en effectuant un géoréférencement des images numériques, en créant des métadonnées pour les dossiers et en élaborant une présentation géographique en ligne des cartes pour permettre l’accès au public. 
 
