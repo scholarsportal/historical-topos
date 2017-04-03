@@ -1,5 +1,5 @@
 +++
-title = "West Toronto, Ontario. 1:25,000. Map Sheet 030M11E, ed. 3, 1974"
+title = "West Toronto, Ontario. 1:25,000. Feuille de carte 030M11E, éd. 3, 1974"
 draft = false
 thumbnail = "img/thumb/030M11e_1974.gif"
 fullimage = "img/full/030M11e_1974.jpg"
