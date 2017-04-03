@@ -8,9 +8,9 @@ id = "041K09_1939"
 weight = 8
 +++
 
-This is a georeferenced raster image of a printed paper map of the Sault Ste. Marie, Ontario region (Sheet No. 041K09), published in 1939. It is the first and only edition of this map, and is unusual in that the map was extended in order to include an area outside of the index grid, the Peninsula. A gridded version of this map (MB Grid System) was also published in the same year.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Sault Ste. Marie, région de l’Ontario (feuille No. 041K09), publiée en 1939. C’est la première et la seule édition de cette carte. Elle est assez inhabituelle car elle fut agrandie pour inclure une zone extérieure de la grille d’index, la Péninsule. Une version quadrillée de cette carte (système MB Grid) fut également publiée cette même année. 
 <!--more-->
 
-The survey for this map was conducted in 1937 using imagery taken by the Royal Canadian Air Force, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
+Le levé pour cette carte a été fait en 1937 en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K041K09_1939TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K041K09_1939TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K041K09_1939TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP63360K041K09_1939TIFF.jpg)
