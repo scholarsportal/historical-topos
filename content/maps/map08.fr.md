@@ -1,5 +1,5 @@
 +++
-title = "Sault Ste. Marie, Ontario. 1:63,360. Map Sheet 041K09, [ed. 1], ungridded, 1939"
+title = "Sault Ste. Marie, Ontario. 1:63,360. Feuille de carte 041K09, [éd. 1], ungridded, 1939"
 draft = false
 thumbnail = "img/thumb/041K09_1939.gif"
 fullimage = "img/full/041K09_1939.jpg"
