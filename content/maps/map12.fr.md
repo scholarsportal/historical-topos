@@ -8,9 +8,9 @@ id = "031C08f_1972"
 weight = 12
 +++
 
-This is a georeferenced raster image of a printed paper map of the Dog Lake, Ontario region (Sheet No. 031C08F), published in 1972. It is the second edition in a series of two maps, published between 1960 and 1972.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Dog Lake, région de l’Ontario (feuille No. 031C08F), publiée en 1972. C’est la deuxième édition d’une série de deux cartes publiées entre 1960 et 1972. 
 <!--more-->
 
-The photograph used to create this map was originally taken in 1969, by the Survair Limited, based out of Ottawa, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
+La photographie utilisée pour créer cette carte fut prise à l’origine en 1969 par Survair Limited, basée à Ottawa, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[View in Scholars GeoPortal]http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031C08f_1972TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K031C08f_1972TIFF.jpg)
+[Voir dans GeoPortal]http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031C08f_1972TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031C08f_1972TIFF.jpg)
