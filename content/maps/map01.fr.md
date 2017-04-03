@@ -13,4 +13,4 @@ Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur 
 
 Le levé pour cette carte a été fait en 1907, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale. 
 
-[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C02_1916TIFF&_add:true) | [Télécharger la carte](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C02_1916TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C02_1916TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C02_1916TIFF.jpg)
