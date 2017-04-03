@@ -1,5 +1,5 @@
 +++
-title = "Ottawa- Gatineau District, Ontario. 1:63,360. Map Sheet 031G05-G02, [ed. 2], 1939"
+title = "Ottawa- Gatineau District, Ontario. 1:63,360. Feuille de carte 031G05-G02, [éd. 2], 1939"
 draft = false
 thumbnail = "img/thumb/031G05-G02_1939.gif"
 fullimage = "img/full/031G05-G02_1939.jpg"
