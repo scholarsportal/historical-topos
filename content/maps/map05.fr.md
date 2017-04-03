@@ -1,5 +1,5 @@
 +++
-title = "Gananoque, Ontario. 1:63,360. Map Sheet 031C08, [ed. 1], 1916"
+title = "Gananoque, Ontario. 1:63,360. Feuille de carte 031C08, [éd. 1], 1916"
 draft = false
 thumbnail = "img/thumb/031C08_1916.gif"
 fullimage = "img/full/031C08_1916.jpg"
