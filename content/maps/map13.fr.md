@@ -8,9 +8,9 @@ id = "031G05g_1971"
 weight = 13
 +++
 
-This is a georeferenced raster image of a printed paper map of the Ottawa, Ontario region (Sheet No. 031G05G), published in 1971. It is the third edition in a series of three maps, published between 1961 and 1971, and is unusual in that coverage extends into the United States of America. In many of these cases, information was obtained from the U.S. American Mapping series, before being scribed by the Canadian Design Service.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier d’Ottawa, région de l’Ontario (feuille No. 031G05G), publiée en 1971. C’est la troisième édition d’une série de trois cartes publiées entre 1961 et 1971. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par Canadian Design Services.
 <!--more-->
 
-The photograph used to create this map was originally taken in 1968, by the Survair Limited, based out of Ottawa, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
+La photographie utilisée pour créer cette carte fut prise à l’origine en 1968 par Survair Limited, basée à Ottawa, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[View in Scholars GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031G05g_1971TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K031G05g_1971TIFF.jpg)
+[Voir dans GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031G05g_1971TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031G05g_1971TIFF.jpg)
