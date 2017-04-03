@@ -29,7 +29,7 @@ Pour en savoir plus sur l’utilisation de l’index des cartes pour faire une r
 
       lines += '<div class="' + title + '-section sheet-item">';
       lines += '<p>Year: ' + jsontext[i].year + ' | ';
-      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
+      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
       lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Télécharger l\'image</a></p>';
       lines += '</div>';
 
