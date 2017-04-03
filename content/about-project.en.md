@@ -5,7 +5,9 @@ title = "About The Project"
 
 ## Overview
 
-The project, distributed across several university libraries, adds over 1000 maps to our collective digital holdings, including most known sheets covering Ontario from the 1:63,360 and 1:25,000 national topographic map series. Ontario universities have contributed their support by supplying and scanning maps, georeferencing the digital images, creating metadata for the records, and developing the online geographical display of the maps for the public to access.
+The Ontario Council of University Libraries (OCUL) Historical Topographic Map Digitization Project is a province-wide collaboration to inventory, digitize, georeference, and provide broad access to early topographic maps of Ontario. The collection provides open access to georeferenced topographic maps at the 1:25,000 and 1:63,360 (one inch to one mile) scales, covering towns, cities, and rural areas in Ontario over the period of 1906 to 1977. The project adds over 1000 maps to our collective digital holdings.
+
+Ontario universities have contributed their support by supplying and scanning maps, georeferencing the digital images, creating metadata for the records, and developing the online geographical display of the maps for the public to access.
 
 Topographic maps at these scales are heavily used by researchers interested in examining changes over time, such as urban sprawl, transportation patterns, diminishing woodlots, or shoreline erosion.
 
