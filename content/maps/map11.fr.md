@@ -8,9 +8,9 @@ id = "030M11e_1974"
 weight = 11
 +++
 
-This is a georeferenced raster image of a printed paper map of the West Toronto, Ontario region (Sheet No. 030M11E), published in 1974. It is the third edition in a series of three maps, published between 1961 and 1974. It is unusual in that the map was extended in order to include an area outside of the index grid, the Toronto Islands.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de l’Ouest de Toronto, région de l’Ontario (feuille No. 030M11E), publiée en 1974. C’est la troisième édition d’une série de trois cartes publiées entre 1961 et 1974. Elle est assez inhabituelle carte elle fut agrandie pour inclure une zone extérieure de la grille d’index, les Îles de Toronto. 
 <!--more-->
 
-The photograph used to create this map was originally taken in 1969, by the Lockwood Survey Corporation Limited, based out of Toronto, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
+La photographie utilisée pour créer cette carte fut prise à l’origine en 1969 par la Lockwood Survey Corporation Limited, basée à Toronto, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M11e_1974TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K030M11e_1974TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M11e_1974TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K030M11e_1974TIFF.jpg)
