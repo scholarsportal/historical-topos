@@ -1,5 +1,5 @@
 +++
-title = "Bath, Ontario. 1:63,360. Map Sheet 031C02, [ed. 1], 1916"
+title = "Bath, Ontario. 1:63,360. Feuille de carte 031C02, [éd. 1], 1916"
 draft = false
 thumbnail = "img/thumb/031C02_1916.gif"
 fullimage = "img/full/031C02_1916.jpg"
