@@ -8,9 +8,9 @@ id = "031B12g_1968"
 weight = 10
 +++
 
-This is a georeferenced raster image of a printed paper map of the Algonquin, Ontario region (Sheet No. 031B12G), published in 1968. It is the first edition in a series of two maps, published between 1968 and 1977. Unlike most other maps in the 1:25,000 series, this map is not of a populated area.
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier d’Algonquin, région de l’Ontario (feuille No. 031B12G), publiée en 1968. C’est la première édition d’une série de deux cartes publiées entre 1968 et 1977. Contrairement à la plupart des autres cartes de la série 1:25,000, celle-ci n’est pas une zone peuplée. 
 <!--more-->
 
-The photograph used to create this map was originally taken in 1963, by the Hunting Survey Corporation Limited, based out of Toronto, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
+La photographie utilisée pour créer cette carte fut prise à l’origine en 1963 par la Hunting Survey Corporation Limited, basée à Toronto, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[View in Scholars GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031B12g_1968TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K031B12g_1968TIFF.jpg)
+[Voir dans GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031B12g_1968TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031B12g_1968TIFF.jpg)
