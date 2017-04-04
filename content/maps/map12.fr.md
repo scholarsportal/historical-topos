@@ -13,4 +13,4 @@ Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur 
 
 La photographie utilisée pour créer cette carte fut prise à l’origine en 1969 par Survair Limited, basée à Ottawa, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[Voir dans GeoPortal]http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031C08f_1972TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031C08f_1972TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031C08f_1972TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031C08f_1972TIFF.jpg)

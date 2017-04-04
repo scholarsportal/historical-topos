@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Dog Lake, Ont
 
 The photograph used to create this map was originally taken in 1969, by the Survair Limited, based out of Ottawa, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
 
-[View in Scholars GeoPortal]http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031C08f_1972TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K031C08f_1972TIFF.jpg)
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031C08f_1972TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K031C08f_1972TIFF.jpg)
