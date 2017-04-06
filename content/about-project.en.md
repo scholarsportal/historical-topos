@@ -1,5 +1,5 @@
 +++
-date = "2017-03-23"
+date = "2017-04-06"
 title = "About The Project"
 +++
 
@@ -66,6 +66,7 @@ Over the course of the project there were many contributors from across Ontario,
 
 ### Individuals
 * Colleen Beard (Brock University)
+* Sharon Janzen (Brock University)
 * Rebecca Bartlett (Carleton University Library)
 * Ryder Burt (Carleton University Library)
 * Joël Rivard (Carleton University Library)

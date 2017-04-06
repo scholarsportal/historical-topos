@@ -25,11 +25,6 @@
         "year": 1974
     },
     {
-        "fullname": "HTDP63360K052M03_1951TIFF",
-        "title": "Aikens Lake",
-        "year": 1951
-    },
-    {
         "fullname": "HTDP25K030M14a_1963TIFF",
         "title": "Ajax",
         "year": 1963
@@ -145,16 +140,6 @@
         "year": 1972
     },
     {
-        "fullname": "HTDP25K040J03a_1961TIFF",
-        "title": "Amherstburg",
-        "year": 1961
-    },
-    {
-        "fullname": "HTDP25K040J03a_1974TIFF",
-        "title": "Amherstburg",
-        "year": 1974
-    },
-    {
         "fullname": "HTDP63360K040J03_1910TIFF",
         "title": "Amherstburg",
         "year": 1910
@@ -163,6 +148,16 @@
         "fullname": "HTDP63360K040J03_1924TIFF",
         "title": "Amherstburg",
         "year": 1924
+    },
+    {
+        "fullname": "HTDP25K040J03a_1961TIFF",
+        "title": "Amherstburg",
+        "year": 1961
+    },
+    {
+        "fullname": "HTDP25K040J03a_1974TIFF",
+        "title": "Amherstburg",
+        "year": 1974
     },
     {
         "fullname": "HTDP25K040I13b_1972TIFF",
@@ -305,11 +300,6 @@
         "year": 1948
     },
     {
-        "fullname": "HTDP25K031C02f_1970TIFF",
-        "title": "Bath",
-        "year": 1970
-    },
-    {
         "fullname": "HTDP63360K031C02_1916TIFF",
         "title": "Bath",
         "year": 1916
@@ -328,6 +318,11 @@
         "fullname": "HTDP63360K031C02_1939_UTMTIFF",
         "title": "Bath",
         "year": 1939
+    },
+    {
+        "fullname": "HTDP25K031C02f_1970TIFF",
+        "title": "Bath",
+        "year": 1970
     },
     {
         "fullname": "HTDP25K031C01f_1960TIFF",
@@ -380,11 +375,6 @@
         "year": 1939
     },
     {
-        "fullname": "HTDP25K040J07b_1968TIFF",
-        "title": "Belle River",
-        "year": 1968
-    },
-    {
         "fullname": "HTDP63360K040J07_1912TIFF",
         "title": "Belle River",
         "year": 1912
@@ -403,6 +393,11 @@
         "fullname": "HTDP63360K040J07_1940_MBTIFF",
         "title": "Belle River",
         "year": 1940
+    },
+    {
+        "fullname": "HTDP25K040J07b_1968TIFF",
+        "title": "Belle River",
+        "year": 1968
     },
     {
         "fullname": "HTDP63360K031C03_1933TIFF",
@@ -560,16 +555,6 @@
         "year": 1976
     },
     {
-        "fullname": "HTDP25K030M12f_1963TIFF",
-        "title": "Brampton",
-        "year": 1963
-    },
-    {
-        "fullname": "HTDP25K030M12f_1973TIFF",
-        "title": "Brampton",
-        "year": 1973
-    },
-    {
         "fullname": "HTDP63360K030M12_1909TIFF",
         "title": "Brampton",
         "year": 1909
@@ -618,6 +603,16 @@
         "fullname": "HTDP63360K030M12_1942_UTMTIFF",
         "title": "Brampton",
         "year": 1942
+    },
+    {
+        "fullname": "HTDP25K030M12f_1963TIFF",
+        "title": "Brampton",
+        "year": 1963
+    },
+    {
+        "fullname": "HTDP25K030M12f_1973TIFF",
+        "title": "Brampton",
+        "year": 1973
     },
     {
         "fullname": "HTDP63360K040P01_1916TIFF",
@@ -720,16 +715,6 @@
         "year": 1970
     },
     {
-        "fullname": "HTDP25K031B12b_1968TIFF",
-        "title": "Brockville",
-        "year": 1968
-    },
-    {
-        "fullname": "HTDP25K031B12b_1976TIFF",
-        "title": "Brockville",
-        "year": 1976
-    },
-    {
         "fullname": "HTDP63360K031B12_1908TIFF",
         "title": "Brockville",
         "year": 1908
@@ -758,6 +743,16 @@
         "fullname": "HTDP63360K031B12_1940TIFF",
         "title": "Brockville",
         "year": 1940
+    },
+    {
+        "fullname": "HTDP25K031B12b_1968TIFF",
+        "title": "Brockville",
+        "year": 1968
+    },
+    {
+        "fullname": "HTDP25K031B12b_1976TIFF",
+        "title": "Brockville",
+        "year": 1976
     },
     {
         "fullname": "HTDP25K030M15e_1969TIFF",
@@ -1250,11 +1245,6 @@
         "year": 1972
     },
     {
-        "fullname": "HTDP63360K041I02_1930TIFF",
-        "title": "Delamere",
-        "year": 1930
-    },
-    {
         "fullname": "HTDP25K040I16d_1970TIFF",
         "title": "Delhi",
         "year": 1970
@@ -1325,11 +1315,6 @@
         "year": 1973
     },
     {
-        "fullname": "HTDP25K030L13h_1969TIFF",
-        "title": "Dunnville",
-        "year": 1969
-    },
-    {
         "fullname": "HTDP63360K030L13_1906TIFF",
         "title": "Dunnville",
         "year": 1906
@@ -1353,6 +1338,11 @@
         "fullname": "HTDP63360K030L13_1938_UTMTIFF",
         "title": "Dunnville",
         "year": 1938
+    },
+    {
+        "fullname": "HTDP25K030L13h_1969TIFF",
+        "title": "Dunnville",
+        "year": 1969
     },
     {
         "fullname": "HTDP63360K041A02_1945_MBTIFF",
@@ -1415,16 +1405,6 @@
         "year": 1976
     },
     {
-        "fullname": "HTDP25K040J02f_1962TIFF",
-        "title": "Essex",
-        "year": 1962
-    },
-    {
-        "fullname": "HTDP25K040J02f_1974TIFF",
-        "title": "Essex",
-        "year": 1974
-    },
-    {
         "fullname": "HTDP63360K040J02_1913TIFF",
         "title": "Essex",
         "year": 1913
@@ -1448,6 +1428,16 @@
         "fullname": "HTDP63360K040J02_1940TIFF",
         "title": "Essex",
         "year": 1940
+    },
+    {
+        "fullname": "HTDP25K040J02f_1962TIFF",
+        "title": "Essex",
+        "year": 1962
+    },
+    {
+        "fullname": "HTDP25K040J02f_1974TIFF",
+        "title": "Essex",
+        "year": 1974
     },
     {
         "fullname": "HTDP25K040P03a_1964TIFF",
@@ -1495,11 +1485,6 @@
         "year": 1975
     },
     {
-        "fullname": "HTDP63360K052L11_1950TIFF",
-        "title": "Flintstone Lake",
-        "year": 1950
-    },
-    {
         "fullname": "HTDP25K040J09h_1974TIFF",
         "title": "Florence",
         "year": 1974
@@ -1520,16 +1505,6 @@
         "year": 1974
     },
     {
-        "fullname": "HTDP25K030L15e_1964TIFF",
-        "title": "Fort Erie",
-        "year": 1964
-    },
-    {
-        "fullname": "HTDP25K030L15e_1973TIFF",
-        "title": "Fort Erie",
-        "year": 1973
-    },
-    {
         "fullname": "HTDP63360K030L15_1907TIFF",
         "title": "Fort Erie",
         "year": 1907
@@ -1543,6 +1518,16 @@
         "fullname": "HTDP63360K030L15_1924TIFF",
         "title": "Fort Erie",
         "year": 1924
+    },
+    {
+        "fullname": "HTDP25K030L15e_1964TIFF",
+        "title": "Fort Erie",
+        "year": 1964
+    },
+    {
+        "fullname": "HTDP25K030L15e_1973TIFF",
+        "title": "Fort Erie",
+        "year": 1973
     },
     {
         "fullname": "HTDP25K052A06c_1969TIFF",
@@ -1575,16 +1560,6 @@
         "year": "1959-60"
     },
     {
-        "fullname": "HTDP25K040P08c_1968TIFF",
-        "title": "Galt",
-        "year": 1968
-    },
-    {
-        "fullname": "HTDP25K040P08c_1975TIFF",
-        "title": "Galt",
-        "year": 1975
-    },
-    {
         "fullname": "HTDP63360K040P08_1916TIFF",
         "title": "Galt",
         "year": 1916
@@ -1610,14 +1585,14 @@
         "year": 1938
     },
     {
-        "fullname": "HTDP25K031C08b_1960TIFF",
-        "title": "Gananoque",
-        "year": 1960
+        "fullname": "HTDP25K040P08c_1968TIFF",
+        "title": "Galt",
+        "year": 1968
     },
     {
-        "fullname": "HTDP25K031C08b_1972TIFF",
-        "title": "Gananoque",
-        "year": 1972
+        "fullname": "HTDP25K040P08c_1975TIFF",
+        "title": "Galt",
+        "year": 1975
     },
     {
         "fullname": "HTDP63360K031C08_1916TIFF",
@@ -1645,14 +1620,19 @@
         "year": 1938
     },
     {
+        "fullname": "HTDP25K031C08b_1960TIFF",
+        "title": "Gananoque",
+        "year": 1960
+    },
+    {
+        "fullname": "HTDP25K031C08b_1972TIFF",
+        "title": "Gananoque",
+        "year": 1972
+    },
+    {
         "fullname": "HTDP25K031D01d_1969TIFF",
         "title": "Garden Hill",
         "year": 1969
-    },
-    {
-        "fullname": "HTDP63360K052L14_1951TIFF",
-        "title": "Garner Lake",
-        "year": 1951
     },
     {
         "fullname": "HTDP25K041I10d_1966TIFF",
@@ -1765,16 +1745,6 @@
         "year": 1973
     },
     {
-        "fullname": "HTDP25K030M04h_1964TIFF",
-        "title": "Grimsby",
-        "year": 1964
-    },
-    {
-        "fullname": "HTDP25K030M04h_1973TIFF",
-        "title": "Grimsby",
-        "year": 1973
-    },
-    {
         "fullname": "HTDP63360K030M04_1907TIFF",
         "title": "Grimsby",
         "year": 1907
@@ -1803,6 +1773,16 @@
         "fullname": "HTDP63360K030M04_1938TIFF",
         "title": "Grimsby",
         "year": 1938
+    },
+    {
+        "fullname": "HTDP25K030M04h_1964TIFF",
+        "title": "Grimsby",
+        "year": 1964
+    },
+    {
+        "fullname": "HTDP25K030M04h_1973TIFF",
+        "title": "Grimsby",
+        "year": 1973
     },
     {
         "fullname": "HTDP63360K040P09_1935TIFF",
@@ -2170,11 +2150,6 @@
         "year": 1974
     },
     {
-        "fullname": "HTDP63360K041H15_1930TIFF",
-        "title": "Key Harbour",
-        "year": 1930
-    },
-    {
         "fullname": "HTDP63360K041A04_1946_MBTIFF",
         "title": "Kincardine",
         "year": 1946
@@ -2370,11 +2345,6 @@
         "year": 1970
     },
     {
-        "fullname": "HTDP63360K041H13_1951TIFF",
-        "title": "Little Current",
-        "year": 1951
-    },
-    {
         "fullname": "HTDP25K041K09b_1965TIFF",
         "title": "Little Lake George",
         "year": 1965
@@ -2390,16 +2360,6 @@
         "year": 1969
     },
     {
-        "fullname": "HTDP25K030N15e_1963TIFF",
-        "title": "Long Point",
-        "year": 1963
-    },
-    {
-        "fullname": "HTDP25K030N15e_1977TIFF",
-        "title": "Long Point",
-        "year": 1977
-    },
-    {
         "fullname": "HTDP63360K040I09_1909TIFF",
         "title": "Long Point",
         "year": 1909
@@ -2413,6 +2373,16 @@
         "fullname": "HTDP63360K040I09_1937TIFF",
         "title": "Long Point",
         "year": 1937
+    },
+    {
+        "fullname": "HTDP25K030N15e_1963TIFF",
+        "title": "Long Point",
+        "year": 1963
+    },
+    {
+        "fullname": "HTDP25K030N15e_1977TIFF",
+        "title": "Long Point",
+        "year": 1977
     },
     {
         "fullname": "HTDP25K031G02d_1966TIFF",
@@ -2433,16 +2403,6 @@
         "fullname": "HTDP25K030L14b_1973TIFF",
         "title": "Lorraine",
         "year": 1973
-    },
-    {
-        "fullname": "HTDP25K040P03e_1964TIFF",
-        "title": "Lucan",
-        "year": 1964
-    },
-    {
-        "fullname": "HTDP25K040P03e_1972TIFF",
-        "title": "Lucan",
-        "year": 1972
     },
     {
         "fullname": "HTDP63360K040P03_1915TIFF",
@@ -2468,6 +2428,16 @@
         "fullname": "HTDP63360K040P03_1936TIFF",
         "title": "Lucan",
         "year": 1936
+    },
+    {
+        "fullname": "HTDP25K040P03e_1964TIFF",
+        "title": "Lucan",
+        "year": 1964
+    },
+    {
+        "fullname": "HTDP25K040P03e_1972TIFF",
+        "title": "Lucan",
+        "year": 1972
     },
     {
         "fullname": "HTDP25K040J16f_1963TIFF",
@@ -2585,11 +2555,6 @@
         "year": 1974
     },
     {
-        "fullname": "HTDP63360K041H12_1951TIFF",
-        "title": "Manitowaning",
-        "year": 1951
-    },
-    {
         "fullname": "HTDP25K031G04g_1962TIFF",
         "title": "Manotick",
         "year": 1962
@@ -2613,16 +2578,6 @@
         "fullname": "HTDP63360K041A07_1945TIFF",
         "title": "Markdale",
         "year": 1945
-    },
-    {
-        "fullname": "HTDP25K030M14f_1963TIFF",
-        "title": "Markham",
-        "year": 1963
-    },
-    {
-        "fullname": "HTDP25K030M14f_1973TIFF",
-        "title": "Markham",
-        "year": 1973
     },
     {
         "fullname": "HTDP63360K030M14_1914TIFF",
@@ -2675,6 +2630,16 @@
         "year": 1949
     },
     {
+        "fullname": "HTDP25K030M14f_1963TIFF",
+        "title": "Markham",
+        "year": 1963
+    },
+    {
+        "fullname": "HTDP25K030M14f_1973TIFF",
+        "title": "Markham",
+        "year": 1973
+    },
+    {
         "fullname": "HTDP63360K031C14_1947TIFF",
         "title": "Mazinaw Lake",
         "year": 1947
@@ -2698,11 +2663,6 @@
         "fullname": "HTDP25K040I13a_1972TIFF",
         "title": "Melbourne",
         "year": 1972
-    },
-    {
-        "fullname": "HTDP63360K041G14_1951TIFF",
-        "title": "Meldrum Bay",
-        "year": 1951
     },
     {
         "fullname": "HTDP25K040J01g_1974TIFF",
@@ -2800,16 +2760,6 @@
         "year": 1974
     },
     {
-        "fullname": "HTDP25K031B14g_1964TIFF",
-        "title": "Morrisburg",
-        "year": 1964
-    },
-    {
-        "fullname": "HTDP25K031B14g_1977TIFF",
-        "title": "Morrisburg",
-        "year": 1977
-    },
-    {
         "fullname": "HTDP63360K031B14_1908TIFF",
         "title": "Morrisburg",
         "year": 1908
@@ -2833,6 +2783,16 @@
         "fullname": "HTDP63360K031B14_1949TIFF",
         "title": "Morrisburg",
         "year": 1949
+    },
+    {
+        "fullname": "HTDP25K031B14g_1964TIFF",
+        "title": "Morrisburg",
+        "year": 1964
+    },
+    {
+        "fullname": "HTDP25K031B14g_1977TIFF",
+        "title": "Morrisburg",
+        "year": 1977
     },
     {
         "fullname": "HTDP25K030M04f_1962TIFF",
@@ -3090,19 +3050,24 @@
         "year": 1963
     },
     {
-        "fullname": "HTDP25K030M06ab_1973TIFF",
-        "title": "Niagara-on-the-Lake",
-        "year": 1973
-    },
-    {
         "fullname": "HTDP25K030M06ab_1962TIFF",
         "title": "Niagara-on-the-Lake",
         "year": 1962
     },
     {
+        "fullname": "HTDP25K030M06ab_1973TIFF",
+        "title": "Niagara-on-the-Lake",
+        "year": 1973
+    },
+    {
         "fullname": "HTDP25K031C04f_1970TIFF",
         "title": "Norham",
         "year": 1970
+    },
+    {
+        "fullname": "HTDP63360K031L06_1943_MBTIFF",
+        "title": "North Bay",
+        "year": 1943
     },
     {
         "fullname": "HTDP25K031L06d_1965TIFF",
@@ -3113,11 +3078,6 @@
         "fullname": "HTDP25K031L06d_1977TIFF",
         "title": "North Bay",
         "year": 1977
-    },
-    {
-        "fullname": "HTDP63360K031L06_1943_MBTIFF",
-        "title": "North Bay",
-        "year": 1943
     },
     {
         "fullname": "HTDP25K040J08b_1974TIFF",
@@ -3215,16 +3175,6 @@
         "year": 1970
     },
     {
-        "fullname": "HTDP25K030M15f_1968TIFF",
-        "title": "Oshawa",
-        "year": 1968
-    },
-    {
-        "fullname": "HTDP25K030M15f_1976TIFF",
-        "title": "Oshawa",
-        "year": 1976
-    },
-    {
         "fullname": "HTDP63360K030M15_1930TIFF",
         "title": "Oshawa",
         "year": 1930
@@ -3240,19 +3190,14 @@
         "year": 1939
     },
     {
-        "fullname": "HTDP25K031G05g_1961TIFF",
-        "title": "Ottawa",
-        "year": 1961
+        "fullname": "HTDP25K030M15f_1968TIFF",
+        "title": "Oshawa",
+        "year": 1968
     },
     {
-        "fullname": "HTDP25K031G05g_1963TIFF",
-        "title": "Ottawa",
-        "year": 1963
-    },
-    {
-        "fullname": "HTDP25K031G05g_1971TIFF",
-        "title": "Ottawa",
-        "year": 1971
+        "fullname": "HTDP25K030M15f_1976TIFF",
+        "title": "Oshawa",
+        "year": 1976
     },
     {
         "fullname": "HTDP63360K031G05_1906TIFF",
@@ -3348,6 +3293,21 @@
         "fullname": "HTDP63360K031G05_1948_UTMTIFF",
         "title": "Ottawa",
         "year": 1948
+    },
+    {
+        "fullname": "HTDP25K031G05g_1961TIFF",
+        "title": "Ottawa",
+        "year": 1961
+    },
+    {
+        "fullname": "HTDP25K031G05g_1963TIFF",
+        "title": "Ottawa",
+        "year": 1963
+    },
+    {
+        "fullname": "HTDP25K031G05g_1971TIFF",
+        "title": "Ottawa",
+        "year": 1971
     },
     {
         "fullname": "HTDP63360K031G05-G12_1931TIFF",
@@ -3540,11 +3500,6 @@
         "year": 1935
     },
     {
-        "fullname": "HTDP25K031F14f_1962TIFF",
-        "title": "Petawawa",
-        "year": 1962
-    },
-    {
         "fullname": "HTDP63360K031F14_1914TIFF",
         "title": "Petawawa",
         "year": 1914
@@ -3560,9 +3515,9 @@
         "year": 1927
     },
     {
-        "fullname": "HTDP25K031D08c_1971TIFF",
-        "title": "Peterborough",
-        "year": 1971
+        "fullname": "HTDP25K031F14f_1962TIFF",
+        "title": "Petawawa",
+        "year": 1962
     },
     {
         "fullname": "HTDP63360K031D08_1932TIFF",
@@ -3583,6 +3538,11 @@
         "fullname": "HTDP63360K031D08_1939TIFF",
         "title": "Peterborough",
         "year": 1939
+    },
+    {
+        "fullname": "HTDP25K031D08c_1971TIFF",
+        "title": "Peterborough",
+        "year": 1971
     },
     {
         "fullname": "HTDP25K040J16g_1972TIFF",
@@ -3670,11 +3630,6 @@
         "year": 1969
     },
     {
-        "fullname": "HTDP25K040I10f_1971TIFF",
-        "title": "Port Burwell",
-        "year": 1971
-    },
-    {
         "fullname": "HTDP63360K040I10_1909TIFF",
         "title": "Port Burwell",
         "year": 1909
@@ -3693,6 +3648,11 @@
         "fullname": "HTDP63360K040I10_1937_UTMTIFF",
         "title": "Port Burwell",
         "year": 1937
+    },
+    {
+        "fullname": "HTDP25K040I10f_1971TIFF",
+        "title": "Port Burwell",
+        "year": 1971
     },
     {
         "fullname": "HTDP25K030M12a-M11d_1962TIFF",
@@ -3730,11 +3690,6 @@
         "year": 1946
     },
     {
-        "fullname": "HTDP25K030M16f_1969TIFF",
-        "title": "Port Hope",
-        "year": 1969
-    },
-    {
         "fullname": "HTDP63360K030M16_1930TIFF",
         "title": "Port Hope",
         "year": 1930
@@ -3745,6 +3700,11 @@
         "year": 1938
     },
     {
+        "fullname": "HTDP25K030M16f_1969TIFF",
+        "title": "Port Hope",
+        "year": 1969
+    },
+    {
         "fullname": "HTDP25K030L13a_1969TIFF",
         "title": "Port Maitland",
         "year": 1969
@@ -3753,11 +3713,6 @@
         "fullname": "HTDP25K040I09d_1970TIFF",
         "title": "Port Rowan",
         "year": 1970
-    },
-    {
-        "fullname": "HTDP25K040I11g_1971TIFF",
-        "title": "Port Stanley",
-        "year": 1971
     },
     {
         "fullname": "HTDP63360K040I11_1910TIFF",
@@ -3788,6 +3743,11 @@
         "fullname": "HTDP63360K040I11_1948TIFF",
         "title": "Port Stanley",
         "year": 1948
+    },
+    {
+        "fullname": "HTDP25K040I11g_1971TIFF",
+        "title": "Port Stanley",
+        "year": 1971
     },
     {
         "fullname": "HTDP25K031B12h_1969TIFF",
@@ -4045,11 +4005,6 @@
         "year": 1973
     },
     {
-        "fullname": "HTDP63360K052L06_1950TIFF",
-        "title": "Ryerson Lake",
-        "year": 1950
-    },
-    {
         "fullname": "HTDP25K031G01f_1974TIFF",
         "title": "Saint Anicet",
         "year": 1974
@@ -4058,16 +4013,6 @@
         "fullname": "HTDP25K031G01g_1973TIFF",
         "title": "Sainte Barbe",
         "year": 1973
-    },
-    {
-        "fullname": "HTDP25K040J16e_1965TIFF",
-        "title": "Sarnia",
-        "year": 1965
-    },
-    {
-        "fullname": "HTDP25K040J16e_1975TIFF",
-        "title": "Sarnia",
-        "year": 1975
     },
     {
         "fullname": "HTDP63360K040J16_1912TIFF",
@@ -4095,6 +4040,16 @@
         "year": 1936
     },
     {
+        "fullname": "HTDP25K040J16e_1965TIFF",
+        "title": "Sarnia",
+        "year": 1965
+    },
+    {
+        "fullname": "HTDP25K040J16e_1975TIFF",
+        "title": "Sarnia",
+        "year": 1975
+    },
+    {
         "fullname": "HTDP25K041K09c_1965TIFF",
         "title": "Sault Ste. Marie",
         "year": 1965
@@ -4103,16 +4058,6 @@
         "fullname": "HTDP25K041K09c_1975TIFF",
         "title": "Sault Ste. Marie",
         "year": 1975
-    },
-    {
-        "fullname": "HTDP63360K041K09_1939_MBTIFF",
-        "title": "Sault Ste. Marie",
-        "year": 1939
-    },
-    {
-        "fullname": "HTDP63360K041K09_1939TIFF",
-        "title": "Sault Ste. Marie",
-        "year": 1939
     },
     {
         "fullname": "HTDP25K030M11g_1961TIFF",
@@ -4210,16 +4155,6 @@
         "year": 1974
     },
     {
-        "fullname": "HTDP63360K041G15_1951TIFF",
-        "title": "Silver Water",
-        "year": 1951
-    },
-    {
-        "fullname": "HTDP25K040I16c_1971TIFF",
-        "title": "Simcoe",
-        "year": 1971
-    },
-    {
         "fullname": "HTDP63360K040I16_1909TIFF",
         "title": "Simcoe",
         "year": 1909
@@ -4243,6 +4178,11 @@
         "fullname": "HTDP63360K040I16_1939TIFF",
         "title": "Simcoe",
         "year": 1939
+    },
+    {
+        "fullname": "HTDP25K040I16c_1971TIFF",
+        "title": "Simcoe",
+        "year": 1971
     },
     {
         "fullname": "HTDP25K031C02h_1959TIFF",
@@ -4495,16 +4435,6 @@
         "year": 1969
     },
     {
-        "fullname": "HTDP25K040P07d_1972TIFF",
-        "title": "Stratford",
-        "year": 1972
-    },
-    {
-        "fullname": "HTDP25K040P07d_1960TIFF",
-        "title": "Stratford",
-        "year": "1959-60"
-    },
-    {
         "fullname": "HTDP63360K040P07_1927TIFF",
         "title": "Stratford",
         "year": 1927
@@ -4523,6 +4453,16 @@
         "fullname": "HTDP63360K040P07_1938TIFF",
         "title": "Stratford",
         "year": 1938
+    },
+    {
+        "fullname": "HTDP25K040P07d_1972TIFF",
+        "title": "Stratford",
+        "year": 1972
+    },
+    {
+        "fullname": "HTDP25K040P07d_1960TIFF",
+        "title": "Stratford",
+        "year": "1959-60"
     },
     {
         "fullname": "HTDP63360K040I13_1911TIFF",
@@ -4585,11 +4525,6 @@
         "year": 1977
     },
     {
-        "fullname": "HTDP63360K041I06-I07-I10-I11_1938TIFF",
-        "title": "Sudbury",
-        "year": 1938
-    },
-    {
         "fullname": "HTDP25K031G02a_1973TIFF",
         "title": "Summerstown",
         "year": 1973
@@ -4598,16 +4533,6 @@
         "fullname": "HTDP25K030L13c_1968TIFF",
         "title": "Sweets Corners",
         "year": 1968
-    },
-    {
-        "fullname": "HTDP25K031C07h_1960TIFF",
-        "title": "Sydenham",
-        "year": 1960
-    },
-    {
-        "fullname": "HTDP25K031C07h_1973TIFF",
-        "title": "Sydenham",
-        "year": 1973
     },
     {
         "fullname": "HTDP63360K031C07_1916TIFF",
@@ -4623,6 +4548,16 @@
         "fullname": "HTDP63360K031C07_1933_UTMTIFF",
         "title": "Sydenham",
         "year": 1933
+    },
+    {
+        "fullname": "HTDP25K031C07h_1960TIFF",
+        "title": "Sydenham",
+        "year": 1960
+    },
+    {
+        "fullname": "HTDP25K031C07h_1973TIFF",
+        "title": "Sydenham",
+        "year": 1973
     },
     {
         "fullname": "HTDP25K040P07c_1972TIFF",
@@ -4720,11 +4655,6 @@
         "year": 1975
     },
     {
-        "fullname": "HTDP25K040I15b_1971TIFF",
-        "title": "Tillsonburg",
-        "year": 1971
-    },
-    {
         "fullname": "HTDP63360K040I15_1909TIFF",
         "title": "Tillsonburg",
         "year": 1909
@@ -4750,9 +4680,9 @@
         "year": 1939
     },
     {
-        "fullname": "HTDP63360K041H03-H04_1946TIFF",
-        "title": "Tobermory",
-        "year": 1946
+        "fullname": "HTDP25K040I15b_1971TIFF",
+        "title": "Tillsonburg",
+        "year": 1971
     },
     {
         "fullname": "HTDP63360K030M11_1909TIFF",
@@ -4815,11 +4745,6 @@
         "year": 1961
     },
     {
-        "fullname": "HTDP25K031C04a_1963TIFF",
-        "title": "Trenton",
-        "year": 1963
-    },
-    {
         "fullname": "HTDP63360K031C04_1932TIFF",
         "title": "Trenton",
         "year": 1932
@@ -4843,6 +4768,11 @@
         "fullname": "HTDP63360K031C04_1938TIFF",
         "title": "Trenton",
         "year": 1938
+    },
+    {
+        "fullname": "HTDP25K031C04a_1963TIFF",
+        "title": "Trenton",
+        "year": 1963
     },
     {
         "fullname": "HTDP25K031F14e_1962TIFF",
@@ -4960,16 +4890,6 @@
         "year": 1946
     },
     {
-        "fullname": "HTDP25K040J09d_1963TIFF",
-        "title": "Wallaceburg",
-        "year": 1963
-    },
-    {
-        "fullname": "HTDP25K040J09d_1976TIFF",
-        "title": "Wallaceburg",
-        "year": 1976
-    },
-    {
         "fullname": "HTDP63360K040J09_1913TIFF",
         "title": "Wallaceburg",
         "year": 1913
@@ -4993,6 +4913,16 @@
         "fullname": "HTDP63360K040J09_1939TIFF",
         "title": "Wallaceburg",
         "year": 1939
+    },
+    {
+        "fullname": "HTDP25K040J09d_1963TIFF",
+        "title": "Wallaceburg",
+        "year": 1963
+    },
+    {
+        "fullname": "HTDP25K040J09d_1976TIFF",
+        "title": "Wallaceburg",
+        "year": 1976
     },
     {
         "fullname": "HTDP25K040I11e_1971TIFF",
@@ -5120,16 +5050,6 @@
         "year": "1959-60"
     },
     {
-        "fullname": "HTDP25K030N14f_1963TIFF",
-        "title": "Wellington",
-        "year": 1963
-    },
-    {
-        "fullname": "HTDP25K030N14f_1977TIFF",
-        "title": "Wellington",
-        "year": 1977
-    },
-    {
         "fullname": "HTDP63360K030N14_1932TIFF",
         "title": "Wellington",
         "year": 1932
@@ -5138,6 +5058,16 @@
         "fullname": "HTDP63360K030N14_1938_MBTIFF",
         "title": "Wellington",
         "year": 1938
+    },
+    {
+        "fullname": "HTDP25K030N14f_1963TIFF",
+        "title": "Wellington",
+        "year": 1963
+    },
+    {
+        "fullname": "HTDP25K030N14f_1977TIFF",
+        "title": "Wellington",
+        "year": 1977
     },
     {
         "fullname": "HTDP25K040I12a_1974TIFF",
@@ -5290,6 +5220,21 @@
         "year": 1976
     },
     {
+        "fullname": "HTDP63360K040J06_1913TIFF",
+        "title": "Windsor",
+        "year": 1913
+    },
+    {
+        "fullname": "HTDP63360K040J06_1923TIFF",
+        "title": "Windsor",
+        "year": 1923
+    },
+    {
+        "fullname": "HTDP63360K040J03-J06_1939TIFF",
+        "title": "Windsor",
+        "year": 1939
+    },
+    {
         "fullname": "HTDP25K040J06a_1961TIFF",
         "title": "Windsor",
         "year": 1961
@@ -5305,21 +5250,6 @@
         "year": 1975
     },
     {
-        "fullname": "HTDP63360K040J03-J06_1939TIFF",
-        "title": "Windsor",
-        "year": 1939
-    },
-    {
-        "fullname": "HTDP63360K040J06_1913TIFF",
-        "title": "Windsor",
-        "year": 1913
-    },
-    {
-        "fullname": "HTDP63360K040J06_1923TIFF",
-        "title": "Windsor",
-        "year": 1923
-    },
-    {
         "fullname": "HTDP63360K040P14_1937TIFF",
         "title": "Wingham",
         "year": 1937
@@ -5332,16 +5262,6 @@
     {
         "fullname": "HTDP25K030M04g_1972TIFF",
         "title": "Winona",
-        "year": 1972
-    },
-    {
-        "fullname": "HTDP25K031C01e_1959TIFF",
-        "title": "Wolfe Island",
-        "year": 1959
-    },
-    {
-        "fullname": "HTDP25K031C01e_1972TIFF",
-        "title": "Wolfe Island",
         "year": 1972
     },
     {
@@ -5363,6 +5283,16 @@
         "fullname": "HTDP63360K031C01_1940_UTMTIFF",
         "title": "Wolfe Island",
         "year": 1940
+    },
+    {
+        "fullname": "HTDP25K031C01e_1959TIFF",
+        "title": "Wolfe Island",
+        "year": 1959
+    },
+    {
+        "fullname": "HTDP25K031C01e_1972TIFF",
+        "title": "Wolfe Island",
+        "year": 1972
     },
     {
         "fullname": "HTDP25K030M13a_1961TIFF",

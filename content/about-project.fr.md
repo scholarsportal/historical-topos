@@ -1,5 +1,5 @@
 +++
-date = "2017-03-16"
+date = "2017-04-06"
 title = "À propos du projet"
 +++
 
@@ -65,6 +65,7 @@ Pendant la durée du projet, il y a eu de nombreux contributeurs partout dans l�
 
 ### Individus
 * Colleen Beard (Université Brock)
+* Sharon Janzen (Université Brock)
 * Rebecca Bartlett (Bibliothèque de l’Université Carleton)
 * Ryder Burt (Bibliothèque de l’Université Carleton)
 * Joël Rivard (Bibliothèque de l’Université Carleton)
