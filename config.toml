@@ -1,5 +1,5 @@
-#baseurl = "http://ocul.on.ca/topomaps/"
-baseurl = "https://staticdev.scholarsportal.info/topomaps/"
+baseurl = "http://ocul.on.ca/topomaps/"
+#baseurl = "https://staticdev.scholarsportal.info/topomaps/"
 #baseurl = "http://localhost/hist-topos/public/"
 theme = "hugo-creative-portfolio-theme"
 # Enable comments by entering your Disqus shortname
