@@ -9,7 +9,7 @@
       {{ end }}
     </ul>
     <p class="translation"> {{ partial "translate.html" . }} <br></p>
-    
+
     <br>
     <a href="{{ .Site.Params.logourl }}"><img src="{{ $url }}{{ .Site.Params.logo | safeHTML }}" alt="Ontario Council of University Libraries logo" class="img-responsive logo"></a>
     <br>
@@ -18,7 +18,7 @@
         {{ with .Site.Params.copyright }}
           {{ . | safeHTML }}
         {{ end }}
-        {{ partial "socialButtonsInSideBar.html" . }}
+        {{ partial "social_buttons_in_sidebar.html" . }}
         {{ partial "attribution.html" . }}
       </p>
     </div>
