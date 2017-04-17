@@ -13,4 +13,4 @@ Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur 
 
 La photographie utilisée pour créer cette carte fut prise à l’origine en 1963 par la Hunting Survey Corporation Limited, basée à Toronto, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.
 
-[Voir dans GeoPortal](http://geodev.scholarsportal.info/#r/details/_uri@=HTDP25K031B12g_1968TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031B12g_1968TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K031B12g_1968TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K031B12g_1968TIFF.jpg)
