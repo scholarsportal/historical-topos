@@ -1,5 +1,5 @@
 +++
-date = "2017-04-06"
+date = "2017-04-24"
 title = "About The Project"
 +++
 
@@ -92,6 +92,7 @@ Over the course of the project there were many contributors from across Ontario,
 * Raphaël Pelletier (University of Ottawa Library)
 * Sophie Routhier LeBlanc (University of Ottawa Library)
 * Sarah Simpkin (University of Ottawa Library)
+* Wish Yen (University of Ottawa Library)
 * Eva Dodsworth (University of Waterloo)
 * Cheryl Woods (Western University Library)
 * Peter Genzinger (Wilfrid Laurier University)

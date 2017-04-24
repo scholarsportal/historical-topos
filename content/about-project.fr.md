@@ -1,5 +1,5 @@
 +++
-date = "2017-04-06"
+date = "2017-04-24"
 title = "À propos du projet"
 +++
 
@@ -91,6 +91,7 @@ Pendant la durée du projet, il y a eu de nombreux contributeurs partout dans l�
 * Raphaël Pelletier (Bibliothèque de l’Université d’Ottawa)
 * Sophie Routhier LeBlanc (Bibliothèque de l’Université d’Ottawa)
 * Sarah Simpkin (Bibliothèque de l’Université d’Ottawa)
+* Wish Yen (Bibliothèque de l’Université d’Ottawa)
 * Eva Dodsworth (Université de Waterloo)
 * Cheryl Woods (Bibliothèque de l’Université Western)
 * Peter Genzinger (Université Wilfrid Laurier)
