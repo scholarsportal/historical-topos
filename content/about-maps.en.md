@@ -23,7 +23,7 @@ Early topographic mapping in Canada was fragmented, with many agencies producing
 **1906-1922:** Two other agencies become involved in contributing to map production: the Geological Survey, Department of Mines and the Topographical and Air Survey Bureau, Department of the Interior. _Note: the Department of the Interior was very rarely involved in the creation of maps in the Province of Ontario._
 
 **1922:** The Board on Topographical Surveys and Maps is established, to create guidelines for a common set of map specifications that could be used by all agencies involved.
-The first experiments using aerial photographs as a topographic tool are conducted by the RCAF.
+The first experiments using aerial photographs as a topographic tool are conducted by the Royal Canadian Air Force (RCAF).
 
 **1923:** The sheet line numbering system for maps is adopted (this becomes the National Topographic System (NTS) standard numbering system in 1926).
 
