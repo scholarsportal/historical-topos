@@ -3,9 +3,9 @@ date = "2017-03-30"
 title = "Parcourir la collection au complet"
 +++
 
-Pour trouver des cartes par nom de lieu, utilisez le champ de recherche ou parcourez la liste ci-dessous. Une fois que vous avez trouvé la carte, allez à Voir dans GeoPortal pour visualiser cette carte dans Scholars GeoPortal. Ceci vous permettra de superposer la carte sur une carte de base actuelle, vous permettant ainsi de découvrir les différents changements au fil du temps. Cela vous permettra également d’obtenir des renseignements plus détaillés sur la carte. 
+Pour trouver des cartes par le nom de la feuille ou le numéro SNRC, utilisez le champ de recherche ou parcourez la liste ci-dessous. Une fois que vous avez trouvé la carte, allez à Voir dans GeoPortal pour visualiser cette carte dans Scholars GeoPortal. Ceci vous permettra de superposer la carte sur une carte de base actuelle, vous permettant ainsi de découvrir les différents changements au fil du temps. Cela vous permettra également d’obtenir des renseignements plus détaillés sur la carte. 
 
-Pour en savoir plus sur l’utilisation de l’index des cartes pour faire une recherche de cartes dans Scholars GeoPortal, veuillez aller à [Utiliser les cartes](../using-maps/).
+Veuillez noter que le nom de la feuille de carte ne correspond pas toujours au nom du lieu. Par exemple, toutes les premières cartes de London, ON étaient intitulées _Lucan_ ou _St. Thomas_. Si vous ne parvenez pas à trouver l'endroit que vous recherchez en utilisant le champ de recherche ci-dessous, consultez la [recherche de toponymes](http://www4.rncan.gc.ca/recherche-de-noms-de-lieux/search) de Ressources naturelles Canada pour trouver le numéro SNRC pour cet endroit. Vous pouvez également consulter la section [Utiliser les cartes](../using-maps/) pour plus d'informations sur l'utilisation de l’index des cartes pour faire une recherche de cartes dans Scholars GeoPortal.
 
 <input placeholder="Recherche par nom de carte de feuille" name="Place name search" id="index-filter" type="text" aria-label="Recherche par nom de carte de feuille"/>
 
