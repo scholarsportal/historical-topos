@@ -3,9 +3,9 @@ date = "2017-03-30"
 title = "Full Collection"
 +++
 
-To find maps by place name, use the search box or scroll through the list below. Once you have found a map, select _View in GeoPortal_ to visualize this map in the Scholars GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
+To find maps by sheet name or NTS sheet number, use the search box or scroll through the list below. Once you have found a map, select _View in GeoPortal_ to visualize this map in the Scholars GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
 
-For more information on using the map index and searching maps in Scholars GeoPortal, see [Using the Maps](../using-maps/).
+Please note that the map sheet name does not always correspond to the place name. For example, all early maps of London, ON were titled _Lucan_ or _St. Thomas_. If you are unable to find the place you are looking for by using the search box below, consult Natural Resources Canada's [name search](http://www4.rncan.gc.ca/search-place-names/search) to find the NTS number for that location. You can also consult the [Using the Maps](../using-maps/) section for more information on using the map index and searching for maps in Scholars GeoPortal.
 
 <input placeholder="Search by sheet map name" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
 
