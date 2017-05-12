@@ -3,8 +3,6 @@ date = "2017-03-31"
 title = "Utiliser les cartes"
 +++
 
-[Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) | [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
-
 <ul class="contents">
 	<li><a href="#trouver-les-cartes">Trouver les cartes</a></li>
 	<li><a href="#explorer-les-cartes">Explorer les cartes</a></li>
