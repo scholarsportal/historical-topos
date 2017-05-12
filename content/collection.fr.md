@@ -3,6 +3,8 @@ date = "2017-03-30"
 title = "Parcourir la collection au complet"
 +++
 
+[Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) | [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
+
 Pour trouver des cartes par le nom de la feuille ou le numéro SNRC, utilisez le champ de recherche ou parcourez la liste ci-dessous. Une fois que vous avez trouvé la carte, allez à Voir dans GeoPortal pour visualiser cette carte dans Scholars GeoPortal. Ceci vous permettra de superposer la carte sur une carte de base actuelle, vous permettant ainsi de découvrir les différents changements au fil du temps. Cela vous permettra également d’obtenir des renseignements plus détaillés sur la carte. 
 
 Veuillez noter que le nom de la feuille de carte ne correspond pas toujours au nom du lieu. Par exemple, toutes les premières cartes de London, ON étaient intitulées _Lucan_ ou _St. Thomas_. Si vous ne parvenez pas à trouver l'endroit que vous recherchez en utilisant le champ de recherche ci-dessous, consultez la [recherche de toponymes](http://www4.rncan.gc.ca/recherche-de-noms-de-lieux/search) de Ressources naturelles Canada pour trouver le numéro SNRC pour cet endroit. Vous pouvez également consulter la section [Utiliser les cartes](../using-maps/) pour plus d'informations sur l'utilisation de l’index des cartes pour faire une recherche de cartes dans Scholars GeoPortal.
