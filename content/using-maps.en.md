@@ -3,8 +3,6 @@ date = "2017-03-16"
 title = "Using the Maps"
 +++
 
-[1:63 360 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) | [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
-
 <ul class="contents">
 	<li><a href="#finding-maps">Finding maps</a></li>
 	<li><a href="#exploring-maps">Exploring maps</a></li>
