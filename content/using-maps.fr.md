@@ -3,6 +3,8 @@ date = "2017-03-31"
 title = "Utiliser les cartes"
 +++
 
+[Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) | [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
+
 <ul class="contents">
 	<li><a href="#trouver-les-cartes">Trouver les cartes</a></li>
 	<li><a href="#explorer-les-cartes">Explorer les cartes</a></li>
@@ -116,7 +118,7 @@ Ceci fera apparaître une fenêtre contextuelle. Vous serez obligés de désacti
 
 **Remarque :** Pour utiliser les options de la recherche avancée et trouver des cartes topographiques historiques dans GeoPortal, vous serez obligés d’utiliser l’index de navigation de cartes en même temps que la recherche. Des détails supplémentaires sont disponibles dans les sections ci-dessous au sujet de l’index de navigation.
 
-### Rechercher par nom de carte
+### Rechercher par nom de carte ou le numéro SNRC
 
 Si vous connaissez le nom ou le numéro SNRC d’une carte spécifique, vous pouvez effectuer cette recherche avec la collection et en utilisant le principal champ de recherche de GeoPortal.
 
