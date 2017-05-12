@@ -3,6 +3,8 @@ date = "2017-03-16"
 title = "Using the Maps"
 +++
 
+[1:63 360 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) | [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
+
 <ul class="contents">
 	<li><a href="#finding-maps">Finding maps</a></li>
 	<li><a href="#exploring-maps">Exploring maps</a></li>
@@ -114,7 +116,7 @@ This will trigger a pop-up and thus might require your browser’s popup blocker
 
 **Please note:** to use advanced search options for finding historical topographic maps in the GeoPortal, you may be required to also use the index map navigation in conjunction with searching. More detail is available in the above sections about the index navigation aid. 
 
-### Search by Map Name 
+### Search by Map Name or NTS Sheet Number
 
 If you know the name or NTS number of a particular map, you can search through the collection using the main search field of the GeoPortal. 
 
