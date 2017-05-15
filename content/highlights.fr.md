@@ -1,5 +1,5 @@
 +++
-date = "2017-03-31"
+date = "2017-05-15"
 title = "Points saillants de la collection"
 +++
 
@@ -50,8 +50,8 @@ Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous l
 ## Rondeau Provincial Park
 
 <div class="juxtapose">
-	<img src="../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1901" />
-    <img src="../img/highlights/HTDP63360K040I05_1941_MBTIFF.jpg" data-label="1941" />
+	<img src="../../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1901" />
+    <img src="../../img/highlights/HTDP63360K040I05_1941_MBTIFF.jpg" data-label="1941" />
 </div>
 
 <div class="row slider-description">
