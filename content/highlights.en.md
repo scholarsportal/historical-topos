@@ -47,7 +47,6 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 
 <br>
 
-
 ## Rondeau Provincial Park
 
 <div class="juxtapose">

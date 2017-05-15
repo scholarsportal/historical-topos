@@ -47,27 +47,25 @@ Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous l
 
 <br>
 
-## Inondation de la Rivière Thames à London
+## Rondeau Provincial Park
 
 <div class="juxtapose">
-	<img src="../../img/highlights/HTDP63360K040P03_1923TIFF.jpg" data-label="1923" />
-    <img src="../../img/highlights/HTDP25K040P03b_1962TIFF.jpg" data-label="1962" />
+	<img src="../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1901" />
+    <img src="../img/highlights/HTDP63360K040I05_1941_MBTIFF.jpg" data-label="1941" />
 </div>
 
 <div class="row slider-description">
-	<p class="col-md-6"><strong>La gauche</strong>: La Rivière Thames en 1923, 14 ans avant l’inondation d’avril qui a causé des pertes humaines et des dommages matériels.</p>
-	<p class="col-md-6"><strong>Droite</strong>: Après la construction du barrage-réservoir Fanshawe en 1950, construit pour contrôler le débit d’eau et réduire les dommages provoqués par les inondations.</p>
+	<p class="col-md-6"><strong>Left</strong>: Early Rondeau Provincial Park (1901)</p>
+	<p class="col-md-6"><strong>Right</strong>: Development of the park, including road pattern and shoreline cottages, over a 30 year period (1941)</p>
 </div>
 
 ### Sources
 
-- [Lucan, Ontario. 1:63,360. Feuille de carte 040P03, [ed. 2], 1923](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040P03_1923TIFF&_add:true)
-- [Crumlin, Ontario. 1:25,000. Feuille de carte 040P03B, ed. 2, 1962](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K040P03b_1962TIFF&_add:true)
+- [Ridgetown, Ontario. 1:63,360. Map Sheet 040I05, [ed. 1], 1910](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040I05_1910TIFF&_add:true)
+- [Ridgetown, Ontario. 1:63,360. Map Sheet 040I05, [ed. 3], gridded, 1941](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040I05_1941_MBTIFF&_add:true)
 
-### Renseignements supplémentaires
+### More information
 
-- [Upper Thames River Conservation Authority. Barrage-réservoir Fanshawe](http://thamesriver.on.ca/water-management/flood-control-structures/fanshawe-dam/)
-- [Fiche d’informations du barrage Fanshawe, Upper Thames River Conservation Authority](https://thamesriver.on.ca/wp-content/uploads//FloodStructures/FPW-dams/FanshaweDam-brochure2011.pdf)
-- [Upper Thames River Conservation Authority. L’inondation d’avril 1937](http://thamesriver.on.ca/water-management/flooding-on-the-thames-river/1937-flood/)
+- [Rondeau Provincial Park, Ontario Parks](https://www.ontarioparks.com/park/rondeau)
 
 <script src="../../js/juxtapose.js"></script>
