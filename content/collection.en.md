@@ -10,7 +10,7 @@ To find maps by sheet name or NTS sheet number, use the search box or scroll thr
 
 Please note that the map sheet name does not always correspond to the place name. For example, all early maps of London, ON were titled _Lucan_ or _St. Thomas_. If you are unable to find the place you are looking for by using the search box below, consult Natural Resources Canada's [name search](http://www4.rncan.gc.ca/search-place-names/search) to find the NTS number for that location. You can also consult the [Using the Maps](../using-maps/) section for more information on using the map index and searching for maps in Scholars GeoPortal.
 
-<input placeholder="Search by sheet map name" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
+<input placeholder="Search by sheet map name or number" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
 
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together
@@ -27,12 +27,13 @@ Please note that the map sheet name does not always correspond to the place name
       // if the title for the current item is not the same as the previous one, print the place name
       if (jsontext[ (i===0) ? (jsontext.length-1) : (i-1)].title !== jsontext[i].title) {
         lines += '<div>';
-        lines += '<a class="toggle-mapsheets" href="" data-target="' + title + '-section">' + jsontext[i].title + '</a></div>';
+        lines += '<a class="toggle-mapsheets" href="" data-target="' + title + '-section">' + jsontext[i].title + ' <p class="hidden-sheet" aria-hidden="true"> ' + jsontext[i].sheet +'</p></a></div>';
       }
 
       lines += '<div class="' + title + '-section sheet-item">';
-      lines += '<p>Year: ' + jsontext[i].year + ' | ';
-      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
+      lines += '<p>Year: ' + jsontext[i].year + ', ';
+      lines += 'Sheet no. ' + jsontext[i].sheet + ' |';
+      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| ';
       lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
       lines += '</div>';
 
@@ -55,18 +56,18 @@ Please note that the map sheet name does not always correspond to the place name
         var valThis = $(this).val().toLowerCase();
         $('.sheet-item:visible').hide();
 
-    if(valThis == ""){
-        $('.toggle-mapsheets').show();           
-    }
+      if(valThis == ""){
+          $('.toggle-mapsheets').show();
+      }
 
-    else {
-      $('.toggle-mapsheets').each(function(){
-          var text = $(this).text().toLowerCase();
-          (text.indexOf(valThis) >= 0) ? $(this).show() : $(this).hide();
-      });
-    };
+      else {
+        $('.toggle-mapsheets').each(function(){
+            var text = $(this).text().toLowerCase();
+            (text.indexOf(valThis) >= 0) ? $(this).show() : $(this).hide();
+        });
+      };
+    });
   });
-});
 </script>
 
 <div id="index"></div>

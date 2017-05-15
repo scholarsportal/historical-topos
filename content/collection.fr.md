@@ -10,7 +10,7 @@ Pour trouver des cartes par le nom de la feuille ou le numéro SNRC, utilisez le
 
 Veuillez noter que le nom de la feuille de carte ne correspond pas toujours au nom du lieu. Par exemple, toutes les premières cartes de London, ON étaient intitulées _Lucan_ ou _St. Thomas_. Si vous ne parvenez pas à trouver l'endroit que vous recherchez en utilisant le champ de recherche ci-dessous, consultez la [recherche de toponymes](http://www4.rncan.gc.ca/recherche-de-noms-de-lieux/search) de Ressources naturelles Canada pour trouver le numéro SNRC pour cet endroit. Vous pouvez également consulter la section [Utiliser les cartes](../using-maps/) pour plus d'informations sur l'utilisation de l’index des cartes pour faire une recherche de cartes dans Scholars GeoPortal.
 
-<input placeholder="Recherche par nom de carte de feuille" name="Place name search" id="index-filter" type="text" aria-label="Recherche par nom de carte de feuille"/>
+<input placeholder="Recherche par feuille nom ou numéro de carte" name="Place name search" id="index-filter" type="text" aria-label="Recherche par feuille nom ou numéro de carte"/>
 
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together
@@ -27,11 +27,12 @@ Veuillez noter que le nom de la feuille de carte ne correspond pas toujours au n
       // if the title for the current item is not the same as the previous one, print the place name
       if (jsontext[ (i===0) ? (jsontext.length-1) : (i-1)].title !== jsontext[i].title) {
         lines += '<div>';
-        lines += '<a class="toggle-mapsheets" href="" data-target="' + title + '-section">' + jsontext[i].title + '</a></div>';
+        lines += '<a class="toggle-mapsheets" href="" data-target="' + title + '-section">' + jsontext[i].title + ' <p class="hidden-sheet" aria-hidden="true"> ' + jsontext[i].sheet +'</p></a></div>';
       }
 
       lines += '<div class="' + title + '-section sheet-item">';
-      lines += '<p>Year: ' + jsontext[i].year + ' | ';
+      lines += '<p>Year: ' + jsontext[i].year + ', ';
+      lines += 'Sheet no. ' + jsontext[i].sheet + ' |';
       lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
       lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Télécharger l\'image</a></p>';
       lines += '</div>';

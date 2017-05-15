@@ -92,6 +92,9 @@ ol, ul {
 	font-weight: bold;
 	font-size: 19px;
 }
+.hidden-sheet {
+	display: none;
+}
 
 /* Search box on index page */
 input {
@@ -100,7 +103,7 @@ input {
 	border-radius: 7px;
 	border: 1px solid #cccccc;
 	height: 35px;
-	width: 300px;
+	width: 350px;
 	padding: 10px;
 }
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
