@@ -11,7 +11,7 @@
     <p class="translation"> {{ partial "translate.html" . }} <br></p>
 
     <br>
-    <a href="{{ .Site.Params.logourl }}"><img src="{{ $url }}{{ .Site.Params.logo | safeHTML }}" alt="Ontario Council of University Libraries logo" class="img-responsive logo"></a>
+    <a href="{{ .Site.Params.logourl }}"><img src="{{ $url }}{{ .Site.Params.logo | safeHTML }}" alt="{{ .Site.Params.logoalt }}" class="img-responsive logo"></a>
     <br>
     <div class="copyright">
       <p class="credit">

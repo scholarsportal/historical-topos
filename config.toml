@@ -26,6 +26,7 @@ title = "Historical Topographic Map Digitization Project"
 languageCode = "en"
 weight = 1
 logo = "img/ocul.png"
+logoalt = "Ontario Council of University Libraries"
 [[Languages.en.navlinks]]
 name = "Home"
 url = ""
@@ -57,6 +58,7 @@ title = "Projet de numérisation de la carte topographique historique"
 languageCode = "fr"
 weight = 2
 logo = "img/cbou.png"
+logoalt = "Conseil des bibliothèques universitaires de l'Ontario"
 [[Languages.fr.navlinks]]
 name = "Accueil"
 url = "fr/"
