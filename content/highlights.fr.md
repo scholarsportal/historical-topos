@@ -55,8 +55,8 @@ Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous l
 </div>
 
 <div class="row slider-description">
-	<p class="col-md-6"><strong>Left</strong>: Early Rondeau Provincial Park (1901)</p>
-	<p class="col-md-6"><strong>Right</strong>: Development of the park, including road pattern and shoreline cottages, over a 30 year period (1941)</p>
+	<p class="col-md-6"><strong>Left</strong>: Le parc provincial Rondeau, peu de temps après sa création (1901)</p>
+	<p class="col-md-6"><strong>Right</strong>: Développement du parc, y compris le chemin et les chalets sur le littoral, sur une période de 30 ans (1941)</p>
 </div>
 
 ### Sources
@@ -64,9 +64,9 @@ Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous l
 - [Ridgetown, Ontario. 1:63,360. Map Sheet 040I05, [ed. 1], 1910](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040I05_1910TIFF&_add:true)
 - [Ridgetown, Ontario. 1:63,360. Map Sheet 040I05, [ed. 3], gridded, 1941](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040I05_1941_MBTIFF&_add:true)
 
-### More information
+### Renseignements Supplémentaires
 Le parc provincial Rondeau, créé en 1894 et situé sur une épissure de sable s'étendant dans le lac Érié, est le deuxième plus ancient parc provincial d’Ontario. Le nom du parc provient des mots français «ronde eau» ou «eau ronde» qui décrit la forme du port abrité par la péninsule. Rondeau abrite la plus grande région de la forêt carolinienne au Canada, et est également une étape importante pour les oiseaux migrateurs. 
 
-- [Rondeau Provincial Park, Ontario Parks](https://www.ontarioparks.com/park/rondeau)
+- [Le parc Rondeau, Parcs Ontario](https://www.ontarioparks.com/park/rondeau)
 
 <script src="../../js/juxtapose.js"></script>
