@@ -1878,15 +1878,15 @@
         "sheet": "040P08H"
     },
     {
-        "fullname": "HTDP25K040P07e_1972TIFF",
-        "title": "Gads Hill",
-        "year": 1972,
-        "sheet": "040P07E"
-    },
-    {
         "fullname": "HTDP25K040P07e_1960TIFF",
         "title": "Gads Hill",
         "year": "1959-60",
+        "sheet": "040P07E"
+    },
+    {
+        "fullname": "HTDP25K040P07e_1972TIFF",
+        "title": "Gads Hill",
+        "year": 1972,
         "sheet": "040P07E"
     },
     {
@@ -3312,6 +3312,12 @@
         "sheet": "030M12D"
     },
     {
+        "fullname": "HTDP25K040P06g_1960TIFF",
+        "title": "Mitchell",
+        "year": "1959-60",
+        "sheet": "040P06G"
+    },
+    {
         "fullname": "HTDP25K052A06b_1969TIFF",
         "title": "Mission Island",
         "year": 1969,
@@ -3321,12 +3327,6 @@
         "fullname": "HTDP25K040P06g_1976TIFF",
         "title": "Mitchell",
         "year": 1976,
-        "sheet": "040P06G"
-    },
-    {
-        "fullname": "HTDP25K040P06g_1960TIFF",
-        "title": "Mitchell",
-        "year": "1959-60",
         "sheet": "040P06G"
     },
     {
@@ -4997,16 +4997,16 @@
         "year": 1975,
         "sheet": "040J10B"
     },
+        {
+        "fullname": "HTDP25K040P06h_1960TIFF",
+        "title": "Sebringville",
+        "year": "1959-60",
+        "sheet": "040P06H"
+    },
     {
         "fullname": "HTDP25K040P06h_1976TIFF",
         "title": "Sebringville",
         "year": 1976,
-        "sheet": "040P06H"
-    },
-    {
-        "fullname": "HTDP25K040P06h_1960TIFF",
-        "title": "Sebringville",
-        "year": "1959-60",
         "sheet": "040P06H"
     },
     {
@@ -5220,6 +5220,18 @@
         "sheet": "030M03G"
     },
     {
+        "fullname": "HTDP63360K040J10_1910TIFF",
+        "title": "St Clair Flats",
+        "year": 1910,
+        "sheet": "040J10"
+    },
+    {
+        "fullname": "HTDP63360K040J10_1924TIFF",
+        "title": "St Clair Flats",
+        "year": 1924,
+        "sheet": "040J10"
+    },
+    {
         "fullname": "HTDP25K031C01g_1960TIFF",
         "title": "St Lawrence",
         "year": 1960,
@@ -5274,46 +5286,16 @@
         "sheet": "040P06B"
     },
     {
-        "fullname": "HTDP25K040P06a_1976TIFF",
-        "title": "St Pauls",
-        "year": 1976,
-        "sheet": "040P06A"
-    },
-    {
         "fullname": "HTDP25K040P06a_1960TIFF",
         "title": "St Pauls",
         "year": "1959-60",
         "sheet": "040P06A"
     },
     {
-        "fullname": "HTDP25K040I14b_1964TIFF",
-        "title": "St Thomas",
-        "year": 1964,
-        "sheet": "040I14B"
-    },
-    {
-        "fullname": "HTDP25K040I14b_1973TIFF",
-        "title": "St Thomas",
-        "year": 1973,
-        "sheet": "040I14B"
-    },
-    {
-        "fullname": "HTDP25K040I09e_1971TIFF",
-        "title": "St Williams",
-        "year": 1971,
-        "sheet": "040I09E"
-    },
-    {
-        "fullname": "HTDP63360K040J10_1910TIFF",
-        "title": "St Clair Flats",
-        "year": 1910,
-        "sheet": "040J10"
-    },
-    {
-        "fullname": "HTDP63360K040J10_1924TIFF",
-        "title": "St Clair Flats",
-        "year": 1924,
-        "sheet": "040J10"
+        "fullname": "HTDP25K040P06a_1976TIFF",
+        "title": "St Pauls",
+        "year": 1976,
+        "sheet": "040P06A"
     },
     {
         "fullname": "HTDP63360K040I14_1913TIFF",
@@ -5362,6 +5344,24 @@
         "title": "St Thomas",
         "year": 1948,
         "sheet": "040I14"
+    },
+    {
+        "fullname": "HTDP25K040I14b_1964TIFF",
+        "title": "St Thomas",
+        "year": 1964,
+        "sheet": "040I14B"
+    },
+    {
+        "fullname": "HTDP25K040I14b_1973TIFF",
+        "title": "St Thomas",
+        "year": 1973,
+        "sheet": "040I14B"
+    },
+    {
+        "fullname": "HTDP25K040I09e_1971TIFF",
+        "title": "St Williams",
+        "year": 1971,
+        "sheet": "040I09E"
     },
     {
         "fullname": "HTDP25K030L14h_1964TIFF",
@@ -5418,15 +5418,15 @@
         "sheet": "040P07"
     },
     {
-        "fullname": "HTDP25K040P07d_1972TIFF",
-        "title": "Stratford",
-        "year": 1972,
-        "sheet": "040P07D"
-    },
-    {
         "fullname": "HTDP25K040P07d_1960TIFF",
         "title": "Stratford",
         "year": "1959-60",
+        "sheet": "040P07D"
+    },
+    {
+        "fullname": "HTDP25K040P07d_1972TIFF",
+        "title": "Stratford",
+        "year": 1972,
         "sheet": "040P07D"
     },
     {
@@ -5550,15 +5550,15 @@
         "sheet": "031C07H"
     },
     {
-        "fullname": "HTDP25K040P07c_1972TIFF",
-        "title": "Tavistock",
-        "year": 1972,
-        "sheet": "040P07C"
-    },
-    {
         "fullname": "HTDP25K040P07c_1960TIFF",
         "title": "Tavistock",
         "year": "1959-60",
+        "sheet": "040P07C"
+    },
+    {
+        "fullname": "HTDP25K040P07c_1972TIFF",
+        "title": "Tavistock",
+        "year": 1972,
         "sheet": "040P07C"
     },
     {
@@ -6132,15 +6132,15 @@
         "sheet": "040P03G"
     },
     {
-        "fullname": "HTDP25K040P07f_1972TIFF",
-        "title": "Wellesley",
-        "year": 1972,
-        "sheet": "040P07F"
-    },
-    {
         "fullname": "HTDP25K040P07f_1960TIFF",
         "title": "Wellesley",
         "year": "1959-60",
+        "sheet": "040P07F"
+    },
+    {
+        "fullname": "HTDP25K040P07f_1972TIFF",
+        "title": "Wellesley",
+        "year": 1972,
         "sheet": "040P07F"
     },
     {
