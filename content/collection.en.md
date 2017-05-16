@@ -7,7 +7,7 @@ To find maps by sheet name or NTS sheet number, use the search box or scroll thr
 
 Please note that the map sheet name does not always correspond to the place name. For example, all early maps of London, ON were titled _Lucan_ or _St. Thomas_. If you are unable to find the place you are looking for by using the search box below, consult Natural Resources Canada's [name search](http://www4.rncan.gc.ca/search-place-names/search) to find the NTS number for that location. 
 
-You can also search for maps by accessing the map indexes directly in the Scholars GeoPortal. Consult the [Using the Maps](../using-maps/) section for more information on using the map index and searching for maps in Scholars GeoPortal.
+You can also search for maps by accessing the map indexes directly in the Scholars GeoPortal. Consult the [Using the Maps](../using-maps/) section for more information on using the map indexes and searching for maps in Scholars GeoPortal.
 
 - [1:63 360 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
 - [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
