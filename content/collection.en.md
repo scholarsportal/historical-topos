@@ -13,7 +13,7 @@ You can also search for maps by accessing the map indexes directly in the Schola
 - [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
 
 
-<input placeholder="Search by sheet map name or number" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
+<input placeholder="Search by sheet map name or NTS number" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
 
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together

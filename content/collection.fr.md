@@ -12,7 +12,7 @@ Vous pouvez également rechercher des cartes en accédant aux index de la carte 
 - [Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) 
 - [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
 
-<input placeholder="Recherche par feuille nom ou numéro de carte" name="Place name search" id="index-filter" type="text" aria-label="Recherche par feuille nom ou numéro de carte"/>
+<input placeholder="Rechercher par nom de carte ou numéro SNRC" name="Place name search" id="index-filter" type="text" aria-label="Recherche par feuille nom ou numéro de carte"/>
 
 <script>
 // Import a json file (previously sorted by place name, then year) and display, keeping all of the items with the same place name displayed together
