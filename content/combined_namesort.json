@@ -5203,13 +5203,13 @@
     },
     {
         "fullname": "HTDP25K030M03g_1962TIFF",
-        "title": "St Catharines",
+        "title": "St Catherines",
         "year": 1962,
         "sheet": "030M03G"
     },
     {
         "fullname": "HTDP25K030M03g_1963TIFF",
-        "title": "St Catharines",
+        "title": "St Catherines",
         "year": 1963,
         "sheet": "030M03G"
     },
@@ -5238,15 +5238,39 @@
         "sheet": "031C01G"
     },
     {
-        "fullname": "HTDP25K040P06b_1975TIFF",
-        "title": "St Mary's",
-        "year": 1975,
-        "sheet": "040P06B"
+        "fullname": "HTDP63360K040P06_1927TIFF",
+        "title": "St Marys",
+        "year": 1927,
+        "sheet": "040P06"
+    },
+    {
+        "fullname": "HTDP63360K040P06_1934TIFF",
+        "title": "St Marys",
+        "year": 1934,
+        "sheet": "040P06"
+    },
+    {
+        "fullname": "HTDP63360K040P06_1940_MBTIFF",
+        "title": "St Marys",
+        "year": 1940,
+        "sheet": "040P06"
+    },
+    {
+        "fullname": "HTDP63360K040P06_1940_UTMTIFF",
+        "title": "St Marys",
+        "year": 1940,
+        "sheet": "040P06"
     },
     {
         "fullname": "HTDP25K040P06b_1960TIFF",
-        "title": "St Mary's",
+        "title": "St Marys",
         "year": "1959-60",
+        "sheet": "040P06B"
+    },
+    {
+        "fullname": "HTDP25K040P06b_1975TIFF",
+        "title": "St Marys",
+        "year": 1975,
         "sheet": "040P06B"
     },
     {
@@ -5281,85 +5305,61 @@
     },
     {
         "fullname": "HTDP63360K040J10_1910TIFF",
-        "title": "St. Clair Flats",
+        "title": "St Clair Flats",
         "year": 1910,
         "sheet": "040J10"
     },
     {
         "fullname": "HTDP63360K040J10_1924TIFF",
-        "title": "St. Clair Flats",
+        "title": "St Clair Flats",
         "year": 1924,
         "sheet": "040J10"
     },
     {
-        "fullname": "HTDP63360K040P06_1927TIFF",
-        "title": "St. Marys",
-        "year": 1927,
-        "sheet": "040P06"
-    },
-    {
-        "fullname": "HTDP63360K040P06_1934TIFF",
-        "title": "St. Marys",
-        "year": 1934,
-        "sheet": "040P06"
-    },
-    {
-        "fullname": "HTDP63360K040P06_1940_MBTIFF",
-        "title": "St. Marys",
-        "year": 1940,
-        "sheet": "040P06"
-    },
-    {
-        "fullname": "HTDP63360K040P06_1940_UTMTIFF",
-        "title": "St. Marys",
-        "year": 1940,
-        "sheet": "040P06"
-    },
-    {
         "fullname": "HTDP63360K040I14_1913TIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1913,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1919TIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1919,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1924TIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1924,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1929TIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1929,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1934TIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1934,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1938TIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1938,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1941_MBTIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1941,
         "sheet": "040I14"
     },
     {
         "fullname": "HTDP63360K040I14_1948_UTMTIFF",
-        "title": "St. Thomas",
+        "title": "St Thomas",
         "year": 1948,
         "sheet": "040I14"
     },
