@@ -95,6 +95,8 @@ Over the course of the project there were many contributors from across Ontario,
 * Sophie Routhier LeBlanc (University of Ottawa Library)
 * Sarah Simpkin (University of Ottawa Library)
 * Wish Yen (University of Ottawa Library)
+* Marcel Fortin (University of Toronto, St. George)
+* Jordan Hale (University of Toronto, St. George)
 * Eva Dodsworth (University of Waterloo)
 * Cheryl Woods (Western University Library)
 * Peter Genzinger (Wilfrid Laurier University)

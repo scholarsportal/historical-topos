@@ -94,6 +94,8 @@ Pendant la durée du projet, il y a eu de nombreux contributeurs partout dans l�
 * Sophie Routhier LeBlanc (Bibliothèque de l’Université d’Ottawa)
 * Sarah Simpkin (Bibliothèque de l’Université d’Ottawa)
 * Wish Yen (Bibliothèque de l’Université d’Ottawa)
+* Marcel Fortin (Université de Toronto, St. George)
+* Jordan Hale (Université de Toronto, St. George)
 * Eva Dodsworth (Université de Waterloo)
 * Cheryl Woods (Bibliothèque de l’Université Western)
 * Peter Genzinger (Université Wilfrid Laurier)
