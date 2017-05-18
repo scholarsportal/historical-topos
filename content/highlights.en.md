@@ -50,12 +50,12 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 ## Rondeau Provincial Park
 
 <div class="juxtapose">
-	<img src="../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1901" />
+	<img src="../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1910" />
     <img src="../img/highlights/HTDP63360K040I05_1941_MBTIFF.jpg" data-label="1941" />
 </div>
 
 <div class="row slider-description">
-	<p class="col-md-6"><strong>Left</strong>: Early Rondeau Provincial Park (1901)</p>
+	<p class="col-md-6"><strong>Left</strong>: Early Rondeau Provincial Park (1910)</p>
 	<p class="col-md-6"><strong>Right</strong>: Development of the park, including road pattern and shoreline cottages, over a 30 year period (1941)</p>
 </div>
 
