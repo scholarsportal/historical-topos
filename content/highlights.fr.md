@@ -50,13 +50,13 @@ Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous l
 ## Rondeau Provincial Park
 
 <div class="juxtapose">
-	<img src="../../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1910" />
+	<img src="../../img/highlights/HTDP63360K040I05_1910TIFF.jpg" data-label="1901" />
     <img src="../../img/highlights/HTDP63360K040I05_1941_MBTIFF.jpg" data-label="1941" />
 </div>
 
 <div class="row slider-description">
-	<p class="col-md-6"><strong>La gauche</strong>: Le parc provincial Rondeau, peu de temps après sa création (1910)</p>
-	<p class="col-md-6"><strong>Droite</strong>: Développement du parc, y compris le chemin et les chalets sur le littoral, sur une période de 30 ans (1941)</p>
+	<p class="col-md-6"><strong>Left</strong>: Le parc provincial Rondeau, peu de temps après sa création (1901)</p>
+	<p class="col-md-6"><strong>Right</strong>: Développement du parc, y compris le chemin et les chalets sur le littoral, sur une période de 30 ans (1941)</p>
 </div>
 
 ### Sources
