@@ -1,4 +1,4 @@
-baseurl = "http://ocul.on.ca/topomaps/"
+baseurl = "https://ocul.on.ca/topomaps/"
 #baseurl = "https://staticdev.scholarsportal.info/topomaps/"
 #baseurl = "http://localhost/hist-topos/public/"
 theme = "hugo-creative-portfolio-theme"
@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [params]
-logourl = "http://ocul.on.ca"
+logourl = "https://ocul.on.ca"
 style = "blue"
 email = "topomaps@scholarsportal.info"
 

@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Niagara Falls
 
 The survey for this map was conducted using aerial imagery, as part of a survey commissioned by the Canadian Army Survey Establishment (A.S.E.). These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M03a_1963TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP25K030M03a_1963TIFF.jpg)
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M03a_1963TIFF&_add:true) | [Download image](https://ocul.on.ca/topomaps/map-images/HTDP25K030M03a_1963TIFF.jpg)

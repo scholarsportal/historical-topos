@@ -38,7 +38,7 @@ All geoprocessing scripts may be accessed [on Github](https://github.com/jasonbr
 ### Project Website
 The project website was created with the [Hugo static website generator](https://gohugo.io/). It uses [JuxtaposeJS](https://juxtapose.knightlab.com/) to compare images, and the [elevateZoom-plus jQuery plugin](https://github.com/igorlino/elevatezoom-plus) to zoom into individual maps. The source code for the website is available [on Github](https://github.com/scholarsportal/historical-topos).
 
-For more information about the project’s technical specifications please [contact us](http://ocul.on.ca/topomaps/contact/).
+For more information about the project’s technical specifications please [contact us](https://ocul.on.ca/topomaps/contact/).
 
 ## Contributors
 

@@ -13,4 +13,4 @@ This is a georeferenced raster image of a printed paper map of the Ottawa- Gatin
 
 The exact survey date for this map is not known. The survey was conducted using imagery taken by the Royal Canadian Air Force, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Mapping Branch of the Department of Energy, Mines and Resources. 
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05-G12_1939TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031G05-G12_1939TIFF.jpg)
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031G05-G12_1939TIFF&_add:true) | [Download image](https://ocul.on.ca/topomaps/map-images/HTDP63360K031G05-G12_1939TIFF.jpg)

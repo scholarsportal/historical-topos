@@ -36,7 +36,7 @@ Vous pouvez également rechercher des cartes en accédant aux index de la carte 
       lines += '<p>Année: ' + jsontext[i].year + ', ';
       lines += 'nº de feuille: ' + jsontext[i].sheet + ' |';
       lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
-      lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Télécharger l\'image</a></p>';
+      lines += '<a href="https://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Télécharger l\'image</a></p>';
       lines += '</div>';
 
       // append the content into the div with the same id

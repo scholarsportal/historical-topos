@@ -14,4 +14,4 @@ This is a georeferenced raster image of a printed paper map of the Kingston, Ont
 
 The exact survey date for this map is not known. The survey for this map was conducted as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.
 
-[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C01-C02-C07-C08_1940TIFF&_add:true) | [Download image](http://ocul.on.ca/topomaps/map-images/HTDP63360K031C01-C02-C07-C08_1940TIFF.jpg)
+[View in Scholars GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K031C01-C02-C07-C08_1940TIFF&_add:true) | [Download image](https://ocul.on.ca/topomaps/map-images/HTDP63360K031C01-C02-C07-C08_1940TIFF.jpg)

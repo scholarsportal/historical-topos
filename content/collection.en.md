@@ -37,7 +37,7 @@ You can also search for maps by accessing the map indexes directly in the Schola
       lines += '<p>Year: ' + jsontext[i].year + ', ';
       lines += 'Sheet no. ' + jsontext[i].sheet + ' |';
       lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| ';
-      lines += '<a href="http://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
+      lines += '<a href="https://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
       lines += '</div>';
 
       // append the content into the div with the same id

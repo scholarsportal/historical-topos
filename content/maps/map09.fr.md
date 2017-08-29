@@ -13,4 +13,4 @@ Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur 
 
 Le levé pour cette carte a été fait en utilisant une imagerie aérienne, faisant partie d’un levé commandé par le Service topographique de l’armée canadienne (STA). Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada. 
 
-[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M03a_1963TIFF&_add:true) | [Télécharger l'image](http://ocul.on.ca/topomaps/map-images/HTDP25K030M03a_1963TIFF.jpg)
+[Voir dans GeoPortal](http://geo.scholarsportal.info/#r/details/_uri@=HTDP25K030M03a_1963TIFF&_add:true) | [Télécharger l'image](https://ocul.on.ca/topomaps/map-images/HTDP25K030M03a_1963TIFF.jpg)
