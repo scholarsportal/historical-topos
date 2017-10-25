@@ -71,6 +71,7 @@ Pendant la durée du projet, il y a eu de nombreux contributeurs partout dans l�
 * Rebecca Bartlett (Bibliothèque de l’Université Carleton)
 * Ryder Burt (Bibliothèque de l’Université Carleton)
 * Joël Rivard (Bibliothèque de l’Université Carleton)
+* Marc Cockburn (Bibliothèque et Archives Canada)
 * Lorraine Dubreuil (Emeritus, Université McGill)
 * Jordan Aharoni (Université McMaster)
 * Victoria Balkwill Tweedie (Université McMaster)

@@ -72,6 +72,7 @@ Over the course of the project there were many contributors from across Ontario,
 * Rebecca Bartlett (Carleton University Library)
 * Ryder Burt (Carleton University Library)
 * Joël Rivard (Carleton University Library)
+* Marc Cockburn (Library and Archives Canada)
 * Lorraine Dubreuil (Emeritus, McGill University)
 * Jordan Aharoni (McMaster University)
 * Victoria Balkwill Tweedie (McMaster University)
