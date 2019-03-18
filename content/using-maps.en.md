@@ -151,4 +151,4 @@ It is possible to view what maps are available for a given area without having a
 
 <img class="img-responsive using-maps" src="../img/usingmaps/Figure-20.PNG" alt="Screen capture of the results of a search in the GeoPortal for a ‘Search by Area’ of central Ontario.">
 
-If you are interested in learning more about using the Scholars GeoPortal to access other data / maps please refer to [the User Guide](http://guides.scholarsportal.info/geoportal). 
+If you are interested in learning more about using the Scholars GeoPortal to access other data / maps please refer to [the User Guide](https://learn.scholarsportal.info/all-guides/geoportal).

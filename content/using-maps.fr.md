@@ -150,8 +150,8 @@ Il est possible de voir quelles cartes sont disponibles dans une zone donnée sa
 2. Cliquez sur le signe **+** à côté du champ de recherche. Un nouveau champ de recherche apparaîtra. 
 3. À partir du menu déroulant, à côté de ce deuxième champ de recherche, choisissez l’option _Inclure Étendue_. Une option _Tracer_ apparaîtra à gauche du menu. 
 <br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-19-FR.PNG" alt="Capture d’écran du champ de recherche dans GeoPortal avec un ‘*’ et l’option « Cartes historiques » choisie à partir du menu déroulant, ainsi que l’option « Inclure Étendue » en dessous comme option de recherche supplémentaire."><br>
-4. Choisissez l’option _Tracer_. Glissez votre curseur au-dessus de la carte pour sélectionner la zone qui vous intéresse, puis cliquez sur le bouton _Recherche_. Les résultats apparaîtront en-dessous du champ de recherche. 
+4. Choisissez l’option _Tracer_. Glissez votre curseur au-dessus de la carte pour sélectionner la zone qui vous intéresse, puis cliquez sur le bouton _Recherche_. Les résultats apparaîtront en-dessous du champ de recherche.
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-20-FR.PNG" alt="Capture d’écran des résultats d’un recherche dans GeoPortal pour une « Recherche par zone » du centre de l’Ontario.">
 
-Si vous désirez en savoir plus sur l’utilisation de Scholars GeoPortal pour accéder à d’autres données/cartes, veuillez vous référer au [Guide de l’utilisateur](http://guides.scholarsportal.info/geoportal).
+Si vous désirez en savoir plus sur l’utilisation de Scholars GeoPortal pour accéder à d’autres données/cartes, veuillez vous référer au [Guide de l’utilisateur](https://learn.scholarsportal.info/all-guides/geoportal).
