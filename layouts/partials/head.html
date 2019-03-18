@@ -19,6 +19,10 @@
 <link href="{{ "css/juxtapose.css" | absURL }}" rel="stylesheet">
 <!-- Custom stylesheet - for your changes -->
 <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
+<!-- Load some scripts earlier in the page load -->
+<script src="{{ "js/jquery.min.js" | absURL }}"></script>
+<script src="{{ "js/jquery.ez-plus.js" | absURL }}"></script>
+<!-- Favicon -->
 <link href="{{ "img/favicon.png" | absURL }}" rel="shortcut icon">
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
