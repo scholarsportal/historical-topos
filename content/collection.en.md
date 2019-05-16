@@ -5,12 +5,12 @@ title = "Full Collection"
 
 To find maps by sheet name or NTS sheet number, use the search box or scroll through the list below. Once you have found a map, select _View in GeoPortal_ to visualize this map in the Scholars GeoPortal. This will overlay the map onto a current base map, allowing you to explore changes over time. It will also provide you with more detailed information about the map itself.
 
-Please note that the map sheet name does not always correspond to the place name. For example, all early maps of London, ON were titled _Lucan_ or _St. Thomas_. If you are unable to find the place you are looking for by using the search box below, consult Natural Resources Canada's [name search](http://www4.rncan.gc.ca/search-place-names/search) to find the NTS number for that location. 
+Please note that the map sheet name does not always correspond to the place name. For example, all early maps of London, ON were titled _Lucan_ or _St. Thomas_. If you are unable to find the place you are looking for by using the search box below, consult Natural Resources Canada's [name search](http://www4.rncan.gc.ca/search-place-names/search) to find the NTS number for that location.
 
 You can also search for maps by accessing the map indexes directly in the Scholars GeoPortal. Consult the [Using the Maps](../using-maps/) section for more information on using the map indexes and searching for maps in Scholars GeoPortal.
 
 - [1:63 360 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
-- [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
+- [1:25 000 Index Navigation](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true)
 
 
 <input placeholder="Search by sheet map name or NTS number" name="Place name search" id="index-filter" type="text" aria-label="Search by sheet map name"/>
@@ -37,7 +37,7 @@ You can also search for maps by accessing the map indexes directly in the Schola
       lines += '<p>Year: ' + jsontext[i].year + ', ';
       lines += 'Sheet no. ' + jsontext[i].sheet + ' |';
       lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> View in GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| ';
-      lines += '<a href="https://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Download image </a></p>';
+      lines += 'Download image: <a href="https://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Low-res</a> | <a href=" '+ jsontext[i].url + '">High-res</a>';
       lines += '</div>';
 
       // append the content into the div with the same id

@@ -3,14 +3,14 @@ date = "2017-03-30"
 title = "Parcourir la collection au complet"
 +++
 
-Pour trouver des cartes par le nom de la feuille ou le numéro SNRC, utilisez le champ de recherche ou parcourez la liste ci-dessous. Une fois que vous avez trouvé la carte, allez à Voir dans GeoPortal pour visualiser cette carte dans Scholars GeoPortal. Ceci vous permettra de superposer la carte sur une carte de base actuelle, vous permettant ainsi de découvrir les différents changements au fil du temps. Cela vous permettra également d’obtenir des renseignements plus détaillés sur la carte. 
+Pour trouver des cartes par le nom de la feuille ou le numéro SNRC, utilisez le champ de recherche ou parcourez la liste ci-dessous. Une fois que vous avez trouvé la carte, allez à Voir dans GeoPortal pour visualiser cette carte dans Scholars GeoPortal. Ceci vous permettra de superposer la carte sur une carte de base actuelle, vous permettant ainsi de découvrir les différents changements au fil du temps. Cela vous permettra également d’obtenir des renseignements plus détaillés sur la carte.
 
-Veuillez noter que le nom de la feuille de carte ne correspond pas toujours au nom du lieu. Par exemple, toutes les premières cartes de London, ON étaient intitulées _Lucan_ ou _St. Thomas_. Si vous ne parvenez pas à trouver l'endroit que vous recherchez en utilisant le champ de recherche ci-dessous, consultez la [recherche de toponymes](http://www4.rncan.gc.ca/recherche-de-noms-de-lieux/search) de Ressources naturelles Canada pour trouver le numéro SNRC pour cet endroit. 
+Veuillez noter que le nom de la feuille de carte ne correspond pas toujours au nom du lieu. Par exemple, toutes les premières cartes de London, ON étaient intitulées _Lucan_ ou _St. Thomas_. Si vous ne parvenez pas à trouver l'endroit que vous recherchez en utilisant le champ de recherche ci-dessous, consultez la [recherche de toponymes](http://www4.rncan.gc.ca/recherche-de-noms-de-lieux/search) de Ressources naturelles Canada pour trouver le numéro SNRC pour cet endroit.
 
-Vous pouvez également rechercher des cartes en accédant aux index de la carte directement dans le Scholar GeoPortal. Consultez la section [Utiliser les cartes](../using-maps/) pour plus d'informations sur l'utilisation des index et la recherche de cartes dans Scholars GeoPortal. 
+Vous pouvez également rechercher des cartes en accédant aux index de la carte directement dans le Scholar GeoPortal. Consultez la section [Utiliser les cartes](../using-maps/) pour plus d'informations sur l'utilisation des index et la recherche de cartes dans Scholars GeoPortal.
 
-- [Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true) 
-- [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true) 
+- [Index de navigation pour 1:63 360](http://geo.scholarsportal.info/#r/details/_uri@=564032357&_add:true)
+- [Index de navigation pour 1:25 000](http://geo.scholarsportal.info/#r/details/_uri@=847590539&_add:true)
 
 <input placeholder="Rechercher par nom de carte ou numéro SNRC" name="Place name search" id="index-filter" type="text" aria-label="Recherche par feuille nom ou numéro de carte"/>
 
@@ -35,8 +35,8 @@ Vous pouvez également rechercher des cartes en accédant aux index de la carte 
       lines += '<div class="' + title + '-section sheet-item">';
       lines += '<p>Année: ' + jsontext[i].year + ', ';
       lines += 'nº de feuille: ' + jsontext[i].sheet + ' |';
-      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| '; 
-      lines += '<a href="https://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> Télécharger l\'image</a></p>';
+      lines += '<a href="http://geo.scholarsportal.info/#r/details/_uri@=' + jsontext[i].fullname + '&_add:true" target="_blank"> Voir dans GeoPortal<i class="fa fa-external-link" aria-hidden="true"></i></a>| ';
+      lines += 'Télécharger l\'image: <a href="https://ocul.on.ca/topomaps/map-images/' + jsontext[i].fullname + '.jpg"> base résolution</a> | <a href=" '+ jsontext[i].url + '">haute résolution</a>';
       lines += '</div>';
 
       // append the content into the div with the same id
@@ -59,7 +59,7 @@ Vous pouvez également rechercher des cartes en accédant aux index de la carte 
         $('.sheet-item:visible').hide();
 
     if(valThis == ""){
-        $('.toggle-mapsheets').show();           
+        $('.toggle-mapsheets').show();
     }
 
     else {
