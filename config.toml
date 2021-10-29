@@ -10,6 +10,9 @@ canonifyURLs = false
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [params]
     logourl = "https://ocul.on.ca"
     style = "blue"
