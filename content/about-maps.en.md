@@ -5,7 +5,6 @@ title = "About The Maps"
 
 Early topographic mapping in Canada was fragmented, with many agencies producing maps at different scales. The areas mapped varied, and the legends and colours used rarely matched up. This changed in 1904, when a standardized system of mapping was introduced, which officially became Canada’s National Topographic System (NTS) in 1926. Over the next several decades, over 1000 maps were produced for Ontario alone in the 1:63,360 and 1:25,000 scales series. The timeline below provides a detailed history of the production of these maps.
 
-
 ## Historical Timeline
 
 **1899-1902:** The Boer War raises concerns in Canada about the importance of military maps for national defence.

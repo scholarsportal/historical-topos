@@ -9,6 +9,7 @@ weight = 10
 +++
 
 This is a georeferenced raster image of a printed paper map of the Algonquin, Ontario region (Sheet No. 031B12G), published in 1968. It is the first edition in a series of two maps, published between 1968 and 1977. Unlike most other maps in the 1:25,000 series, this map is not of a populated area.
+
 <!--more-->
 
 The photograph used to create this map was originally taken in 1963, by the Hunting Survey Corporation Limited, based out of Toronto, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.

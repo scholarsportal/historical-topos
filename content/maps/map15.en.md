@@ -9,6 +9,7 @@ weight = 15
 +++
 
 This is a georeferenced raster image of a printed paper map of the Sudbury, Ontario region (Sheet No. 041I07E), published in 1977. It is the second edition in a series of two maps, published between 1965 and 1977.
+
 <!--more-->
 
 The photograph used to create this map was originally taken in 1974, by the Northway Survey Corporation Limited, based out of Toronto, ON, Canada. These various surveys were under the Surveys and Mapping Branch of the Department of Energy, Mines and Resources, Government of Canada.

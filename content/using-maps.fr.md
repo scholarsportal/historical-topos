@@ -10,7 +10,7 @@ title = "Utiliser les cartes"
 	<li><a href="#recherche-avancée">Recherche avancée</a></li>
 </ul>
 
-[Scholars GeoPortal](http://geo.scholarsportal.info/#_lang=fr) est un géoportail en ligne permettant aux utilisateurs de trouver et de télécharger des cartes et des données géospatiales. En utilisation GeoPortal et l’index de navigation de cartes intégré, les utilisateurs peuvent voir la disponibilité des cartes par emplacement et ajouter des cartes au visualiseur de cartes pour découvrir tout cela en ligne. GeoPortal contient également des caractéristiques permettant de superposer plusieurs cartes et d’inclure d’autres données pour voir les changements au fil du temps. Les cartes peuvent être téléchargées pour tout usage et sont disponibles en format GeoTIFF ou JPG. Suivez les étapes ci-dessous pour en savoir plus au sujet de l’accès et de l’utilisation de la collection dans GeoPortal. 
+[Scholars GeoPortal](http://geo.scholarsportal.info/#_lang=fr) est un géoportail en ligne permettant aux utilisateurs de trouver et de télécharger des cartes et des données géospatiales. En utilisation GeoPortal et l’index de navigation de cartes intégré, les utilisateurs peuvent voir la disponibilité des cartes par emplacement et ajouter des cartes au visualiseur de cartes pour découvrir tout cela en ligne. GeoPortal contient également des caractéristiques permettant de superposer plusieurs cartes et d’inclure d’autres données pour voir les changements au fil du temps. Les cartes peuvent être téléchargées pour tout usage et sont disponibles en format GeoTIFF ou JPG. Suivez les étapes ci-dessous pour en savoir plus au sujet de l’accès et de l’utilisation de la collection dans GeoPortal.
 
 Pour rechercher des cartes par nom de lieu sans entrer dans GeoPortal, allez à [_Collection au complet_](../collection/).
 
@@ -37,7 +37,7 @@ Quand l’index de navigation apparaît avec plusieurs cellules rectangulaires, 
 
 Tout comme pour les autres ensembles de données dans GeoPortal, dès que l’index de navigation de cartes est activé vous pouvez utiliser l’outil panoramique et le zoom pour voir les zones de la carte qui sont disponibles. L’index affiche le numérotage du Système national de référence cartographique (SNRC). Il s’agit de chiffres normalisés de feuilles de cartes, affichés au centre des cellules de grille de l’index pour faciliter l’identification.
 
-**Astuces** : La cellule choisie reste surlignée et indique ce que vous avez choisi jusqu’à ce que vous cliquiez encore une fois ou sélectionniez une autre zone. 
+**Astuces** : La cellule choisie reste surlignée et indique ce que vous avez choisi jusqu’à ce que vous cliquiez encore une fois ou sélectionniez une autre zone.
 
 Une mini-carte apparaîtra en bas à droite pour vous permettre de savoir où vous êtes sur la carte, même quand vous zoomez en avant. Si vous désirez la minimiser, cliquez tout simplement sur la flèche du bas située en bas à droite.
 
@@ -45,14 +45,14 @@ Une mini-carte apparaîtra en bas à droite pour vous permettre de savoir où vo
 
 ### Trouver l’index dans GeoPortal
 
-Vous pouvez trouver les index en effectuant une recherche pour « _Index topographique historique_ » dans le principal champ de recherche. 
+Vous pouvez trouver les index en effectuant une recherche pour « _Index topographique historique_ » dans le principal champ de recherche.
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-6-FR.PNG" alt="Capture d’écran du champ de recherche contenant les mots « Index topographique historique ».">
 
 Si vous avez déjà vu une feuille de carte dans Scholars GeoPortal, vous pouvez retourner à l’index en tout temps en cliquant sur Afficher la carte d’index à partir du registre de métadonnées.
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-7-FR.PNG" alt="Capture d’écran d’un registre de métadonnées pour « Brampton, Ontario », avec un lien indiquant « Afficher la carte d’index ».">
-	
+
 ## Explorer les cartes
 
 ### Voir les Cartes
@@ -61,7 +61,7 @@ Après avoir choisi la zone d’intérêt en utilisant l’index de navigation, 
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-8-FR.PNG" alt="Capture d’écran des résultats d’une recherche pour une feuille de carte de « Port Burwell, Ontario » ; le bouton « Vue » est entouré.">
 
-Cliquez sur le bouton _Vue générale_ après le chargement de la carte pour zoomer et voir la carte de plus près. 
+Cliquez sur le bouton _Vue générale_ après le chargement de la carte pour zoomer et voir la carte de plus près.
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-9-FR.PNG" alt="Capture d’écran de la carte chargée sur le visualiseur de carte dans GeoPortal après avoir été choisie à partir des résultats de recherche situés à gauche de l’écran.">
 
@@ -73,17 +73,17 @@ La galerie du fond de carte apparaît et vous pouvez choisir parmi plusieurs opt
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-10-FR.PNG" alt="Capture d’écran de la galerie de cartes de base du GeoPortal.">
 
-Vous pouvez régler la transparence de la carte pour la comparer avec le carte de base et voir les changements au fil du temps. Pour régler la transparence sur la carte, cliquez sur l’onglet Carte à partir du principal champ de recherche. À partir de là, vous pouvez voir une liste de cartes qui se chargent sur le visualiseur de carte. 
- 
+Vous pouvez régler la transparence de la carte pour la comparer avec le carte de base et voir les changements au fil du temps. Pour régler la transparence sur la carte, cliquez sur l’onglet Carte à partir du principal champ de recherche. À partir de là, vous pouvez voir une liste de cartes qui se chargent sur le visualiseur de carte.
+
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-11-FR.PNG" alt="Capture d’écran de l’onglet « Carte » dans le GeoPortal ; le curseur transparence est entouré.">
 
-En utilisant la barre du curseur transparence, vous pouvez régler la transparence de la couche supérieure, révélant ainsi la couche inférieure. Vous pouvez faire cela en superposant plusieurs cartes. 
+En utilisant la barre du curseur transparence, vous pouvez régler la transparence de la couche supérieure, révélant ainsi la couche inférieure. Vous pouvez faire cela en superposant plusieurs cartes.
 
-Si vous désirez réarranger les cartes pour qu’une soit au-dessus de l’autre, cliquez tout simplement sur une carte en-dessous de l’onglet _Carte_, puis faites-la glisser vers la position souhaitée. Veuillez noter que la carte-index sera toujours présente sur la liste et doit rester en haut de la liste pour reprendre le mode d’index de navigation. 
+Si vous désirez réarranger les cartes pour qu’une soit au-dessus de l’autre, cliquez tout simplement sur une carte en-dessous de l’onglet _Carte_, puis faites-la glisser vers la position souhaitée. Veuillez noter que la carte-index sera toujours présente sur la liste et doit rester en haut de la liste pour reprendre le mode d’index de navigation.
 
 ### Voir et superposer plusieurs cartes
 
-Dépendamment de la cellule d’index que vous avez choisie, il peut y avoir plus d’une carte disponible pour une zone spécifique. Elles sont souvent référées comme des éditions. Suivez les étapes suivantes pour voir plusieurs cartes en même temps en utilisant le visualiseur : 
+Dépendamment de la cellule d’index que vous avez choisie, il peut y avoir plus d’une carte disponible pour une zone spécifique. Elles sont souvent référées comme des éditions. Suivez les étapes suivantes pour voir plusieurs cartes en même temps en utilisant le visualiseur :
 
 1. À partir de la liste des résultats, cliquez sur le bouton Vue sur autant de feuilles de carte que vous aimeriez voir apparaître.
 2. À partir de l’onglet Carte, vous pouvez réorganiser les cartes selon la manière dont vous aimeriez les voir dans le visualiseur GeoPortal, avec le premier résultat apparaissant en haut. Vous pouvez également utiliser la barre du curseur transparence pour voir les changements au fil du temps sur les éditions des cartes.
@@ -100,17 +100,17 @@ De riches métadonnées ont été créées pour chaque feuille de carte. Elles p
 
 ## Télécharger les cartes
 
-Dès vous avez choisi la carte, vous pouvez la télécharger en format GeoTIFF. Ce format contient des renseignements de géolocalisation inclus dans le fichier pouvant être utilisés dans un Système d’information géographique (SIG). Chaque feuille de carte peut être téléchargée en cliquant sur le bouton Télécharger présent sur la liste des cartes. 
+Dès vous avez choisi la carte, vous pouvez la télécharger en format GeoTIFF. Ce format contient des renseignements de géolocalisation inclus dans le fichier pouvant être utilisés dans un Système d’information géographique (SIG). Chaque feuille de carte peut être téléchargée en cliquant sur le bouton Télécharger présent sur la liste des cartes.
 
 Si vous préférez télécharger la carte en format JPG, allez à [_Collection au complet_](../collection/) et cliquez sur l’option _Télécharger_ à côté de la carte concernée.
 
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-14-FR.PNG" alt="Capture d’écran des résultats d’une recherche pour les cartes de Toronto ; le bouton « Télécharger » est entouré.">
 
-**Lien rapide :** [Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 1], 1909](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1909TIFF&_add:true) 
+**Lien rapide :** [Toronto, Ontario. 1:63,360. Feuille de carte 030M11, [ed. 1], 1909](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K030M11_1909TIFF&_add:true)
 
 Ceci fera apparaître une fenêtre contextuelle. Vous serez obligés de désactiver votre système de blocage de fenêtres contextuelles. (**astuce** : vous pouvez passer outre en cliquant une deuxième fois sur le bouton _Télécharger_)
 
-**Conseils** : Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous les utilisez d’une manière assez originale, nous aimerions en savoir plus. Veuillez nous [contacter](../contact) et nous dire de quelle manière vous utilisez ces cartes dans vos projets. 
+**Conseils** : Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous les utilisez d’une manière assez originale, nous aimerions en savoir plus. Veuillez nous [contacter](../contact) et nous dire de quelle manière vous utilisez ces cartes dans vos projets.
 
 ## Recherche avancée
 
@@ -124,7 +124,7 @@ Si vous connaissez le nom ou le numéro SNRC d’une carte spécifique, vous pou
 **Remarque** : Les cartes historiques n’apparaîtront pas dans les résultats de la recherche si _Cartes historiques_ n’est pas sélectionné.
 2. Inscrivez un nom ou un numéro SNRC (ex. 030M11) dans le champ de recherche, puis cliquez sur le bouton _Recherche_.
 3. Les résultats apparaîtront en-dessous du champ de recherche.
- 
+
 <img class="img-responsive using-maps" src="../../img/usingmaps/Figure-15-FR.PNG" alt="Capture d’écran du champ de recherche dans GeoPortal avec le mot « Toronto » inscrit et l’option « Cartes historiques » choisie à partir du menu déroulant.">
 
 Si vous n’obtenez aucun résultat avec votre recherche, le nom de la carte peut ne pas correspondre avec le nom de lieu actuel (par exemple : la ville de « Oakville » est sous le nom de « Hamilton »). Si cela se produit, vous pouvez _Rechercher par adresse_ ou _Rechercher par zone_ (voir ci-dessous).
@@ -135,7 +135,7 @@ Si vous connaissez le nom actuel d’un lieu que vous recherchez, vous pouvez re
 
 1. Cliquez sur le bouton _Lieu ou adresse_ (au-dessus du champ de recherche).
 2. Inscrivez le nom de l’endroit concerné (ex. « exeter, on »)
-3. Quand vous cliquez sur le bouton _Recherche_, les résultats montreront les lieux géocodés que l’on peut zoomer sur la carte, en cliquant sur le bouton _Vue générale_. 
+3. Quand vous cliquez sur le bouton _Recherche_, les résultats montreront les lieux géocodés que l’on peut zoomer sur la carte, en cliquant sur le bouton _Vue générale_.
 <br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-16-FR.PNG" alt="Capture d’écran de l’option de recherche « Lieu ou Adresse » dans GeoPortal, avec « Exeter, ON » inscrit, et le bouton vue générale entouré."><br>
 4. Dès que vous avez zoomé sur ce lieu, et si ça tombe sur une zone permettant d’avoir une carte topographique historique, vous pouvez cliquer sur l’index de navigation pour voir les feuilles de carte disponibles pour cette zone.
 
@@ -145,10 +145,10 @@ Si vous connaissez le nom actuel d’un lieu que vous recherchez, vous pouvez re
 
 Il est possible de voir quelles cartes sont disponibles dans une zone donnée sans avoir le nom d’un lieu actuel en tête.
 
-1. Choisissez _Cartes historiques_ à partir du menu déroulant à côté du champ de recherche. Mettez un astérisque * dans le champ de recherche.
+1. Choisissez _Cartes historiques_ à partir du menu déroulant à côté du champ de recherche. Mettez un astérisque (*) dans le champ de recherche.
 <br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-18-FR.PNG" alt="Capture d’écran du champ de recherche dans GeoPortal avec un ‘*’ et l’option « Cartes historiques » choisie à partir du menu déroulant."><br>
-2. Cliquez sur le signe **+** à côté du champ de recherche. Un nouveau champ de recherche apparaîtra. 
-3. À partir du menu déroulant, à côté de ce deuxième champ de recherche, choisissez l’option _Inclure Étendue_. Une option _Tracer_ apparaîtra à gauche du menu. 
+2. Cliquez sur le signe **+** à côté du champ de recherche. Un nouveau champ de recherche apparaîtra.
+3. À partir du menu déroulant, à côté de ce deuxième champ de recherche, choisissez l’option _Inclure Étendue_. Une option _Tracer_ apparaîtra à gauche du menu.
 <br><br><img class="img-responsive using-maps" src="../../img/usingmaps/Figure-19-FR.PNG" alt="Capture d’écran du champ de recherche dans GeoPortal avec un ‘*’ et l’option « Cartes historiques » choisie à partir du menu déroulant, ainsi que l’option « Inclure Étendue » en dessous comme option de recherche supplémentaire."><br>
 4. Choisissez l’option _Tracer_. Glissez votre curseur au-dessus de la carte pour sélectionner la zone qui vous intéresse, puis cliquez sur le bouton _Recherche_. Les résultats apparaîtront en-dessous du champ de recherche.
 

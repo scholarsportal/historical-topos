@@ -8,7 +8,8 @@ id = "041K09_1939"
 weight = 8
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Sault Ste. Marie, région de l’Ontario (feuille No. 041K09), publiée en 1939. C’est la première et la seule édition de cette carte. Elle est assez inhabituelle car elle fut agrandie pour inclure une zone extérieure de la grille d’index, la Péninsule. Une version quadrillée de cette carte (système MB Grid) fut également publiée cette même année. 
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Sault Ste. Marie, région de l’Ontario (feuille No. 041K09), publiée en 1939. C’est la première et la seule édition de cette carte. Elle est assez inhabituelle car elle fut agrandie pour inclure une zone extérieure de la grille d’index, la Péninsule. Une version quadrillée de cette carte (système MB Grid) fut également publiée cette même année.
+
 <!--more-->
 
 Le levé pour cette carte a été fait en 1937 en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale.

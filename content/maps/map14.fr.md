@@ -8,7 +8,8 @@ id = "031L06d_1965"
 weight = 14
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de North Bay, région de l’Ontario (feuille No. 031L06D), publiée en 1965. C’est la première édition d’une série de deux cartes publiées entre 1965 et 1977. C’est la seule carte pour cette partie de l’Ontario. 
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de North Bay, région de l’Ontario (feuille No. 031L06D), publiée en 1965. C’est la première édition d’une série de deux cartes publiées entre 1965 et 1977. C’est la seule carte pour cette partie de l’Ontario.
+
 <!--more-->
 
 La photographie utilisée pour créer cette carte fut prise à l’origine en 1968 par la Hunting Survey Corporation Limited, basée à Toronto, ON. Ces différents levés faisaient partie de la Direction des levés et de la Cartographie du Ministère de l’énergie, des Mines et des Ressources, Gouvernement du Canada.

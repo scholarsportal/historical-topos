@@ -8,7 +8,8 @@ id = "031C08_1916"
 weight = 5
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Gananoque, région de l’Ontario (feuille No. 61), publiée en 1916. C’est la première et la seule édition de cette carte. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par les organismes canadiens de cartographie. 
+Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Gananoque, région de l’Ontario (feuille No. 61), publiée en 1916. C’est la première et la seule édition de cette carte. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par les organismes canadiens de cartographie.
+
 <!--more-->
 
 Le levé pour cette carte a été fait en 1912 en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale.

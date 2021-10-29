@@ -9,6 +9,7 @@ weight = 3
 +++
 
 Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Golden Lake, région de l’Ontario (feuille No. 031F11), publiée en 1937. C’est la première et la seule édition de cette carte.
+
 <!--more-->
 
 Le levé pour cette carte a été fait en 1935 en utilisant une image prise par l’Aviation royale canadienne, faisant partie d’un levé topographique national commandé par le Ministère de la Milice et de la Défense en 1904. Ce levé fut complété par le Service de géographie, État-major général, Ministère de la Défense nationale.

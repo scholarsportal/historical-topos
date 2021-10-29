@@ -65,7 +65,8 @@ Les anciennes cartes sont cool ! Si vous avez téléchargé ces cartes et vous l
 - [Ridgetown, Ontario. 1:63,360. Map Sheet 040I05, [ed. 3], gridded, 1941](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040I05_1941_MBTIFF&_add:true)
 
 ### Renseignements Supplémentaires
-Le parc provincial Rondeau, créé en 1894 et situé sur une épissure de sable s'étendant dans le lac Érié, est le deuxième plus ancient parc provincial d’Ontario. Le nom du parc provient des mots français «ronde eau» ou «eau ronde» qui décrit la forme du port abrité par la péninsule. Rondeau abrite la plus grande région de la forêt carolinienne au Canada, et est également une étape importante pour les oiseaux migrateurs. 
+
+Le parc provincial Rondeau, créé en 1894 et situé sur une épissure de sable s'étendant dans le lac Érié, est le deuxième plus ancient parc provincial d’Ontario. Le nom du parc provient des mots français «ronde eau» ou «eau ronde» qui décrit la forme du port abrité par la péninsule. Rondeau abrite la plus grande région de la forêt carolinienne au Canada, et est également une étape importante pour les oiseaux migrateurs.
 
 - [Le parc Rondeau, Parcs Ontario](https://www.ontarioparks.com/park/rondeau)
 

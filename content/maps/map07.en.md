@@ -9,6 +9,7 @@ weight = 7
 +++
 
 This is a georeferenced raster image of a printed paper map of the Tobermory, Ontario region (Sheet No. 041H03-H04), published in 1946. It is the first and only edition of this map.
+
 <!--more-->
 
 The survey for this map was conducted in 1944 using imagery taken by the Royal Canadian Air Force, as part of a national topographical survey originally commissioned by Department of Militia and Defence in 1904. This survey was completed by the Geographical Section, General Staff, Department of National Defence.

@@ -5,64 +5,63 @@ title = "Au sujet des cartes"
 
 La première cartographie topographique au Canada a été fragmentée avec plusieurs agences produisant des cartes à plusieurs échelles. Les zones couvertes étaient variées, et les légendes et couleurs utilisées correspondaient rarement. Ce style a été modifié en 1904 quand un système normalisé de cartographie a été introduit, devenant ainsi officiellement le Système national de référence cartographique au Canada (SNRC) en 1926. Au cours des décennies qui ont suivi, plus de 1,000 cartes ont été produites uniquement pour l’Ontario dans la série d’échelles de 1:63,360 et 1:25,000.  
 
-
 ## Chronologie
 
-**1899-1902:** La Guerre des Boers a soulevé des préoccupations au Canada concernant l’importance d’avoir des cartes militaires pour la défense nationale. 
+**1899-1902:** La Guerre des Boers a soulevé des préoccupations au Canada concernant l’importance d’avoir des cartes militaires pour la défense nationale.
 
 **1903:** Major E.H. Hills, un expert britannique dans le domaine de la cartographie militaire, publie son « Report on the Survey of Canada ». Ce rapport fut commandé par le Gouvernement Canadien pour déterminer si les cartes topographiques existantes pouvaient être utilisées à des fins militaires. Le rapport de Hill était très critique des cartes existantes, et a recommandé la création d’une unité de levés dans l’armée canadienne.
 
 **1904:** La Division des levés de la Branche du service du renseignement de l’armée canadienne, Ministère de la Milice et de la Défense, est créée. Les opérations de levés commencent pour les premières cartes dans la série 1:63,360.
 
-**1906-1914:** Un accord entre l’Armée Canadienne et le British War Office permet aux topographes britanniques d’être « empruntés » pour la Division des levés de l’Armée Canadienne. Cet accord permet de remplir une grande partie des postes de la Division des levés. En conséquence, les premières cartes produites sont très similaires aux spécifications des données cartographiques du gouvernement britannique. 
+**1906-1914:** Un accord entre l’Armée Canadienne et le British War Office permet aux topographes britanniques d’être « empruntés » pour la Division des levés de l’Armée Canadienne. Cet accord permet de remplir une grande partie des postes de la Division des levés. En conséquence, les premières cartes produites sont très similaires aux spécifications des données cartographiques du gouvernement britannique.
 
 **1906:** Les premières cartes topographiques produites par la Division des levés sont publiées en Grande-Bretagne
 
-**1912:** Le Ministère de la Milice et de la Défense achète de l’équipement d’impression, permettant aux cartes Canadiennes d’être publiées au pays. 
+**1912:** Le Ministère de la Milice et de la Défense achète de l’équipement d’impression, permettant aux cartes Canadiennes d’être publiées au pays.
 
-**1906-1922:** Deux autres agences participent à la production cartographique : La Commission Géologique, le Ministère des Mines et le Bureau topographique et de repérage aérien, Ministère de l’intérieur. 
+**1906-1922:** Deux autres agences participent à la production cartographique : La Commission Géologique, le Ministère des Mines et le Bureau topographique et de repérage aérien, Ministère de l’intérieur.
 
-_Remarque_ : Le Ministère de l’intérieur participait rarement à la création de cartes dans la province de l’Ontario. 
+_Remarque_ : Le Ministère de l’intérieur participait rarement à la création de cartes dans la province de l’Ontario.
 
-**1922:** Le Conseil d’administration sur les levés et cartes topographiques est créé. L’objectif est de mettre en place des lignes directrices pour un ensemble de spécifications communes de cartes pouvant être utilisées par toutes les agences participatives. 
+**1922:** Le Conseil d’administration sur les levés et cartes topographiques est créé. L’objectif est de mettre en place des lignes directrices pour un ensemble de spécifications communes de cartes pouvant être utilisées par toutes les agences participatives.
 
 Les premières expériences, en utilisant des photographies aériennes comme outil topologique, ont été menées par l’Aviation royale canadienne (ARC).
 
-**1923:** Le système de numérotation de feuille pour les cartes est adopté (ceci devient le système de numérotation standard du Système national de référence cartographique (SNRC) en 1926). 
+**1923:** Le système de numérotation de feuille pour les cartes est adopté (ceci devient le système de numérotation standard du Système national de référence cartographique (SNRC) en 1926).
 
 Le Ministère de la Milice et de la Défense devient le Ministère de la Défense nationale. Toutes les agences acceptent de publier des cartes non quadrillées. Le Ministère de la Défense nationale se garde le droit d’ajouter du quadrillage aux feuilles, si nécessaire.
 
-**1924:** La Division des levés devient le Service de géographie, État-major général, Ministère de la Défense nationale. 
+**1924:** La Division des levés devient le Service de géographie, État-major général, Ministère de la Défense nationale.
 
-**1931:** La photographie aérienne est largement utilisée pour tous les nouveaux levés topographiques et nouvelles révisions. Toutes les photographies sont prises par l’ARC. 
+**1931:** La photographie aérienne est largement utilisée pour tous les nouveaux levés topographiques et nouvelles révisions. Toutes les photographies sont prises par l’ARC.
 
-**1936:** La Commission Géologique, Ministère des Mines, devient la Direction de la cartographie, Ministère de l’énergie, des Mines et des Ressources nationales. 
+**1936:** La Commission Géologique, Ministère des Mines, devient la Direction de la cartographie, Ministère de l’énergie, des Mines et des Ressources nationales.
 
 **1948:** Les organismes cartographiques du Canada, des États-Unis et du Royaume-Uni tiennent une réunion conjointe décidant qu’il est préférable de suivre les autres pays de l’OTAN et de passer de séries de cartes d’échelles pied-mile à une représentation de fractions (1:25,000, 1:50,000 et 1:250,000).
 
-**1949:** Le Canada décide de passer à une représentation de fractions. 
+**1949:** Le Canada décide de passer à une représentation de fractions.
 
 **1950:** La dernière carte est dessinée dans la série cartographique 1:63,360. L’impression continue jusqu’au début des années 1950. L’échelle 1:63,360 SNRC est changée à 1:50,000.
 
 **1954:** Les premières photographies aériennes sont prises en Ontario pour les nouvelles cartes topographiques 1:25,000.
 
-**1956:** Les premières cartes pour la série 1:25,000 sont publiées. Toutes les cartes sont recueillies et publiées sous la direction du Ministère de la Défense nationale. 
+**1956:** Les premières cartes pour la série 1:25,000 sont publiées. Toutes les cartes sont recueillies et publiées sous la direction du Ministère de la Défense nationale.
 
-**1960:** Les entreprises privées de levés topographiques sont engagées pour prendre des photographies aériennes. À partir de ce moment, l’ARC participe rarement aux levés topographiques. 
+**1960:** Les entreprises privées de levés topographiques sont engagées pour prendre des photographies aériennes. À partir de ce moment, l’ARC participe rarement aux levés topographiques.
 
-**1964:** Annulation de la publication séparée de feuilles (militaire) quadrillées et non quadrillées. Après cette date, toutes les feuilles publiées doivent utilisées un système de quadrillage UTM. 
+**1964:** Annulation de la publication séparée de feuilles (militaire) quadrillées et non quadrillées. Après cette date, toutes les feuilles publiées doivent utilisées un système de quadrillage UTM.
 
-**1974:** Les dernières photographies aériennes sont prises pour la série cartographique 1:25,000, et la dernière feuille révisée est publiée. L’impression continue jusqu’à la fin des années 1970. 
+**1974:** Les dernières photographies aériennes sont prises pour la série cartographique 1:25,000, et la dernière feuille révisée est publiée. L’impression continue jusqu’à la fin des années 1970.
 
 
 ## Légende des cartes – lettrage et signes conventionnels
 
-Les cartes d’origine dans la série 1:63,360 ont été imprimées en 5 couleurs : 
+Les cartes d’origine dans la série 1:63,360 ont été imprimées en 5 couleurs :
 
 * Noir: lettrage, détail culturel, quadrillage géographique
-* Rouge : Bâtiments en pierre et brique 
+* Rouge : Bâtiments en pierre et brique
 * Bleu : Caractéristiques des eaux
-* Marron : routes revêtues, contours, points d’altitude et points de référence 
+* Marron : routes revêtues, contours, points d’altitude et points de référence
 * Vert : Zones boisées
 
 
@@ -72,8 +71,7 @@ Les cartes d’origine dans la série 1:63,360 ont été imprimées en 5 couleur
 
 À partir de 1927, l’utilisation du rouge pour indiquer des bâtiments en pierre et brique s’est arrêtée. À partir de cette date, le rouge fut utilisé pour indiquer des routes revêtues. Toutes les autres couleurs sont restées similaires jusqu’à la fin de la série 1:25,000.
 
-Des renseignements détaillés sur le lettrage et les symboles utilisés dans l’élaboration de ces cartes sont disponibles dans les ressources ci-dessous. 
-
+Des renseignements détaillés sur le lettrage et les symboles utilisés dans l’élaboration de ces cartes sont disponibles dans les ressources ci-dessous.
 
 ## Renseignements supplémentaires
 

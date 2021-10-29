@@ -3,11 +3,11 @@ date = "2017-03-30"
 title = "Collection Highlights"
 +++
 
-Topographic maps can provide historical snapshots that allow you to explore changes to an area over time.  Check out the examples below to see how these maps can be used to visualize transforming landscapes, urban areas, and waterways in Ontario. 
+Topographic maps can provide historical snapshots that allow you to explore changes to an area over time.  Check out the examples below to see how these maps can be used to visualize transforming landscapes, urban areas, and waterways in Ontario.
 
 Old maps are cool! If you are using these maps in an interesting way, we would love to hear from you. Please [contact us](../contact/) and let us know how you are using these maps in your own projects.  
 
-## The Port Lands of Toronto 
+## The Port Lands of Toronto
 
 (areas forming the Don River Delta and Ashbridge’s Bay)
 
@@ -65,7 +65,8 @@ Old maps are cool! If you are using these maps in an interesting way, we would l
 - [Ridgetown, Ontario. 1:63,360. Map Sheet 040I05, [ed. 3], gridded, 1941](http://geo.scholarsportal.info/#r/details/_uri@=HTDP63360K040I05_1941_MBTIFF&_add:true)
 
 ### More information
-Rondeau Provincial Park, created in 1894 and located on a sand spit extending into Lake Erie, is the second oldest provincial park in Ontario. The name of the park comes from the French words “ronde eau” or “round water” which describes the shape of the harbour sheltered by the peninsula. Rondeau is home to the largest area of Carolinian forest in Canada, and is an important stopover for birds during migration. 
+
+Rondeau Provincial Park, created in 1894 and located on a sand spit extending into Lake Erie, is the second oldest provincial park in Ontario. The name of the park comes from the French words “ronde eau” or “round water” which describes the shape of the harbour sheltered by the peninsula. Rondeau is home to the largest area of Carolinian forest in Canada, and is an important stopover for birds during migration.
 
 - [Rondeau Provincial Park, Ontario Parks](https://www.ontarioparks.com/park/rondeau)
 
