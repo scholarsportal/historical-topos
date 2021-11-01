@@ -8,7 +8,7 @@ id = "031D05_1928"
 weight = 2
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Barrie, région de l’Ontario (feuille No. 105), publiée en 1928. C’est la première édition d’une série de six cartes publiées entre 1928 et 1950. Il s’agit de l’une des premières cartes créées en utilisant l’imagerie aérienne comme outil topographique.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de Barrie, région de l’Ontario (feuille No. 105), publiée en 1928. C’est la première édition d’une série de six cartes publiées entre 1928 et 1950. Il s’agit de l’une des premières cartes créées en utilisant l’imagerie aérienne comme outil topographique.
 
 <!--more-->
 

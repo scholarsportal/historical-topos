@@ -8,7 +8,7 @@ id = "031G05g_1971"
 weight = 13
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier d’Ottawa, région de l’Ontario (feuille No. 031G05G), publiée en 1971. C’est la troisième édition d’une série de trois cartes publiées entre 1961 et 1971. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par Canadian Design Services.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier d’Ottawa, région de l’Ontario (feuille No. 031G05G), publiée en 1971. C’est la troisième édition d’une série de trois cartes publiées entre 1961 et 1971. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par Canadian Design Services.
 
 <!--more-->
 

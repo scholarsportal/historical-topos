@@ -8,7 +8,7 @@ id = "031F11_1937"
 weight = 3
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Golden Lake, région de l’Ontario (feuille No. 031F11), publiée en 1937. C’est la première et la seule édition de cette carte.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de Golden Lake, région de l’Ontario (feuille No. 031F11), publiée en 1937. C’est la première et la seule édition de cette carte.
 
 <!--more-->
 

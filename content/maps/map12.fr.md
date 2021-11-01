@@ -8,7 +8,7 @@ id = "031C08f_1972"
 weight = 12
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Dog Lake, région de l’Ontario (feuille No. 031C08F), publiée en 1972. C’est la deuxième édition d’une série de deux cartes publiées entre 1960 et 1972.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de Dog Lake, région de l’Ontario (feuille No. 031C08F), publiée en 1972. C’est la deuxième édition d’une série de deux cartes publiées entre 1960 et 1972.
 
 <!--more-->
 

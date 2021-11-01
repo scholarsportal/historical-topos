@@ -8,7 +8,7 @@ id = "031G05-G12_1939"
 weight = 4
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier du district Ottawa-Gatineau, région de l’Ontario (feuille No. 031G05-G12), publiée en 1939. C’est la deuxième édition d’une série de cartes publiées entre 1931 et 1953. Contrairement à la plupart des autres cartes dans la série 1:63,360, cette carte ne couvre pas un pavé cartographique unique, mais se trouve plutôt au milieu de deux pavés séparés.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier du district Ottawa-Gatineau, région de l’Ontario (feuille No. 031G05-G12), publiée en 1939. C’est la deuxième édition d’une série de cartes publiées entre 1931 et 1953. Contrairement à la plupart des autres cartes dans la série 1:63,360, cette carte ne couvre pas un pavé cartographique unique, mais se trouve plutôt au milieu de deux pavés séparés.
 
 <!--more-->
 

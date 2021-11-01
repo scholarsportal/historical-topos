@@ -8,7 +8,7 @@ id = "041H03-H04_1946"
 weight = 7
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Tobermory, région de l’Ontario (feuille No. 041H03-H04), publiée en 1946. C’est la première et la seule édition de cette carte.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de Tobermory, région de l’Ontario (feuille No. 041H03-H04), publiée en 1946. C’est la première et la seule édition de cette carte.
 
 <!--more-->
 

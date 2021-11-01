@@ -8,7 +8,7 @@ id = "031C01-C02-C07-C08_1940"
 weight = 6
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Kingston, région de l’Ontario (feuille No. 031C01-C02-C07-C08), publiée en 1940. C’est la première et la seule édition de cette carte. Contrairement à la plupart des autres cartes dans la série 1:63,360, cette carte ne couvre pas un pavé cartographique unique, mais se trouve plutôt au milieu de quatre pavés séparés.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de Kingston, région de l’Ontario (feuille No. 031C01-C02-C07-C08), publiée en 1940. C’est la première et la seule édition de cette carte. Contrairement à la plupart des autres cartes dans la série 1:63,360, cette carte ne couvre pas un pavé cartographique unique, mais se trouve plutôt au milieu de quatre pavés séparés.
 
 <!--more-->
 

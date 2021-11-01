@@ -8,7 +8,7 @@ id = "030M03a_1963"
 weight = 9
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier des Chutes du Niagara, région de l’Ontario (feuille No. 030M03A), publiée en 1963. C’est la deuxième édition d’une série de trois cartes publiées entre 1962 et 1973. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par Canadian Design Service.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier des Chutes du Niagara, région de l’Ontario (feuille No. 030M03A), publiée en 1963. C’est la deuxième édition d’une série de trois cartes publiées entre 1962 et 1973. Elle est assez inhabituelle car elle couvre une partie des États-Unis d’Amérique. Dans la plupart de ces cas, les renseignements ont été obtenus à partir d’une série cartographique américaine, avant d’être utilisés par Canadian Design Service.
 
 <!--more-->
 

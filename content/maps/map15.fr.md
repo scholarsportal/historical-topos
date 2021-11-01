@@ -8,7 +8,7 @@ id = "041I07e_1977"
 weight = 15
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de North Bay, région de l’Ontario (feuille No. 041I07E), publiée en 1977. C’est la deuxième édition d’une série de deux cartes publiées entre 1965 et 1977.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de North Bay, région de l’Ontario (feuille No. 041I07E), publiée en 1977. C’est la deuxième édition d’une série de deux cartes publiées entre 1965 et 1977.
 
 <!--more-->
 

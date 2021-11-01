@@ -8,8 +8,8 @@
           {{ .Content }}
             {{ if isset .Params "fullimage" }}
             {{ $url := .Site.BaseURL }}
-              <p><em>Hover over the map with your cursor to magnify an area, and scroll to zoom in and out</em></p>
-              <img id="{{ .Params.id }}" src="{{ $url }}{{ .Params.fullimage }}" class="img-responsive full-map" data-zoom-image="{{ $url }}{{ .Params.fullimage }}">
+              <p id="hover-map"><em>{{ i18n "hoverMap" }}</em></p>
+              <img id="{{ .Params.id }}" src="{{ $url }}{{ .Params.fullimage }}" class="img-responsive full-map" data-zoom-image="{{ $url }}{{ .Params.fullimage }}" alt="">
               <script>
 
                 $("#{{ .Params.id }}").ezPlus({

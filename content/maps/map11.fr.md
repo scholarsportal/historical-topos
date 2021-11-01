@@ -8,7 +8,7 @@ id = "030M11e_1974"
 weight = 11
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de l’Ouest de Toronto, région de l’Ontario (feuille No. 030M11E), publiée en 1974. C’est la troisième édition d’une série de trois cartes publiées entre 1961 et 1974. Elle est assez inhabituelle carte elle fut agrandie pour inclure une zone extérieure de la grille d’index, les Îles de Toronto.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de l’Ouest de Toronto, région de l’Ontario (feuille No. 030M11E), publiée en 1974. C’est la troisième édition d’une série de trois cartes publiées entre 1961 et 1974. Elle est assez inhabituelle carte elle fut agrandie pour inclure une zone extérieure de la grille d’index, les Îles de Toronto.
 
 <!--more-->
 

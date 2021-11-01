@@ -8,7 +8,7 @@ id = "031B12g_1968"
 weight = 10
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier d’Algonquin, région de l’Ontario (feuille No. 031B12G), publiée en 1968. C’est la première édition d’une série de deux cartes publiées entre 1968 et 1977. Contrairement à la plupart des autres cartes de la série 1:25,000, celle-ci n’est pas une zone peuplée.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier d’Algonquin, région de l’Ontario (feuille No. 031B12G), publiée en 1968. C’est la première édition d’une série de deux cartes publiées entre 1968 et 1977. Contrairement à la plupart des autres cartes de la série 1:25,000, celle-ci n’est pas une zone peuplée.
 
 <!--more-->
 

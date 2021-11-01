@@ -8,7 +8,7 @@ id = "031C02_1916"
 weight = 1
 +++
 
-Il s’agit d’une image tramée géoréférencée d’une carte imprimée sur papier de Bath, région de l’Ontario (feuille No. 63), publiée en 1916. C’est la première édition d’une série de quatre cartes publiées entre 1916 et 1939.
+Ceci est une image tramée géoréférencée d’une carte imprimée sur papier de Bath, région de l’Ontario (feuille No. 63), publiée en 1916. C’est la première édition d’une série de quatre cartes publiées entre 1916 et 1939.
 
 <!--more-->
 
